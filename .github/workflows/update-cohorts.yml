@@ -1,0 +1,41 @@
+name: Update cohorts.json
+
+on:
+  schedule:
+    # Every day at 12:00 UTC = 09:00 America/Argentina/Buenos_Aires
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build cohorts.json
+        env:
+          BACKOFFICE_API_URL: ${{ secrets.BACKOFFICE_API_URL }}
+          CLAUDE_STUDENT_API_KEY: ${{ secrets.CLAUDE_STUDENT_API_KEY }}
+          CLAUDE_FINANCE_API_KEY: ${{ secrets.CLAUDE_FINANCE_API_KEY }}
+          DAYS_AHEAD: '60'
+        run: python scripts/build_cohorts.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain cohorts.json)" ]]; then
+            git add cohorts.json
+            git commit -m "chore: refresh cohorts.json [$(date -u +%Y-%m-%dT%H:%MZ)]"
+            git push
+            echo "Committed updated cohorts.json"
+          else
+            echo "No changes to cohorts.json"
+          fi
