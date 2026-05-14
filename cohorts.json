@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T21:51:14+00:00",
-  "total": 108,
+  "generated_at": "2026-05-14T13:52:58+00:00",
+  "total": 110,
   "cohorts": [
     {
       "id": "5d8daaf3-ebc4-4679-baac-06fdf8d46bab",
@@ -97,6 +97,17 @@
       "start": "04/06/2026",
       "end": "07/08/2026",
       "cid": "92855",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "aff698d0-a3a9-46bb-be41-0f0bf29f016e",
+      "title": "Introducción a la Inteligencia Artificial",
+      "schedule": "Lun — 20:30 ART",
+      "start": "08/06/2026",
+      "end": "14/07/2026",
+      "cid": "103060",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1186,6 +1197,17 @@
       "start": "11/07/2026",
       "end": "01/08/2026",
       "cid": "90435",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d6598180-4da0-4d1c-9a1a-83791d3b8ac5",
+      "title": "JavaScript Flex",
+      "schedule": "Lun — 10:00 ART",
+      "start": "13/07/2026",
+      "end": "28/09/2026",
+      "cid": "95075",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
