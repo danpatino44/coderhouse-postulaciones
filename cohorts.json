@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T13:52:58+00:00",
-  "total": 110,
+  "generated_at": "2026-05-15T13:49:38+00:00",
+  "total": 82,
   "cohorts": [
     {
       "id": "5d8daaf3-ebc4-4679-baac-06fdf8d46bab",
@@ -9,17 +9,6 @@
       "start": "27/05/2026",
       "end": "15/07/2026",
       "cid": "103055",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "5c6672b5-a3fc-406c-8425-e321a770ccf2",
-      "title": "AI Automation Avanzado",
-      "schedule": "Lun y Mié — 20:30 ART",
-      "start": "01/06/2026",
-      "end": "07/07/2026",
-      "cid": "97475",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -80,28 +69,6 @@
       "active": true
     },
     {
-      "id": "96a13cc8-f09a-4d02-9b70-b6752977d2f7",
-      "title": "Data Analytics",
-      "schedule": "Mié — 20:30 ART",
-      "start": "03/06/2026",
-      "end": "13/08/2026",
-      "cid": "101725",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "40995cfe-fb7e-4561-af4f-001705e8ab2e",
-      "title": "Publicidad en Redes Avanzado Flex",
-      "schedule": "Jue — 19:00 ART",
-      "start": "04/06/2026",
-      "end": "07/08/2026",
-      "cid": "92855",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "aff698d0-a3a9-46bb-be41-0f0bf29f016e",
       "title": "Introducción a la Inteligencia Artificial",
       "schedule": "Lun — 20:30 ART",
@@ -141,50 +108,6 @@
       "start": "08/06/2026",
       "end": "28/07/2026",
       "cid": "101730",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ec2367b4-bd89-41fb-94d8-8f84279c83ae",
-      "title": "Tableau Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "08/06/2026",
-      "end": "14/07/2026",
-      "cid": "93905",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "65abf030-0e2b-4ba1-ac56-1e77d5bc0b25",
-      "title": "Publicidad en Redes Avanzado Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "08/06/2026",
-      "end": "04/08/2026",
-      "cid": "92860",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e9a3a1da-9616-4a4d-ba22-495c56df1570",
-      "title": "Introducción a la Inteligencia Artificial",
-      "schedule": "Lun — 20:30 ART",
-      "start": "08/06/2026",
-      "end": "14/07/2026",
-      "cid": "92035",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "8f9608df-dedd-458f-a651-391a8f1da08e",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "08/06/2026",
-      "end": "28/07/2026",
-      "cid": "77045",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -256,45 +179,12 @@
       "active": true
     },
     {
-      "id": "d96fae51-89d5-412b-9684-5f112955fbcc",
-      "title": "Product Manager Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "09/06/2026",
-      "end": "29/07/2026",
-      "cid": "101850",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "f89cfd60-8884-4d46-a06b-dde611ab07d5",
       "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
       "schedule": "Mar — 19:00 ART",
       "start": "09/06/2026",
       "end": "01/07/2026",
       "cid": "95430",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "7bcb8ec0-ec58-488b-83ef-aa4271102380",
-      "title": "Data Science II: Machine Learning para la Ciencia de Datos Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "09/06/2026",
-      "end": "23/09/2026",
-      "cid": "95405",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "467dc100-dca8-4b34-b1da-37d5ad9b9dda",
-      "title": "Excel",
-      "schedule": "Mar — 19:00 ART",
-      "start": "09/06/2026",
-      "end": "05/08/2026",
-      "cid": "91845",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -317,28 +207,6 @@
       "start": "10/06/2026",
       "end": "27/08/2026",
       "cid": "91650",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "38f3b86c-258c-414a-9f8c-8bf3181d09e1",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
-      "schedule": "Mié — 10:00 ART",
-      "start": "10/06/2026",
-      "end": "05/08/2026",
-      "cid": "90345",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "3d5f1c88-b690-49b3-a7ba-18d85f4cee43",
-      "title": "AI Automation",
-      "schedule": "Lun y Mié — 20:30 ART",
-      "start": "15/06/2026",
-      "end": "03/08/2026",
-      "cid": "102065",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -377,28 +245,6 @@
       "active": true
     },
     {
-      "id": "06d54716-5371-4b59-a41d-0dc668fba8ea",
-      "title": "Publicidad en Redes Avanzado Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "16/06/2026",
-      "end": "12/08/2026",
-      "cid": "92865",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "0f3d3267-86c2-422a-b1b1-4a932feab380",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "16/06/2026",
-      "end": "19/08/2026",
-      "cid": "92685",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "6eb25523-b192-4053-9855-3903f97bb4f4",
       "title": "Curso de AI Agents",
       "schedule": "Mié — 20:30 ART",
@@ -416,83 +262,6 @@
       "start": "17/06/2026",
       "end": "06/08/2026",
       "cid": "93435",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "db47f0ce-e027-49d2-98e7-02148401d6bf",
-      "title": "JavaScript Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "17/06/2026",
-      "end": "27/08/2026",
-      "cid": "92420",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9ac2e93d-ae7c-460c-ba85-a9d459eb1771",
-      "title": "AI Automation Avanzado",
-      "schedule": "Jue y Mar — 19:00 ART",
-      "start": "18/06/2026",
-      "end": "24/07/2026",
-      "cid": "97300",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "275ab6a2-7a4f-45b3-9f83-015570255a64",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
-      "schedule": "Jue — 10:00 ART",
-      "start": "18/06/2026",
-      "end": "27/08/2026",
-      "cid": "94990",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "c370f565-ab83-4569-b784-93234120333d",
-      "title": "Oratoria Flex",
-      "schedule": "Jue — 19:00 ART",
-      "start": "18/06/2026",
-      "end": "03/07/2026",
-      "cid": "93005",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "f83b9bc4-7252-48ff-a3a2-02e43601be2b",
-      "title": "Programación Backend (III): Testing y Escalabilidad Flex",
-      "schedule": "Jue — 10:00 ART",
-      "start": "18/06/2026",
-      "end": "06/08/2026",
-      "cid": "85760",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "63bf3425-80ef-4e34-b956-3f63caed8475",
-      "title": "Product Manager Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "22/06/2026",
-      "end": "11/08/2026",
-      "cid": "101855",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "2048888f-bf83-461b-8a98-a0cf6707a5bc",
-      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "22/06/2026",
-      "end": "25/08/2026",
-      "cid": "95335",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -531,28 +300,6 @@
       "active": true
     },
     {
-      "id": "92793809-ccfd-4fc3-90e1-c4c8ec302284",
-      "title": "Growth Marketing Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "23/06/2026",
-      "end": "19/08/2026",
-      "cid": "92205",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9ffa6d83-5724-48db-9048-9c3544366b15",
-      "title": "Copywriting Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "23/06/2026",
-      "end": "02/09/2026",
-      "cid": "91135",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "4103f9ce-164b-46fa-942c-d97094d0af3b",
       "title": "Product Manager Flex",
       "schedule": "Mié — 20:30 ART",
@@ -564,122 +311,12 @@
       "active": true
     },
     {
-      "id": "fddb3bcb-95a3-427a-aeda-528112b5df3c",
-      "title": "Publicidad en Redes Avanzado Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "24/06/2026",
-      "end": "20/08/2026",
-      "cid": "92870",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "44a9baaf-f39e-492c-885c-5c429ce0dfc9",
       "title": "Marketing Digital: Community Manager & Publicidad Flex",
       "schedule": "Mié — 20:30 ART",
       "start": "24/06/2026",
       "end": "27/08/2026",
       "cid": "92690",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4f9e766d-5429-4637-9192-087a4b979068",
-      "title": "Desarrollo Web Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "24/06/2026",
-      "end": "27/08/2026",
-      "cid": "91300",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "175e82bb-1f18-43ad-89dc-3173c37bcafb",
-      "title": "JavaScript Flex",
-      "schedule": "Jue — 19:00 ART",
-      "start": "25/06/2026",
-      "end": "11/09/2026",
-      "cid": "92425",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1c2a292f-f769-4a1b-9239-f65f819e40c2",
-      "title": "Programación Backend (III): Testing y Escalabilidad Flex",
-      "schedule": "Sáb — 11:30 ART",
-      "start": "27/06/2026",
-      "end": "08/08/2026",
-      "cid": "96790",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "c43d8730-6bcd-4d3a-ba9c-a2e947610049",
-      "title": "Programación Backend (III): Testing y Escalabilidad Flex",
-      "schedule": "Sáb — 11:30 ART",
-      "start": "27/06/2026",
-      "end": "08/08/2026",
-      "cid": "96785",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e2328b36-923b-46b8-b981-199225996b0d",
-      "title": "Programación Backend I: Desarrollo Avanzado de Backend Flex",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "27/06/2026",
-      "end": "15/08/2026",
-      "cid": "94905",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4b5d86d6-31e8-4f98-8209-86cc4e950aee",
-      "title": "Desarrollo Web Flex",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "27/06/2026",
-      "end": "19/09/2026",
-      "cid": "94780",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4ef8b294-8686-4317-98d4-2807ec8f4e72",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "27/06/2026",
-      "end": "12/09/2026",
-      "cid": "94690",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "c117c2a1-513a-4a6d-adc5-94d620651196",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "27/06/2026",
-      "end": "29/08/2026",
-      "cid": "94665",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "fbe25da5-b973-4339-9461-528d81d6205b",
-      "title": "Programación Backend (III): Testing y Escalabilidad Flex",
-      "schedule": "Sáb — 11:30 ART",
-      "start": "27/06/2026",
-      "end": "08/08/2026",
-      "cid": "85745",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1202,12 +839,67 @@
       "active": true
     },
     {
+      "id": "86dcdbd6-4f80-466f-9383-090ced4f6396",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "13/07/2026",
+      "end": "22/09/2026",
+      "cid": "95340",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "d6598180-4da0-4d1c-9a1a-83791d3b8ac5",
       "title": "JavaScript Flex",
       "schedule": "Lun — 10:00 ART",
       "start": "13/07/2026",
       "end": "28/09/2026",
       "cid": "95075",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b2fdd805-2bd5-4ea2-a70e-cce78e827094",
+      "title": "Testing QA Manual Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "13/07/2026",
+      "end": "01/09/2026",
+      "cid": "93685",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e11e9a87-02df-48ec-b3c3-4641b98ac56b",
+      "title": "Product Manager Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "13/07/2026",
+      "end": "08/09/2026",
+      "cid": "93165",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8e0319d8-0e5e-4e8e-ad80-0d2c1ac6151b",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "13/07/2026",
+      "end": "22/09/2026",
+      "cid": "92700",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4255206f-eccd-4427-aadd-48a04826c0aa",
+      "title": "Introducción a la Inteligencia Artificial",
+      "schedule": "Lun — 20:30 ART",
+      "start": "13/07/2026",
+      "end": "25/08/2026",
+      "cid": "92040",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
