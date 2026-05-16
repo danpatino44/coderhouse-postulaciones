@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T13:49:38+00:00",
-  "total": 82,
+  "generated_at": "2026-05-16T13:06:46+00:00",
+  "total": 88,
   "cohorts": [
     {
       "id": "5d8daaf3-ebc4-4679-baac-06fdf8d46bab",
@@ -174,17 +174,6 @@
       "start": "09/06/2026",
       "end": "25/06/2026",
       "cid": "101890",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "f89cfd60-8884-4d46-a06b-dde611ab07d5",
-      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "09/06/2026",
-      "end": "01/07/2026",
-      "cid": "95430",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -900,6 +889,83 @@
       "start": "13/07/2026",
       "end": "25/08/2026",
       "cid": "92040",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d7252eff-ea1b-44ec-91c7-20fea21ea83c",
+      "title": "Programación Backend (III): Testing y Escalabilidad Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "14/07/2026",
+      "end": "02/09/2026",
+      "cid": "101965",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f284b52f-343f-4b86-8d5c-024e0db741dd",
+      "title": "React JS",
+      "schedule": "Mar — 19:00 ART",
+      "start": "14/07/2026",
+      "end": "09/09/2026",
+      "cid": "93450",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6ffa726d-0e12-49f7-a960-c035df669ddd",
+      "title": "JavaScript Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "14/07/2026",
+      "end": "23/09/2026",
+      "cid": "92445",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f198257f-163d-4fcd-b850-03ebe6d15fba",
+      "title": "Excel",
+      "schedule": "Mar — 19:00 ART",
+      "start": "14/07/2026",
+      "end": "09/09/2026",
+      "cid": "91865",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c520b5cc-e4d7-416e-804a-5d2fa34a5326",
+      "title": "Desarrollo Web Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "14/07/2026",
+      "end": "16/09/2026",
+      "cid": "91310",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "710283cd-7345-42fb-a0b0-5dcfb2bcfd13",
+      "title": "Programación Backend (III): Testing y Escalabilidad Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "14/07/2026",
+      "end": "02/09/2026",
+      "cid": "77395",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ec88df17-3b4c-499b-a579-4d6dcad9e5b2",
+      "title": "Publicidad en Redes Avanzado Flex",
+      "schedule": "Mié — 10:00 ART",
+      "start": "15/07/2026",
+      "end": "09/09/2026",
+      "cid": "95115",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
