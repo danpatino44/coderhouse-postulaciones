@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T13:06:46+00:00",
-  "total": 88,
+  "generated_at": "2026-05-17T13:04:07+00:00",
+  "total": 95,
   "cohorts": [
     {
       "id": "5d8daaf3-ebc4-4679-baac-06fdf8d46bab",
@@ -960,12 +960,89 @@
       "active": true
     },
     {
+      "id": "43e4db05-ba0e-4103-9ff4-f3856653bfcf",
+      "title": "Tableau Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "15/07/2026",
+      "end": "20/08/2026",
+      "cid": "102205",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "ec88df17-3b4c-499b-a579-4d6dcad9e5b2",
       "title": "Publicidad en Redes Avanzado Flex",
       "schedule": "Mié — 10:00 ART",
       "start": "15/07/2026",
       "end": "09/09/2026",
       "cid": "95115",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a41ca097-e9d2-4bcf-949f-b9623aee6b17",
+      "title": "Tableau Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "15/07/2026",
+      "end": "20/08/2026",
+      "cid": "93920",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6d591f49-44d3-4bbc-8ef3-4f582f9182aa",
+      "title": "E-commerce Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "15/07/2026",
+      "end": "17/09/2026",
+      "cid": "91770",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0beccc5f-f2d7-40c1-9a65-e174dc1c33ac",
+      "title": "Desarrollo de Aplicaciones Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "15/07/2026",
+      "end": "10/09/2026",
+      "cid": "91230",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1123154c-a4b0-470e-be00-7fb8db2dc0dd",
+      "title": "Customer Experience (CX) Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "15/07/2026",
+      "end": "03/09/2026",
+      "cid": "91185",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b0d0b70c-b88d-44d4-89b3-3a1be610d5fa",
+      "title": "Business Analytics Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "15/07/2026",
+      "end": "10/09/2026",
+      "cid": "90780",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4d870d7e-0db9-41ec-be65-12ea49a30585",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Jue — 10:00 ART",
+      "start": "16/07/2026",
+      "end": "17/09/2026",
+      "cid": "94995",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
