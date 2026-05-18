@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T13:04:07+00:00",
-  "total": 95,
+  "generated_at": "2026-05-18T14:58:38+00:00",
+  "total": 105,
   "cohorts": [
     {
       "id": "5d8daaf3-ebc4-4679-baac-06fdf8d46bab",
@@ -20,17 +20,6 @@
       "start": "02/06/2026",
       "end": "16/06/2026",
       "cid": "102075",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9d49bf3f-6486-4abf-95ba-297b1c2b3788",
-      "title": "Photoshop e Illustrator (Diplomatura)",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "02/06/2026",
-      "end": "14/07/2026",
-      "cid": "101870",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -152,28 +141,6 @@
       "start": "09/06/2026",
       "end": "01/07/2026",
       "cid": "101960",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "b769d180-cd76-4c30-a8af-64ca46e077d2",
-      "title": "Introducción a la Inteligencia Artificial (Diplomaturas)",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "09/06/2026",
-      "end": "25/06/2026",
-      "cid": "101895",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e0b4ac85-4788-4116-a034-9cfd55e40565",
-      "title": "Introducción a la Inteligencia Artificial (Diplomaturas)",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "09/06/2026",
-      "end": "25/06/2026",
-      "cid": "101890",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1037,12 +1004,155 @@
       "active": true
     },
     {
+      "id": "becd5b74-77e9-49ac-8b61-ed628ff5e8e2",
+      "title": "Curso de AI Agents",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "20/08/2026",
+      "cid": "50",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "4d870d7e-0db9-41ec-be65-12ea49a30585",
       "title": "Marketing Digital: Community Manager & Publicidad Flex",
       "schedule": "Jue — 10:00 ART",
       "start": "16/07/2026",
       "end": "17/09/2026",
       "cid": "94995",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2c790584-5d9a-4f81-a59f-533d81bc7c36",
+      "title": "UX Writing",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "04/09/2026",
+      "cid": "93805",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8ec9a6b0-7023-4706-8f2f-d561fef0a5cc",
+      "title": "SQL Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "02/10/2026",
+      "cid": "93625",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5a81fc13-9d53-4f31-ac72-952051bbeb16",
+      "title": "Oratoria Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "31/07/2026",
+      "cid": "93010",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e3d63649-3be4-4a2e-b9ad-5288ea778326",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "21/08/2026",
+      "cid": "92555",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "918f9db9-6960-4684-bbab-48b36004ba60",
+      "title": "Growth Marketing Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "18/09/2026",
+      "cid": "92215",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "70a9a0ff-0059-411d-961f-261e28387163",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "25/09/2026",
+      "cid": "91665",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ff9a3260-958f-424a-a141-0102b6a8ff95",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "09/10/2026",
+      "cid": "91505",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "071edd0f-7155-47ed-a25f-fe21c58a40a2",
+      "title": "Data Analytics",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "18/09/2026",
+      "cid": "91025",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "74996282-b6f5-4fd7-82ff-b8a629647bff",
+      "title": "Metodologias agiles (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "17/07/2026",
+      "end": "04/09/2026",
+      "cid": "102535",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2b22e46c-de52-4a82-bdf7-39006130a49e",
+      "title": "Metodologias agiles (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "17/07/2026",
+      "end": "04/09/2026",
+      "cid": "102475",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8bd89610-fc63-476f-967e-4b5980df3eec",
+      "title": "AI automation (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "17/07/2026",
+      "end": "16/10/2026",
+      "cid": "102385",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "65ebcdf4-3d41-49d6-b29c-d86d36e67829",
+      "title": "AI automation (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "17/07/2026",
+      "end": "16/10/2026",
+      "cid": "102265",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
