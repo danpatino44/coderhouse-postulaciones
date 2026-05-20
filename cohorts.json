@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-19T14:44:21+00:00",
-  "total": 103,
+  "generated_at": "2026-05-20T14:45:46+00:00",
+  "total": 97,
   "cohorts": [
-    {
-      "id": "5d8daaf3-ebc4-4679-baac-06fdf8d46bab",
-      "title": "AI Automation",
-      "schedule": "Lun y Mié — 20:30 ART",
-      "start": "27/05/2026",
-      "end": "15/07/2026",
-      "cid": "103055",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "15fb0b26-34fc-4bdc-9a1d-1733f9b9319f",
       "title": "DevOps & Cloud",
@@ -20,17 +9,6 @@
       "start": "02/06/2026",
       "end": "16/06/2026",
       "cid": "102075",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9c327162-1c74-49d5-a9a0-92172533271e",
-      "title": "Administración de empresas",
-      "schedule": "Mar — 19:00 ART",
-      "start": "02/06/2026",
-      "end": "01/07/2026",
-      "cid": "90730",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -69,17 +47,6 @@
       "active": true
     },
     {
-      "id": "6722efc3-5e32-47f7-abba-9cd3d5ebcf90",
-      "title": "SEO Para AI",
-      "schedule": "Lun — 20:30 ART",
-      "start": "08/06/2026",
-      "end": "13/07/2026",
-      "cid": "103030",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "0f21a888-2c2f-4157-8212-6a6ee8b39e1b",
       "title": "Programación Backend I: Desarrollo Avanzado de Backend Flex",
       "schedule": "Lun — 20:30 ART",
@@ -102,17 +69,6 @@
       "active": true
     },
     {
-      "id": "d7bf8bb5-95be-4f39-8be5-cb96d9d4e804",
-      "title": "Data Science II: Machine Learning para la Ciencia de Datos Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "09/06/2026",
-      "end": "23/09/2026",
-      "cid": "102195",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
       "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
       "schedule": "Mar — 19:00 ART",
@@ -124,12 +80,12 @@
       "active": true
     },
     {
-      "id": "3450e813-eb1a-4d4e-addc-cec1a6a34081",
-      "title": "Growth Marketing Flex",
+      "id": "db94e04b-92bd-4a78-870a-e024f244b084",
+      "title": "Liderazgo y gestión de equipos",
       "schedule": "Mié — 20:30 ART",
       "start": "10/06/2026",
-      "end": "20/08/2026",
-      "cid": "92335",
+      "end": "23/07/2026",
+      "cid": "92545",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -141,17 +97,6 @@
       "start": "16/06/2026",
       "end": "04/08/2026",
       "cid": "103040",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6eb25523-b192-4053-9855-3903f97bb4f4",
-      "title": "Curso de AI Agents",
-      "schedule": "Mié — 20:30 ART",
-      "start": "17/06/2026",
-      "end": "22/07/2026",
-      "cid": "49",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -174,17 +119,6 @@
       "start": "23/06/2026",
       "end": "18/08/2026",
       "cid": "102010",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4103f9ce-164b-46fa-942c-d97094d0af3b",
-      "title": "Product Manager Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "24/06/2026",
-      "end": "13/08/2026",
-      "cid": "101860",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
