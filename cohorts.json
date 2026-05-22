@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T14:49:27+00:00",
-  "total": 89,
+  "generated_at": "2026-05-22T14:24:11+00:00",
+  "total": 96,
   "cohorts": [
     {
       "id": "15fb0b26-34fc-4bdc-9a1d-1733f9b9319f",
@@ -355,17 +355,6 @@
       "active": true
     },
     {
-      "id": "27dc94f4-dd7e-410d-b53c-872bdc058678",
-      "title": "Fundamentos del Diseño Gráfico Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "07/07/2026",
-      "end": "19/08/2026",
-      "cid": "92085",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "10d77f6a-0a7f-4410-bdad-fed6ce7e2b03",
       "title": "Fotografía para RRSS Flex",
       "schedule": "Mar — 19:00 ART",
@@ -570,17 +559,6 @@
       "start": "13/07/2026",
       "end": "01/09/2026",
       "cid": "93685",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e11e9a87-02df-48ec-b3c3-4641b98ac56b",
-      "title": "Product Manager Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "13/07/2026",
-      "end": "08/09/2026",
-      "cid": "93165",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -971,12 +949,111 @@
       "active": true
     },
     {
+      "id": "7ee6c940-77e5-4761-80e6-775fcf065a70",
+      "title": "Diseño UX/UI Avanzado (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "20/07/2026",
+      "end": "23/09/2026",
+      "cid": "102495",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "b4f504c4-23c2-49ff-b511-56596ed2e66b",
       "title": "Diseño UX/UI Avanzado (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
       "start": "20/07/2026",
       "end": "23/09/2026",
       "cid": "102465",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "dcf4917c-9870-402f-b567-21ba80d5fe5a",
+      "title": "AI Automation",
+      "schedule": "Lun y Mié — 20:30 ART",
+      "start": "20/07/2026",
+      "end": "08/09/2026",
+      "cid": "96920",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0e0c70e9-42c2-4585-919a-fca51154712e",
+      "title": "Photoshop e Illustrator Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "20/07/2026",
+      "end": "08/09/2026",
+      "cid": "94100",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d82adc38-27ce-4083-8bb3-210fdba25113",
+      "title": "UX Research Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "20/07/2026",
+      "end": "15/09/2026",
+      "cid": "94010",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1ab29b31-c290-4a8d-9768-22d074686f5f",
+      "title": "Prototipado (Figma y Adobe XD) Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "20/07/2026",
+      "end": "22/09/2026",
+      "cid": "93265",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "43446957-ea33-4bd1-a1ab-6bc18964aaf1",
+      "title": "Growth Marketing Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "20/07/2026",
+      "end": "29/09/2026",
+      "cid": "92220",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6df44f91-ec12-4426-bad8-ceba05a43302",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Lun — 20:30 ART",
+      "start": "20/07/2026",
+      "end": "06/10/2026",
+      "cid": "91670",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6b32f378-d84b-4f33-bdd3-96387c7965b8",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "20/07/2026",
+      "end": "27/10/2026",
+      "cid": "91510",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "eb63fda8-bc47-4113-802c-94262d73e572",
+      "title": "Ciberseguridad Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "20/07/2026",
+      "end": "22/09/2026",
+      "cid": "90870",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
