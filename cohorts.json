@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-22T14:24:11+00:00",
-  "total": 96,
+  "generated_at": "2026-05-23T13:08:44+00:00",
+  "total": 101,
   "cohorts": [
-    {
-      "id": "15fb0b26-34fc-4bdc-9a1d-1733f9b9319f",
-      "title": "DevOps & Cloud",
-      "schedule": "Mar — 19:00 ART",
-      "start": "02/06/2026",
-      "end": "16/06/2026",
-      "cid": "102075",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
       "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
@@ -1054,6 +1043,72 @@
       "start": "20/07/2026",
       "end": "22/09/2026",
       "cid": "90870",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3349ed46-84b2-4985-8100-a4d9c39cfa4b",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "21/07/2026",
+      "end": "09/09/2026",
+      "cid": "101720",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "820eecf3-a302-4ae6-9324-51c0f3eebb62",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Mar — 19:00 ART",
+      "start": "21/07/2026",
+      "end": "23/09/2026",
+      "cid": "95345",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "44157bf7-78b0-4cf7-a008-09f426aafbc7",
+      "title": "Python",
+      "schedule": "Mar — 19:00 ART",
+      "start": "21/07/2026",
+      "end": "14/10/2026",
+      "cid": "93330",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c453997b-6d41-4933-a0ae-4b13978ebd30",
+      "title": "Publicidad en Redes Avanzado Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "21/07/2026",
+      "end": "16/09/2026",
+      "cid": "92885",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "59749afe-bcb6-49bf-aaad-458cbe6ca9ab",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "21/07/2026",
+      "end": "23/09/2026",
+      "cid": "92705",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "091cc587-233a-4364-bdfa-6a9169db5dec",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "21/07/2026",
+      "end": "09/09/2026",
+      "cid": "90330",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
