@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T13:08:44+00:00",
-  "total": 101,
+  "generated_at": "2026-05-24T13:08:12+00:00",
+  "total": 106,
   "cohorts": [
     {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
@@ -1109,6 +1109,61 @@
       "start": "21/07/2026",
       "end": "09/09/2026",
       "cid": "90330",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3b816ca7-c963-4d2c-b008-f00ba303c1b5",
+      "title": "Creación de productos desde 0 con AI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "22/07/2026",
+      "end": "27/08/2026",
+      "cid": "97615",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d2b65198-079b-4b87-84e3-1c3a58dbc170",
+      "title": "React JS",
+      "schedule": "Mié — 20:30 ART",
+      "start": "22/07/2026",
+      "end": "17/09/2026",
+      "cid": "93455",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7aae7349-6cff-4446-9c94-2e336d322545",
+      "title": "Google Ads Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "22/07/2026",
+      "end": "03/09/2026",
+      "cid": "92135",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a6ecd94f-2893-4438-9c7e-69a36077743b",
+      "title": "Excel",
+      "schedule": "Mié — 20:30 ART",
+      "start": "22/07/2026",
+      "end": "17/09/2026",
+      "cid": "91870",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "20cd2b2a-6786-48a1-a81e-ee445938395b",
+      "title": "React JS",
+      "schedule": "Jue — 10:00 ART",
+      "start": "23/07/2026",
+      "end": "17/09/2026",
+      "cid": "95095",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
