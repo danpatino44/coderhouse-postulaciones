@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T13:08:12+00:00",
-  "total": 106,
+  "generated_at": "2026-05-25T14:40:36+00:00",
+  "total": 110,
   "cohorts": [
     {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
@@ -1164,6 +1164,50 @@
       "start": "23/07/2026",
       "end": "17/09/2026",
       "cid": "95095",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "995f3367-f43d-4280-866a-27b22242a7ac",
+      "title": "Power BI Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "23/07/2026",
+      "end": "21/08/2026",
+      "cid": "93070",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "80f14694-9825-4c40-b4d7-47a2206c1005",
+      "title": "JavaScript Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "23/07/2026",
+      "end": "02/10/2026",
+      "cid": "92435",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ffeb0c01-5277-4e5a-b70b-297724eb6a10",
+      "title": "Desarrollo Web Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "23/07/2026",
+      "end": "25/09/2026",
+      "cid": "91315",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4181f646-9d3a-42f9-9595-d8ae12927dfe",
+      "title": "Canva Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "23/07/2026",
+      "end": "21/08/2026",
+      "cid": "90825",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
