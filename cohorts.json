@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T14:40:36+00:00",
-  "total": 110,
+  "generated_at": "2026-05-26T14:52:15+00:00",
+  "total": 111,
   "cohorts": [
     {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
@@ -9,39 +9,6 @@
       "start": "09/06/2026",
       "end": "01/07/2026",
       "cid": "101960",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "db94e04b-92bd-4a78-870a-e024f244b084",
-      "title": "Liderazgo y gestión de equipos",
-      "schedule": "Mié — 20:30 ART",
-      "start": "10/06/2026",
-      "end": "23/07/2026",
-      "cid": "92545",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "b0c58fbf-34b5-483f-a244-881ad570586b",
-      "title": "Creación de contenido con AI",
-      "schedule": "Mar — 19:00 ART",
-      "start": "16/06/2026",
-      "end": "04/08/2026",
-      "cid": "103040",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "7ed27146-8d23-4daa-a04a-516258f1286c",
-      "title": "Cloud Computing (AWS) Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "22/06/2026",
-      "end": "28/07/2026",
-      "cid": "90900",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1208,6 +1175,50 @@
       "start": "23/07/2026",
       "end": "21/08/2026",
       "cid": "90825",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bde9be5c-683d-41ac-a2e9-9da9e05a2be0",
+      "title": "JavaScript Flex",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "25/07/2026",
+      "end": "19/09/2026",
+      "cid": "94820",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b5184fe3-3630-44bf-bd10-17a35d0fd4ac",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "25/07/2026",
+      "end": "26/09/2026",
+      "cid": "94695",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "093237bb-dd9b-4b1c-8191-b4bf28eb601b",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "25/07/2026",
+      "end": "17/10/2026",
+      "cid": "94650",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bc002aa8-7b76-4df4-a2d9-b4efdaeafb8e",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
+      "schedule": "Sáb — 11:30 ART",
+      "start": "25/07/2026",
+      "end": "05/09/2026",
+      "cid": "90355",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
