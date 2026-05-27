@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-05-26T14:52:15+00:00",
-  "total": 111,
+  "generated_at": "2026-05-27T15:00:35+00:00",
+  "total": 112,
   "cohorts": [
+    {
+      "id": "d589b111-a1ae-4b8f-9b2d-71772de0131c",
+      "title": "Tableau Flex",
+      "schedule": "Lun — 10:00 ART",
+      "start": "08/06/2026",
+      "end": "20/07/2026",
+      "cid": "103145",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
     {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
       "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
