@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-05-28T15:34:43+00:00",
-  "total": 112,
+  "generated_at": "2026-05-29T14:47:16+00:00",
+  "total": 116,
   "cohorts": [
-    {
-      "id": "d589b111-a1ae-4b8f-9b2d-71772de0131c",
-      "title": "Tableau Flex",
-      "schedule": "Lun — 10:00 ART",
-      "start": "08/06/2026",
-      "end": "20/07/2026",
-      "cid": "103145",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
       "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
@@ -1230,6 +1219,61 @@
       "start": "25/07/2026",
       "end": "05/09/2026",
       "cid": "90355",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3aa9eaf1-9d27-41ea-be11-457cf67ff596",
+      "title": "Creación de contenido con AI",
+      "schedule": "Lun — 20:30 ART",
+      "start": "27/07/2026",
+      "end": "22/09/2026",
+      "cid": "96995",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "60d9a80b-0523-4a53-9960-a8312eed7251",
+      "title": "UX Writing",
+      "schedule": "Lun — 20:30 ART",
+      "start": "27/07/2026",
+      "end": "06/10/2026",
+      "cid": "93810",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9d0ed396-71ad-4e17-9844-3a2b68449d32",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "27/07/2026",
+      "end": "08/09/2026",
+      "cid": "92560",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "86de0fe6-1106-4ef4-b450-f63f1c7b3355",
+      "title": "Data Analytics",
+      "schedule": "Lun — 20:30 ART",
+      "start": "27/07/2026",
+      "end": "06/10/2026",
+      "cid": "91030",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6ca8c8f2-563f-4b18-8223-8786c0d7fed1",
+      "title": "Prototipado (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "28/07/2026",
+      "end": "24/09/2026",
+      "cid": "102470",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
