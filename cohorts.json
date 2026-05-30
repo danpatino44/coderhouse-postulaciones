@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T14:47:16+00:00",
-  "total": 116,
+  "generated_at": "2026-05-30T13:11:01+00:00",
+  "total": 122,
   "cohorts": [
     {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
@@ -1274,6 +1274,72 @@
       "start": "28/07/2026",
       "end": "24/09/2026",
       "cid": "102470",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "fa19816c-6113-4387-92fc-5bb782bc345d",
+      "title": "Tableau Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "28/07/2026",
+      "end": "02/09/2026",
+      "cid": "93915",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e1d8f129-3445-44bd-bdd1-df0ee0b48033",
+      "title": "Product Manager Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "28/07/2026",
+      "end": "16/09/2026",
+      "cid": "93170",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9523db7e-a8a5-40d2-ad9d-bfa713e1b5aa",
+      "title": "Growth Marketing Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "28/07/2026",
+      "end": "30/09/2026",
+      "cid": "92225",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e82d7085-a565-4e40-be90-3d90a8500d01",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Mar — 19:00 ART",
+      "start": "28/07/2026",
+      "end": "07/10/2026",
+      "cid": "91675",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9def87fe-7877-434c-a90f-2536d207c135",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "28/07/2026",
+      "end": "21/10/2026",
+      "cid": "91515",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c18f323d-0314-4153-a4f4-abdadda072f5",
+      "title": "Copywriting Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "28/07/2026",
+      "end": "07/10/2026",
+      "cid": "91140",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
