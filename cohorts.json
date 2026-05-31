@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T13:11:01+00:00",
-  "total": 122,
+  "generated_at": "2026-05-31T13:21:57+00:00",
+  "total": 126,
   "cohorts": [
     {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
@@ -1340,6 +1340,50 @@
       "start": "28/07/2026",
       "end": "07/10/2026",
       "cid": "91140",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2089b16e-5f8a-4ba0-ae2d-b2f6febb3491",
+      "title": "AI Automation",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "29/07/2026",
+      "end": "17/09/2026",
+      "cid": "97405",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4271ef03-c5e2-40f2-b6e2-b07b6c426c88",
+      "title": "Publicidad en Redes Avanzado Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "29/07/2026",
+      "end": "24/09/2026",
+      "cid": "92890",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b19c386c-2fe3-406d-ba4e-cf0dc155db9f",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "29/07/2026",
+      "end": "01/10/2026",
+      "cid": "92710",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8120b71e-a4a6-48ac-aeab-81a69806fd92",
+      "title": "Desarrollo Web Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "29/07/2026",
+      "end": "01/10/2026",
+      "cid": "91320",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
