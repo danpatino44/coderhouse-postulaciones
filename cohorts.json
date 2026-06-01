@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T13:21:57+00:00",
-  "total": 126,
+  "generated_at": "2026-06-01T17:23:30+00:00",
+  "total": 128,
   "cohorts": [
     {
       "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
@@ -1384,6 +1384,28 @@
       "start": "29/07/2026",
       "end": "01/10/2026",
       "cid": "91320",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0823843c-6c63-4c0b-b889-cbfa2f1a299e",
+      "title": "React JS",
+      "schedule": "Jue — 19:00 ART",
+      "start": "30/07/2026",
+      "end": "25/09/2026",
+      "cid": "93460",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9b2ba17e-17e1-4fe1-af5f-e3fa62bff46a",
+      "title": "Excel",
+      "schedule": "Jue — 19:00 ART",
+      "start": "30/07/2026",
+      "end": "18/09/2026",
+      "cid": "91875",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
