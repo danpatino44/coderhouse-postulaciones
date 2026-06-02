@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-01T17:23:30+00:00",
+  "generated_at": "2026-06-02T16:08:04+00:00",
   "total": 128,
   "cohorts": [
-    {
-      "id": "3312b299-19c7-4a8b-ba51-0da1d3c62704",
-      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "09/06/2026",
-      "end": "01/07/2026",
-      "cid": "101960",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "11fd781e-e768-4b05-9083-d252eb2bc569",
       "title": "Diseño UX/UI Flex",
@@ -1406,6 +1395,17 @@
       "start": "30/07/2026",
       "end": "18/09/2026",
       "cid": "91875",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "51afa39e-a819-480b-8c29-c2ce7a70d214",
+      "title": "Publicidad en Redes Avanzado Flex",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "01/08/2026",
+      "end": "19/09/2026",
+      "cid": "94730",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
