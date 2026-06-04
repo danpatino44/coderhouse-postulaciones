@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T16:23:17+00:00",
-  "total": 128,
+  "generated_at": "2026-06-04T14:42:19+00:00",
+  "total": 129,
   "cohorts": [
     {
       "id": "11fd781e-e768-4b05-9083-d252eb2bc569",
@@ -251,6 +251,17 @@
       "start": "06/07/2026",
       "end": "03/11/2026",
       "cid": "90550",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5d5b1470-8158-4ae2-8a83-d7826c0903ec",
+      "title": "Excel Avanzado",
+      "schedule": "Mar — 19:00 ART",
+      "start": "07/07/2026",
+      "end": "11/08/2026",
+      "cid": "103160",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
