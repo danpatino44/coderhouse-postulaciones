@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T14:32:12+00:00",
-  "total": 134,
+  "generated_at": "2026-06-06T13:16:13+00:00",
+  "total": 135,
   "cohorts": [
     {
       "id": "11fd781e-e768-4b05-9083-d252eb2bc569",
@@ -1472,6 +1472,17 @@
       "start": "03/08/2026",
       "end": "20/10/2026",
       "cid": "91325",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6db8639a-b106-4a23-9538-899ab7ced238",
+      "title": "Prototipado (Figma y Adobe XD) Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "04/08/2026",
+      "end": "30/09/2026",
+      "cid": "93270",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
