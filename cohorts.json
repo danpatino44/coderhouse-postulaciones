@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T13:16:13+00:00",
-  "total": 135,
+  "generated_at": "2026-06-07T13:26:34+00:00",
+  "total": 144,
   "cohorts": [
     {
       "id": "11fd781e-e768-4b05-9083-d252eb2bc569",
@@ -1483,6 +1483,105 @@
       "start": "04/08/2026",
       "end": "30/09/2026",
       "cid": "93270",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "91b0871b-0e19-4c74-aab5-ead1af430ad6",
+      "title": "AI Automation Avanzado",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "05/08/2026",
+      "end": "10/09/2026",
+      "cid": "103090",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "747945b8-5a14-4145-9d13-635170e41e9a",
+      "title": "AI Automation Avanzado",
+      "schedule": "Lun y Mié — 20:30 ART",
+      "start": "05/08/2026",
+      "end": "09/09/2026",
+      "cid": "102005",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "84b6a564-45bf-4d3e-bd14-d58fa3d15322",
+      "title": "AI Automation Avanzado",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "05/08/2026",
+      "end": "10/09/2026",
+      "cid": "97485",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1f97766a-0fe0-4afa-bb60-0ff82c41f400",
+      "title": "Python",
+      "schedule": "Mié — 20:30 ART",
+      "start": "05/08/2026",
+      "end": "29/10/2026",
+      "cid": "93340",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "70cf0f19-1096-4dde-bc2a-18eddd6b46a4",
+      "title": "Product Manager Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "05/08/2026",
+      "end": "24/09/2026",
+      "cid": "93185",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "25fabaac-5ff5-44c5-8b38-5a58a77685df",
+      "title": "Growth Marketing Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "05/08/2026",
+      "end": "08/10/2026",
+      "cid": "92230",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f1de95fa-2953-42ba-a9bd-16dc9041b0e8",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "05/08/2026",
+      "end": "29/10/2026",
+      "cid": "91520",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2fdbc635-ecc1-449f-9bb4-a44709bd3bda",
+      "title": "Data Analytics",
+      "schedule": "Mié — 20:30 ART",
+      "start": "05/08/2026",
+      "end": "08/10/2026",
+      "cid": "91035",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e8d500e7-1077-406f-898f-dd23baaee33f",
+      "title": "Administración de empresas",
+      "schedule": "Mié — 20:30 ART",
+      "start": "05/08/2026",
+      "end": "03/09/2026",
+      "cid": "90740",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
