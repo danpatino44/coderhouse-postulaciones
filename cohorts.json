@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T13:26:34+00:00",
-  "total": 144,
+  "generated_at": "2026-06-08T15:35:26+00:00",
+  "total": 151,
   "cohorts": [
     {
       "id": "11fd781e-e768-4b05-9083-d252eb2bc569",
@@ -1582,6 +1582,83 @@
       "start": "05/08/2026",
       "end": "03/09/2026",
       "cid": "90740",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c7dfc89d-3fb2-4869-9f25-b99027f24936",
+      "title": "Excel Avanzado",
+      "schedule": "Mié — 20:30 ART",
+      "start": "06/08/2026",
+      "end": "16/09/2026",
+      "cid": "103165",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "92c87104-2cba-4c11-b1fd-ce8ad336002a",
+      "title": "DevOps & Cloud",
+      "schedule": "Jue — 19:00 ART",
+      "start": "06/08/2026",
+      "end": "20/08/2026",
+      "cid": "102085",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3367ab89-ca28-4561-9a5a-4c650e4e6f29",
+      "title": "AI Automation",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "06/08/2026",
+      "end": "23/09/2026",
+      "cid": "96925",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5a94ca87-dce1-4ee3-a52e-31a6f75b8abc",
+      "title": "Técnicas de Negociación Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "06/08/2026",
+      "end": "28/08/2026",
+      "cid": "93660",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bb7ed208-a415-4b2a-8f74-94820b1a1f07",
+      "title": "Publicidad en Redes Avanzado Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "06/08/2026",
+      "end": "02/10/2026",
+      "cid": "92895",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "44de9061-ba9e-478a-b47e-265c73448c8c",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "06/08/2026",
+      "end": "09/10/2026",
+      "cid": "92715",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1b0c8e7d-ee36-4d71-a7ac-d8d4851d3835",
+      "title": "Customer Experience (CX) Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "06/08/2026",
+      "end": "02/10/2026",
+      "cid": "91190",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
