@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T14:59:43+00:00",
-  "total": 134,
+  "generated_at": "2026-06-11T15:41:08+00:00",
+  "total": 132,
   "cohorts": [
     {
       "id": "11fd781e-e768-4b05-9083-d252eb2bc569",
@@ -350,17 +350,6 @@
       "start": "13/07/2026",
       "end": "01/09/2026",
       "cid": "93685",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "8e0319d8-0e5e-4e8e-ad80-0d2c1ac6151b",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "13/07/2026",
-      "end": "22/09/2026",
-      "cid": "92700",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1076,17 +1065,6 @@
       "start": "27/07/2026",
       "end": "06/10/2026",
       "cid": "93810",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9d0ed396-71ad-4e17-9844-3a2b68449d32",
-      "title": "Liderazgo y gestión de equipos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "27/07/2026",
-      "end": "08/09/2026",
-      "cid": "92560",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
