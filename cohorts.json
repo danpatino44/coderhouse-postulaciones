@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T13:44:33+00:00",
-  "total": 136,
+  "generated_at": "2026-06-14T13:46:28+00:00",
+  "total": 139,
   "cohorts": [
     {
       "id": "11fd781e-e768-4b05-9083-d252eb2bc569",
@@ -1488,12 +1488,45 @@
       "active": true
     },
     {
+      "id": "f451165e-50c8-4f87-aa06-8ee0d218f829",
+      "title": "AI Automation",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "12/08/2026",
+      "end": "01/10/2026",
+      "cid": "97410",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "09c34a17-f44d-40c3-80a9-a6a0128cdefc",
       "title": "Desarrollo Web Flex",
       "schedule": "Mié — 10:00 ART",
       "start": "12/08/2026",
       "end": "14/10/2026",
       "cid": "95045",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "11bcd858-e320-4bb3-b12f-50fc6ea9e2b2",
+      "title": "Tableau Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "12/08/2026",
+      "end": "17/09/2026",
+      "cid": "93925",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0c509683-89a5-4201-bc24-4fb251c7098b",
+      "title": "Growth Marketing Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "12/08/2026",
+      "end": "15/10/2026",
+      "cid": "92340",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
