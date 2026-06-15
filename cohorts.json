@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T13:46:28+00:00",
-  "total": 139,
+  "generated_at": "2026-06-15T17:04:05+00:00",
+  "total": 142,
   "cohorts": [
     {
       "id": "11fd781e-e768-4b05-9083-d252eb2bc569",
@@ -1527,6 +1527,39 @@
       "start": "12/08/2026",
       "end": "15/10/2026",
       "cid": "92340",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7cda03e2-9a82-4229-a49b-67bb9a01819c",
+      "title": "Growth Marketing Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "13/08/2026",
+      "end": "16/10/2026",
+      "cid": "92235",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "cc727ce9-bccd-4772-985c-51be37452a79",
+      "title": "Fundamentos del Diseño Gráfico Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "13/08/2026",
+      "end": "18/09/2026",
+      "cid": "92090",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e8c63a61-72df-4ac5-8aed-5de2740cca43",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "13/08/2026",
+      "end": "06/11/2026",
+      "cid": "91525",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
