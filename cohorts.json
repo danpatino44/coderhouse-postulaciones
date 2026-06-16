@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-15T17:04:05+00:00",
-  "total": 142,
+  "generated_at": "2026-06-16T16:28:54+00:00",
+  "total": 125,
   "cohorts": [
-    {
-      "id": "11fd781e-e768-4b05-9083-d252eb2bc569",
-      "title": "Diseño UX/UI Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "01/07/2026",
-      "end": "24/09/2026",
-      "cid": "91500",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "3cd5f1d0-f751-4492-8981-a6f1b2933667",
       "title": "AI Engineering",
@@ -31,17 +20,6 @@
       "start": "02/07/2026",
       "end": "04/09/2026",
       "cid": "92875",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4e154ec8-1af7-46d2-9619-cd5ec36a0ad6",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
-      "schedule": "Jue — 19:00 ART",
-      "start": "02/07/2026",
-      "end": "11/09/2026",
-      "cid": "92695",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -91,17 +69,6 @@
       "active": true
     },
     {
-      "id": "7869f493-2a7b-4281-9611-49a145d9640b",
-      "title": "JavaScript (diplomatura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "06/07/2026",
-      "end": "21/09/2026",
-      "cid": "102315",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "dd478747-8a57-4091-aedc-ee1deda8e65b",
       "title": "JavaScript (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
@@ -135,45 +102,12 @@
       "active": true
     },
     {
-      "id": "9748371e-ec56-4138-aa58-62352c7d5af0",
-      "title": "Power BI Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "06/07/2026",
-      "end": "04/08/2026",
-      "cid": "93075",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "d994aaf2-3c89-4922-80ef-44f0309ef4db",
-      "title": "JavaScript Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "06/07/2026",
-      "end": "22/09/2026",
-      "cid": "92440",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "5fcbc537-0b0a-4e66-b818-f27d1d55bf0f",
       "title": "Excel",
       "schedule": "Lun — 20:30 ART",
       "start": "06/07/2026",
       "end": "15/09/2026",
       "cid": "91860",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "243eb2f0-7ef0-490c-9b66-b9a0bab7f794",
-      "title": "Desarrollo Web Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "06/07/2026",
-      "end": "15/09/2026",
-      "cid": "91305",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -223,17 +157,6 @@
       "active": true
     },
     {
-      "id": "50f07fab-6bf5-46a3-8e07-f90de0fb3e26",
-      "title": "Data Analytics",
-      "schedule": "Mar — 19:00 ART",
-      "start": "07/07/2026",
-      "end": "09/09/2026",
-      "cid": "91020",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "0a15be13-4bd9-49dd-aeea-c004b34123f9",
       "title": "DevOps & Cloud",
       "schedule": "Mié — 20:30 ART",
@@ -251,17 +174,6 @@
       "start": "08/07/2026",
       "end": "02/09/2026",
       "cid": "102015",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9e9638ef-5ce3-48bb-bb78-4a099cac5980",
-      "title": "Desarrollo Web Flex",
-      "schedule": "Mié — 10:00 ART",
-      "start": "08/07/2026",
-      "end": "09/09/2026",
-      "cid": "95040",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -300,17 +212,6 @@
       "active": true
     },
     {
-      "id": "b2fdd805-2bd5-4ea2-a70e-cce78e827094",
-      "title": "Testing QA Manual Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "13/07/2026",
-      "end": "01/09/2026",
-      "cid": "93685",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "4255206f-eccd-4427-aadd-48a04826c0aa",
       "title": "Introducción a la Inteligencia Artificial",
       "schedule": "Lun — 20:30 ART",
@@ -344,12 +245,12 @@
       "active": true
     },
     {
-      "id": "6ffa726d-0e12-49f7-a960-c035df669ddd",
-      "title": "JavaScript Flex",
-      "schedule": "Mar — 19:00 ART",
+      "id": "d36caac0-0973-4d70-83ca-6c7a4c95a28e",
+      "title": "AI Automation Avanzado",
+      "schedule": "Jue y Mar — 19:00 ART",
       "start": "14/07/2026",
-      "end": "23/09/2026",
-      "cid": "92445",
+      "end": "12/08/2026",
+      "cid": "97480",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -361,17 +262,6 @@
       "start": "14/07/2026",
       "end": "09/09/2026",
       "cid": "91865",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "c520b5cc-e4d7-416e-804a-5d2fa34a5326",
-      "title": "Desarrollo Web Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "14/07/2026",
-      "end": "16/09/2026",
-      "cid": "91310",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -443,12 +333,12 @@
       "active": true
     },
     {
-      "id": "4d870d7e-0db9-41ec-be65-12ea49a30585",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
-      "schedule": "Jue — 10:00 ART",
+      "id": "fc00d6a5-f8d0-4399-af96-baea7910c0df",
+      "title": "Prototipado con Figma",
+      "schedule": "Jue — 19:00 ART",
       "start": "16/07/2026",
-      "end": "17/09/2026",
-      "cid": "94995",
+      "end": "10/09/2026",
+      "cid": "103220",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -526,17 +416,6 @@
       "start": "16/07/2026",
       "end": "21/08/2026",
       "cid": "92555",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "70a9a0ff-0059-411d-961f-261e28387163",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Jue — 19:00 ART",
-      "start": "16/07/2026",
-      "end": "25/09/2026",
-      "cid": "91665",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -636,17 +515,6 @@
       "start": "20/07/2026",
       "end": "29/09/2026",
       "cid": "92220",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6df44f91-ec12-4426-bad8-ceba05a43302",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Lun — 20:30 ART",
-      "start": "20/07/2026",
-      "end": "06/10/2026",
-      "cid": "91670",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -773,45 +641,12 @@
       "active": true
     },
     {
-      "id": "80f14694-9825-4c40-b4d7-47a2206c1005",
-      "title": "JavaScript Flex",
-      "schedule": "Jue — 19:00 ART",
-      "start": "23/07/2026",
-      "end": "02/10/2026",
-      "cid": "92435",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ffeb0c01-5277-4e5a-b70b-297724eb6a10",
-      "title": "Desarrollo Web Flex",
-      "schedule": "Jue — 19:00 ART",
-      "start": "23/07/2026",
-      "end": "25/09/2026",
-      "cid": "91315",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "b5184fe3-3630-44bf-bd10-17a35d0fd4ac",
       "title": "Marketing Digital: Community Manager & Publicidad Flex",
       "schedule": "Sáb — 11:00 ART",
       "start": "25/07/2026",
       "end": "26/09/2026",
       "cid": "94695",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "093237bb-dd9b-4b1c-8191-b4bf28eb601b",
-      "title": "Diseño UX/UI Flex",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "25/07/2026",
-      "end": "17/10/2026",
-      "cid": "94650",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -927,34 +762,12 @@
       "active": true
     },
     {
-      "id": "8120b71e-a4a6-48ac-aeab-81a69806fd92",
-      "title": "Desarrollo Web Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "29/07/2026",
-      "end": "01/10/2026",
-      "cid": "91320",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "0823843c-6c63-4c0b-b889-cbfa2f1a299e",
       "title": "React JS",
       "schedule": "Jue — 19:00 ART",
       "start": "30/07/2026",
       "end": "25/09/2026",
       "cid": "93460",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9b2ba17e-17e1-4fe1-af5f-e3fa62bff46a",
-      "title": "Excel",
-      "schedule": "Jue — 19:00 ART",
-      "start": "30/07/2026",
-      "end": "18/09/2026",
-      "cid": "91875",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1082,7 +895,7 @@
     },
     {
       "id": "70cf0f19-1096-4dde-bc2a-18eddd6b46a4",
-      "title": "Product Manager Flex",
+      "title": "Product Manager",
       "schedule": "Mié — 20:30 ART",
       "start": "05/08/2026",
       "end": "24/09/2026",
@@ -1258,7 +1071,7 @@
     },
     {
       "id": "9f39c250-7d87-45b2-8d0a-83fa8505ff6c",
-      "title": "Product Manager Flex",
+      "title": "Product Manager",
       "schedule": "Lun — 20:30 ART",
       "start": "10/08/2026",
       "end": "06/10/2026",
