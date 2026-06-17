@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T16:28:54+00:00",
-  "total": 125,
+  "generated_at": "2026-06-17T14:57:30+00:00",
+  "total": 102,
   "cohorts": [
     {
       "id": "3cd5f1d0-f751-4492-8981-a6f1b2933667",
@@ -9,61 +9,6 @@
       "start": "02/07/2026",
       "end": "13/08/2026",
       "cid": "102115",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "a7fe8294-f9b5-4a78-ad44-30d3c589e4ba",
-      "title": "Publicidad en Redes Avanzado Flex",
-      "schedule": "Jue — 19:00 ART",
-      "start": "02/07/2026",
-      "end": "04/09/2026",
-      "cid": "92875",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "836bcac2-6326-4a59-89ba-7bddfe58afaf",
-      "title": "Introducción a la Inteligencia Artificial (Diplomaturas)",
-      "schedule": "Vie — 18:30 ART",
-      "start": "03/07/2026",
-      "end": "07/08/2026",
-      "cid": "101780",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "c6eaa590-1262-44ea-9961-cb4126b56496",
-      "title": "Introducción a la Inteligencia Artificial (Diplomaturas)",
-      "schedule": "Vie — 07:30 ART",
-      "start": "03/07/2026",
-      "end": "07/08/2026",
-      "cid": "101775",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "69f6940b-0c00-4a32-b00d-2e0e46257923",
-      "title": "SQL (diplomatura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "06/07/2026",
-      "end": "31/08/2026",
-      "cid": "102420",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "54075ba7-244f-495e-aefc-d816b6480157",
-      "title": "SQL (diplomatura)",
-      "schedule": "Lun y Mié — 07:30 ART",
-      "start": "06/07/2026",
-      "end": "31/08/2026",
-      "cid": "102375",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -80,23 +25,12 @@
       "active": true
     },
     {
-      "id": "976c90ee-7572-4931-9965-3fee1d435ef5",
-      "title": "Wordpress Flex",
+      "id": "283e6ab3-47b0-4089-b4f6-04e94b8f2307",
+      "title": "Publicidad en Redes Avanzado Flex",
       "schedule": "Lun — 20:30 ART",
       "start": "06/07/2026",
-      "end": "04/08/2026",
-      "cid": "93870",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "53594085-f55e-4d25-bb1d-8d3728a0febb",
-      "title": "Python",
-      "schedule": "Lun — 20:30 ART",
-      "start": "06/07/2026",
-      "end": "06/10/2026",
-      "cid": "93325",
+      "end": "08/09/2026",
+      "cid": "92880",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -190,34 +124,12 @@
       "active": true
     },
     {
-      "id": "74996282-b6f5-4fd7-82ff-b8a629647bff",
-      "title": "Metodologias agiles (diplomatura)",
-      "schedule": "Vie — 07:30 ART",
-      "start": "10/07/2026",
-      "end": "21/08/2026",
-      "cid": "102535",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "86dcdbd6-4f80-466f-9383-090ced4f6396",
       "title": "Data Science I: Fundamentos para la Ciencia de Datos",
       "schedule": "Lun — 20:30 ART",
       "start": "13/07/2026",
       "end": "22/09/2026",
       "cid": "95340",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4255206f-eccd-4427-aadd-48a04826c0aa",
-      "title": "Introducción a la Inteligencia Artificial",
-      "schedule": "Lun — 20:30 ART",
-      "start": "13/07/2026",
-      "end": "25/08/2026",
-      "cid": "92040",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -267,56 +179,12 @@
       "active": true
     },
     {
-      "id": "710283cd-7345-42fb-a0b0-5dcfb2bcfd13",
-      "title": "Programación Backend (III): Testing y Escalabilidad Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "14/07/2026",
-      "end": "02/09/2026",
-      "cid": "77395",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "43e4db05-ba0e-4103-9ff4-f3856653bfcf",
-      "title": "Tableau Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "15/07/2026",
-      "end": "20/08/2026",
-      "cid": "102205",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "a41ca097-e9d2-4bcf-949f-b9623aee6b17",
-      "title": "Tableau Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "15/07/2026",
-      "end": "20/08/2026",
-      "cid": "93920",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "6d591f49-44d3-4bbc-8ef3-4f582f9182aa",
       "title": "E-commerce Flex",
       "schedule": "Mié — 20:30 ART",
       "start": "15/07/2026",
       "end": "17/09/2026",
       "cid": "91770",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "0beccc5f-f2d7-40c1-9a65-e174dc1c33ac",
-      "title": "Desarrollo de Aplicaciones Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "15/07/2026",
-      "end": "10/09/2026",
-      "cid": "91230",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -344,17 +212,6 @@
       "active": true
     },
     {
-      "id": "f379f154-6f39-4973-80d7-85fb6fa5b90e",
-      "title": "Growth Marketing Flex",
-      "schedule": "Jue — 10:00 ART",
-      "start": "16/07/2026",
-      "end": "03/09/2026",
-      "cid": "94950",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "cf2ff18d-610a-4c70-aae6-365102a11136",
       "title": "Photoshop e Illustrator Flex",
       "schedule": "Jue — 19:00 ART",
@@ -372,17 +229,6 @@
       "start": "16/07/2026",
       "end": "28/08/2026",
       "cid": "94005",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "2c790584-5d9a-4f81-a59f-533d81bc7c36",
-      "title": "UX Writing",
-      "schedule": "Jue — 19:00 ART",
-      "start": "16/07/2026",
-      "end": "04/09/2026",
-      "cid": "93805",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -487,39 +333,6 @@
       "active": true
     },
     {
-      "id": "d82adc38-27ce-4083-8bb3-210fdba25113",
-      "title": "UX Research Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "20/07/2026",
-      "end": "15/09/2026",
-      "cid": "94010",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1ab29b31-c290-4a8d-9768-22d074686f5f",
-      "title": "Prototipado con Figma",
-      "schedule": "Lun — 20:30 ART",
-      "start": "20/07/2026",
-      "end": "22/09/2026",
-      "cid": "93265",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "43446957-ea33-4bd1-a1ab-6bc18964aaf1",
-      "title": "Growth Marketing Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "20/07/2026",
-      "end": "29/09/2026",
-      "cid": "92220",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "3349ed46-84b2-4985-8100-a4d9c39cfa4b",
       "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
       "schedule": "Mar — 19:00 ART",
@@ -537,17 +350,6 @@
       "start": "21/07/2026",
       "end": "23/09/2026",
       "cid": "95345",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "44157bf7-78b0-4cf7-a008-09f426aafbc7",
-      "title": "Python",
-      "schedule": "Mar — 19:00 ART",
-      "start": "21/07/2026",
-      "end": "14/10/2026",
-      "cid": "93330",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -575,28 +377,6 @@
       "active": true
     },
     {
-      "id": "091cc587-233a-4364-bdfa-6a9169db5dec",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
-      "schedule": "Mar — 19:00 ART",
-      "start": "21/07/2026",
-      "end": "09/09/2026",
-      "cid": "90330",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "d2b65198-079b-4b87-84e3-1c3a58dbc170",
-      "title": "React JS",
-      "schedule": "Mié — 20:30 ART",
-      "start": "22/07/2026",
-      "end": "17/09/2026",
-      "cid": "93455",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "7aae7349-6cff-4446-9c94-2e336d322545",
       "title": "Google Ads Flex",
       "schedule": "Mié — 20:30 ART",
@@ -614,17 +394,6 @@
       "start": "22/07/2026",
       "end": "17/09/2026",
       "cid": "91870",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "20cd2b2a-6786-48a1-a81e-ee445938395b",
-      "title": "React JS",
-      "schedule": "Jue — 10:00 ART",
-      "start": "23/07/2026",
-      "end": "17/09/2026",
-      "cid": "95095",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -652,34 +421,12 @@
       "active": true
     },
     {
-      "id": "bc002aa8-7b76-4df4-a2d9-b4efdaeafb8e",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
-      "schedule": "Sáb — 11:30 ART",
-      "start": "25/07/2026",
-      "end": "05/09/2026",
-      "cid": "90355",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "d80e57cb-d4dd-4faf-9c1e-9f062a009484",
       "title": "Creación de contenido con AI",
       "schedule": "Lun — 20:30 ART",
       "start": "27/07/2026",
       "end": "22/09/2026",
       "cid": "103205",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "60d9a80b-0523-4a53-9960-a8312eed7251",
-      "title": "UX Writing",
-      "schedule": "Lun — 20:30 ART",
-      "start": "27/07/2026",
-      "end": "06/10/2026",
-      "cid": "93810",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
