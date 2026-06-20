@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-19T14:48:16+00:00",
-  "total": 73,
+  "generated_at": "2026-06-20T13:45:21+00:00",
+  "total": 81,
   "cohorts": [
-    {
-      "id": "5fcbc537-0b0a-4e66-b818-f27d1d55bf0f",
-      "title": "Excel",
-      "schedule": "Lun — 20:30 ART",
-      "start": "06/07/2026",
-      "end": "15/09/2026",
-      "cid": "91860",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "c2430ead-a9eb-4a6c-a580-8e25eacbc944",
       "title": "Data Science II: Machine Learning para la Ciencia de Datos Flex",
@@ -801,6 +790,105 @@
       "start": "13/08/2026",
       "end": "06/11/2026",
       "cid": "91525",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "46da90fb-ecb5-4065-a423-9a39fffca582",
+      "title": "Creación de productos desde 0 con AI",
+      "schedule": "Mar — 19:00 ART",
+      "start": "18/08/2026",
+      "end": "23/09/2026",
+      "cid": "97620",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "fe2a25c9-313c-4a2d-8a20-51b9f0454046",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Mar — 19:00 ART",
+      "start": "18/08/2026",
+      "end": "21/10/2026",
+      "cid": "95350",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7405dd39-9884-4bea-9d7b-011867c65df6",
+      "title": "Testing QA Manual Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "18/08/2026",
+      "end": "30/09/2026",
+      "cid": "93690",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6b511534-61d1-4fd7-9625-0f3f5b6eb64c",
+      "title": "Scrum - Metodologías Ágiles Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "18/08/2026",
+      "end": "14/10/2026",
+      "cid": "93575",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7251931f-931e-4fa2-89d7-6fd48d1bc537",
+      "title": "Publicidad en Redes Avanzado Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "18/08/2026",
+      "end": "14/10/2026",
+      "cid": "92905",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a3d6faac-8d87-4a85-87ec-e5353e221c41",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "18/08/2026",
+      "end": "21/10/2026",
+      "cid": "92725",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4eb8694f-4ada-423e-8fc2-d80d8576ccbf",
+      "title": "JavaScript Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "18/08/2026",
+      "end": "28/10/2026",
+      "cid": "92455",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5748c447-0dca-4056-ba47-056e8cfcb2f7",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Mar — 19:00 ART",
+      "start": "18/08/2026",
+      "end": "28/10/2026",
+      "cid": "91685",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ecbdbead-91f5-456c-a151-c435acf0c9e8",
+      "title": "Canva Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "18/08/2026",
+      "end": "16/09/2026",
+      "cid": "90830",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
