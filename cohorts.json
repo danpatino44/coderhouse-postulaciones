@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T13:45:21+00:00",
-  "total": 81,
+  "generated_at": "2026-06-21T13:53:03+00:00",
+  "total": 86,
   "cohorts": [
     {
       "id": "c2430ead-a9eb-4a6c-a580-8e25eacbc944",
@@ -889,6 +889,61 @@
       "start": "18/08/2026",
       "end": "16/09/2026",
       "cid": "90830",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "fe8fc9fe-e894-4035-baaf-445898207707",
+      "title": "Creación de contenido con AI",
+      "schedule": "Mié — 19:00 ART",
+      "start": "19/08/2026",
+      "end": "07/10/2026",
+      "cid": "103095",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "96110e85-6f7c-4539-877a-0b2b4ddb2a94",
+      "title": "AI Automation",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "19/08/2026",
+      "end": "06/10/2026",
+      "cid": "96930",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9948407b-440f-4fbb-96f4-b3dc7df25a0c",
+      "title": "React JS",
+      "schedule": "Mié — 20:30 ART",
+      "start": "19/08/2026",
+      "end": "15/10/2026",
+      "cid": "93475",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a6fb876d-9263-40c6-82d1-80e74537be83",
+      "title": "Excel",
+      "schedule": "Mié — 20:30 ART",
+      "start": "19/08/2026",
+      "end": "15/10/2026",
+      "cid": "91890",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6b4d4dbd-5a9a-4eda-9af1-d113f0c19f39",
+      "title": "Ciberseguridad Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "19/08/2026",
+      "end": "15/10/2026",
+      "cid": "90875",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
