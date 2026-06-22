@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T13:53:03+00:00",
-  "total": 86,
+  "generated_at": "2026-06-22T16:45:15+00:00",
+  "total": 92,
   "cohorts": [
     {
       "id": "c2430ead-a9eb-4a6c-a580-8e25eacbc944",
@@ -944,6 +944,72 @@
       "start": "19/08/2026",
       "end": "15/10/2026",
       "cid": "90875",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "012884b5-c919-47c0-97e9-0a3561dcda7d",
+      "title": "AI Automation Avanzado",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "20/08/2026",
+      "end": "23/09/2026",
+      "cid": "97310",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bd4659b6-ad15-48d8-b1e3-4be5676390e0",
+      "title": "Finanzas Personales Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "20/08/2026",
+      "end": "11/09/2026",
+      "cid": "91990",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "24baa108-c5b5-4156-8ebd-6f798a419ddb",
+      "title": "Desarrollo Web Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "20/08/2026",
+      "end": "23/10/2026",
+      "cid": "91335",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "163e4fe7-7295-4389-8ce6-a93ccf0001fb",
+      "title": "Data Analytics",
+      "schedule": "Jue — 19:00 ART",
+      "start": "20/08/2026",
+      "end": "23/10/2026",
+      "cid": "91045",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5eee9c2b-f0e1-48f4-98c0-2e404370ca8e",
+      "title": "Business Analytics Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "20/08/2026",
+      "end": "16/10/2026",
+      "cid": "90785",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8bd89610-fc63-476f-967e-4b5980df3eec",
+      "title": "AI automation (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "21/08/2026",
+      "end": "09/10/2026",
+      "cid": "102385",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
