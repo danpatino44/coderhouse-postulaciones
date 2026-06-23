@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T16:45:15+00:00",
-  "total": 92,
+  "generated_at": "2026-06-23T14:33:20+00:00",
+  "total": 98,
   "cohorts": [
     {
       "id": "c2430ead-a9eb-4a6c-a580-8e25eacbc944",
@@ -174,6 +174,17 @@
       "start": "27/07/2026",
       "end": "22/09/2026",
       "cid": "103205",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "77d73b47-cadd-4979-a0be-4440923fc877",
+      "title": "Tableau Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "28/07/2026",
+      "end": "01/09/2026",
+      "cid": "103260",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -718,6 +729,17 @@
       "active": true
     },
     {
+      "id": "be6c1302-6876-4476-b2a3-7683d92cf58c",
+      "title": "SEO Para AI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "12/08/2026",
+      "end": "09/09/2026",
+      "cid": "103280",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "f451165e-50c8-4f87-aa06-8ee0d218f829",
       "title": "AI Automation",
       "schedule": "Mié y Lun — 20:30 ART",
@@ -1004,12 +1026,56 @@
       "active": true
     },
     {
+      "id": "ac11b82d-a98b-478e-822d-4ff192325cb3",
+      "title": "AI automation (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "21/08/2026",
+      "end": "09/10/2026",
+      "cid": "102430",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "8bd89610-fc63-476f-967e-4b5980df3eec",
       "title": "AI automation (diplomatura)",
       "schedule": "Vie — 07:30 ART",
       "start": "21/08/2026",
       "end": "09/10/2026",
       "cid": "102385",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "426f904f-f83a-4f40-8f86-d8de9f5bc464",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "22/08/2026",
+      "end": "17/10/2026",
+      "cid": "94885",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2a36a166-caa0-41b9-ba67-04ee1da6a0e1",
+      "title": "Data Analytics",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "22/08/2026",
+      "end": "17/10/2026",
+      "cid": "94870",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c1662700-c54d-46e2-99eb-64362322f834",
+      "title": "Desarrollo Web Flex",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "22/08/2026",
+      "end": "17/10/2026",
+      "cid": "94790",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
