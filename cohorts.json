@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T14:33:20+00:00",
-  "total": 98,
+  "generated_at": "2026-06-24T14:12:12+00:00",
+  "total": 92,
   "cohorts": [
     {
       "id": "c2430ead-a9eb-4a6c-a580-8e25eacbc944",
@@ -9,17 +9,6 @@
       "start": "06/07/2026",
       "end": "03/11/2026",
       "cid": "90550",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "0477e4ea-f106-484f-8703-90787b7330dd",
-      "title": "Creación de contenido con AI",
-      "schedule": "Mar — 19:00 ART",
-      "start": "07/07/2026",
-      "end": "25/08/2026",
-      "cid": "103200",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -36,34 +25,12 @@
       "active": true
     },
     {
-      "id": "86dcdbd6-4f80-466f-9383-090ced4f6396",
-      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "13/07/2026",
-      "end": "22/09/2026",
-      "cid": "95340",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
       "title": "Data Engineering",
       "schedule": "Mar — 19:00 ART",
       "start": "14/07/2026",
       "end": "18/08/2026",
       "cid": "103110",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "d36caac0-0973-4d70-83ca-6c7a4c95a28e",
-      "title": "AI Automation Avanzado",
-      "schedule": "Jue y Mar — 19:00 ART",
-      "start": "14/07/2026",
-      "end": "12/08/2026",
-      "cid": "97480",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -124,28 +91,6 @@
       "active": true
     },
     {
-      "id": "450a56c4-4c4f-4331-97cc-84158406d27a",
-      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "18/07/2026",
-      "end": "01/08/2026",
-      "cid": "96730",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4b12010d-c21f-4b0a-b080-4b88f9ee4a46",
-      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "18/07/2026",
-      "end": "01/08/2026",
-      "cid": "90435",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "7aae7349-6cff-4446-9c94-2e336d322545",
       "title": "Google Ads Flex",
       "schedule": "Mié — 20:30 ART",
@@ -163,17 +108,6 @@
       "start": "22/07/2026",
       "end": "17/09/2026",
       "cid": "91870",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "d80e57cb-d4dd-4faf-9c1e-9f062a009484",
-      "title": "Creación de contenido con AI",
-      "schedule": "Lun — 20:30 ART",
-      "start": "27/07/2026",
-      "end": "22/09/2026",
-      "cid": "103205",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
