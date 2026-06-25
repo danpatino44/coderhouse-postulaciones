@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T14:12:12+00:00",
-  "total": 92,
+  "generated_at": "2026-06-25T14:10:06+00:00",
+  "total": 89,
   "cohorts": [
     {
       "id": "c2430ead-a9eb-4a6c-a580-8e25eacbc944",
@@ -9,17 +9,6 @@
       "start": "06/07/2026",
       "end": "03/11/2026",
       "cid": "90550",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "cf62827f-faba-462c-9cba-7045b46d265f",
-      "title": "SEO Para AI",
-      "schedule": "Mar — 19:00 ART",
-      "start": "07/07/2026",
-      "end": "05/08/2026",
-      "cid": "93595",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -53,17 +42,6 @@
       "start": "15/07/2026",
       "end": "17/09/2026",
       "cid": "91770",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1123154c-a4b0-470e-be00-7fb8db2dc0dd",
-      "title": "Customer Experience (CX) Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "15/07/2026",
-      "end": "03/09/2026",
-      "cid": "91185",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -152,17 +130,6 @@
       "start": "03/08/2026",
       "end": "14/09/2026",
       "cid": "102120",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "74d4a7db-684c-419c-a95b-efdd1db5f105",
-      "title": "React JS",
-      "schedule": "Lun — 20:30 ART",
-      "start": "03/08/2026",
-      "end": "06/10/2026",
-      "cid": "93465",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -383,17 +350,6 @@
       "start": "08/08/2026",
       "end": "10/10/2026",
       "cid": "94700",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "d507ef93-0647-4c75-9ec2-7390f5f1daf8",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "06/10/2026",
-      "cid": "101975",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1010,6 +966,17 @@
       "start": "22/08/2026",
       "end": "17/10/2026",
       "cid": "94790",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "70180f6d-0403-468e-a4d1-6b4d7e0bde94",
+      "title": "Growth Marketing Flex",
+      "schedule": "Lun — 10:00 ART",
+      "start": "24/08/2026",
+      "end": "02/11/2026",
+      "cid": "94955",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
