@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-25T14:10:06+00:00",
-  "total": 89,
+  "generated_at": "2026-06-26T14:09:13+00:00",
+  "total": 98,
   "cohorts": [
-    {
-      "id": "c2430ead-a9eb-4a6c-a580-8e25eacbc944",
-      "title": "Data Science II: Machine Learning para la Ciencia de Datos Flex",
-      "schedule": "Lun — 20:30 ART",
-      "start": "06/07/2026",
-      "end": "03/11/2026",
-      "cid": "90550",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
       "title": "Data Engineering",
@@ -42,17 +31,6 @@
       "start": "15/07/2026",
       "end": "17/09/2026",
       "cid": "91770",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "5a81fc13-9d53-4f31-ac72-952051bbeb16",
-      "title": "Oratoria Flex",
-      "schedule": "Jue — 19:00 ART",
-      "start": "16/07/2026",
-      "end": "31/07/2026",
-      "cid": "93010",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -971,12 +949,133 @@
       "active": true
     },
     {
+      "id": "fa7e0eea-c66c-455b-9ff9-c005e27b7d64",
+      "title": "Product Manager",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "19/10/2026",
+      "cid": "102180",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "35f2c094-9a59-4b18-affc-59b8dbb7d6c1",
+      "title": "Creación de productos desde 0 con AI",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "29/09/2026",
+      "cid": "97625",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9ececd6e-39d2-4869-9213-c9d9e0496c77",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "03/11/2026",
+      "cid": "95355",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "70180f6d-0403-468e-a4d1-6b4d7e0bde94",
       "title": "Growth Marketing Flex",
       "schedule": "Lun — 10:00 ART",
       "start": "24/08/2026",
       "end": "02/11/2026",
       "cid": "94955",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0a4c3918-ff97-49ea-9473-2148abcee087",
+      "title": "Photoshop e Illustrator Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "06/10/2026",
+      "cid": "94105",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c85416b7-0794-46ed-a9b1-2d38aade6f9b",
+      "title": "UX Research Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "20/10/2026",
+      "cid": "94015",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "224a45c4-328e-46d2-afbd-4e7f832a60a6",
+      "title": "UX Writing",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "20/10/2026",
+      "cid": "93815",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "73be75f5-baa0-4318-b166-9879fa6bd698",
+      "title": "SQL Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "10/11/2026",
+      "cid": "93630",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1ec27d08-cd3b-484f-bb12-a1c0eba8eadf",
+      "title": "Oratoria Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "01/09/2026",
+      "cid": "93015",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "93e2cb2a-2e72-4fec-bdd7-3fc8119161b3",
+      "title": "Growth Marketing Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "27/10/2026",
+      "cid": "92240",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8c19e5d8-742a-4884-80c1-e5f94ff31fcd",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "17/11/2026",
+      "cid": "91530",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b06ee2dd-7429-4c07-b0f4-404ff16555dd",
+      "title": "Contenido para redes sociales",
+      "schedule": "Lun — 20:30 ART",
+      "start": "24/08/2026",
+      "end": "06/10/2026",
+      "cid": "90940",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
