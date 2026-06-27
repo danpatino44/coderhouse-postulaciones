@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T14:09:13+00:00",
-  "total": 98,
+  "generated_at": "2026-06-27T13:17:40+00:00",
+  "total": 104,
   "cohorts": [
     {
       "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
@@ -1076,6 +1076,72 @@
       "start": "24/08/2026",
       "end": "06/10/2026",
       "cid": "90940",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "119c21c7-a831-4c3c-999b-d46dec4b3ae9",
+      "title": "Product Manager",
+      "schedule": "Mar — 19:00 ART",
+      "start": "25/08/2026",
+      "end": "14/10/2026",
+      "cid": "101865",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b9119a32-9d97-414e-8422-48c6f5d22b83",
+      "title": "Python",
+      "schedule": "Mar — 19:00 ART",
+      "start": "25/08/2026",
+      "end": "18/11/2026",
+      "cid": "93335",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c5c708c7-6e8c-49d3-a2e9-7bf7ae68dc65",
+      "title": "Power BI Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "25/08/2026",
+      "end": "23/09/2026",
+      "cid": "93085",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e164e099-4d2a-4757-b044-29d892e7d868",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Mar — 19:00 ART",
+      "start": "25/08/2026",
+      "end": "23/09/2026",
+      "cid": "92570",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "03159a91-99ba-4c1c-970b-11011bd31ec1",
+      "title": "Growth Marketing Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "25/08/2026",
+      "end": "28/10/2026",
+      "cid": "92245",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f12c04df-ade4-4899-938f-dfd427abbf09",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "25/08/2026",
+      "end": "18/11/2026",
+      "cid": "91535",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
