@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T13:17:40+00:00",
-  "total": 104,
+  "generated_at": "2026-06-28T13:22:10+00:00",
+  "total": 109,
   "cohorts": [
     {
       "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
@@ -1142,6 +1142,61 @@
       "start": "25/08/2026",
       "end": "18/11/2026",
       "cid": "91535",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d29cf145-0ac7-4945-b89b-ccbabd3ec736",
+      "title": "Publicidad en Redes Avanzado Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "26/08/2026",
+      "end": "22/10/2026",
+      "cid": "92910",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "04faeb29-4b01-4d0e-bba3-040bed555125",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "26/08/2026",
+      "end": "29/10/2026",
+      "cid": "92730",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "df1b6833-aa0b-48ef-8c8f-138c81839ef3",
+      "title": "JavaScript Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "26/08/2026",
+      "end": "05/11/2026",
+      "cid": "92460",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a5050c8b-024e-426c-91e3-be1393003ff5",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Mié — 20:30 ART",
+      "start": "26/08/2026",
+      "end": "05/11/2026",
+      "cid": "91690",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "917f7b9d-838f-4ce3-b5d7-65d25e39fff3",
+      "title": "Desarrollo Web Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "26/08/2026",
+      "end": "29/10/2026",
+      "cid": "91340",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
