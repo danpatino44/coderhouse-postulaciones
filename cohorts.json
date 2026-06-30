@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T13:22:10+00:00",
-  "total": 109,
+  "generated_at": "2026-06-30T14:02:50+00:00",
+  "total": 114,
   "cohorts": [
     {
       "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
@@ -14,23 +14,23 @@
       "active": true
     },
     {
-      "id": "f198257f-163d-4fcd-b850-03ebe6d15fba",
-      "title": "Excel",
-      "schedule": "Mar — 19:00 ART",
-      "start": "14/07/2026",
-      "end": "09/09/2026",
-      "cid": "91865",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "6d591f49-44d3-4bbc-8ef3-4f582f9182aa",
       "title": "E-commerce Flex",
       "schedule": "Mié — 20:30 ART",
       "start": "15/07/2026",
       "end": "17/09/2026",
       "cid": "91770",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bd8602ec-3327-4a90-aa6b-e65547901de0",
+      "title": "UX Research Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "16/07/2026",
+      "end": "28/08/2026",
+      "cid": "94005",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -75,17 +75,6 @@
       "start": "28/07/2026",
       "end": "01/09/2026",
       "cid": "103260",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "f91cc8fa-5beb-439d-834e-5f2c72a4d0f1",
-      "title": "Prototipado (diplomatura)",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "28/07/2026",
-      "end": "24/09/2026",
-      "cid": "102500",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1197,6 +1186,72 @@
       "start": "26/08/2026",
       "end": "29/10/2026",
       "cid": "91340",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9225d4e4-0261-4b61-a21d-97a95770d562",
+      "title": "Tableau Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "27/08/2026",
+      "end": "01/10/2026",
+      "cid": "103285",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f803c9da-4acb-4f0e-934e-bb079371facd",
+      "title": "AI Automation",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "27/08/2026",
+      "end": "14/10/2026",
+      "cid": "97415",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6e6c398c-797b-44ae-a919-accb237c5528",
+      "title": "Tableau Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "27/08/2026",
+      "end": "02/10/2026",
+      "cid": "93930",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b3649563-a7c9-48ab-8503-1f61706793c7",
+      "title": "React JS",
+      "schedule": "Jue — 19:00 ART",
+      "start": "27/08/2026",
+      "end": "23/10/2026",
+      "cid": "93480",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8353a55d-5a0a-4be1-aa70-1f5b4ed59430",
+      "title": "Excel",
+      "schedule": "Jue — 19:00 ART",
+      "start": "27/08/2026",
+      "end": "16/10/2026",
+      "cid": "91895",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e45950b2-01a7-4760-b967-397a69e9f9e6",
+      "title": "E-commerce Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "27/08/2026",
+      "end": "30/10/2026",
+      "cid": "91775",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
