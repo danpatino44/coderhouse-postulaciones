@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T14:16:18+00:00",
-  "total": 114,
+  "generated_at": "2026-07-02T13:43:09+00:00",
+  "total": 115,
   "cohorts": [
     {
       "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
@@ -1252,6 +1252,17 @@
       "start": "27/08/2026",
       "end": "30/10/2026",
       "cid": "91775",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b88880c9-5bf2-4ffb-895c-5308f5e91eba",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Lun — 10:00 ART",
+      "start": "31/08/2026",
+      "end": "09/11/2026",
+      "cid": "95000",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
