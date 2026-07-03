@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T13:43:09+00:00",
-  "total": 115,
+  "generated_at": "2026-07-03T13:47:53+00:00",
+  "total": 116,
   "cohorts": [
     {
       "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
@@ -1263,6 +1263,17 @@
       "start": "31/08/2026",
       "end": "09/11/2026",
       "cid": "95000",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f9cf0bd8-b9a9-4562-8c39-5fbbe98ff2dd",
+      "title": "Data Analytics",
+      "schedule": "Lun — 20:30 ART",
+      "start": "31/08/2026",
+      "end": "10/11/2026",
+      "cid": "91050",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
