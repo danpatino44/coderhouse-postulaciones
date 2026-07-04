@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-03T13:47:53+00:00",
-  "total": 116,
+  "generated_at": "2026-07-04T13:06:46+00:00",
+  "total": 120,
   "cohorts": [
+    {
+      "id": "5c20fa01-bf76-407e-81ef-9153acabc8a9",
+      "title": "Introducción a la Inteligencia Artificial",
+      "schedule": "Lun — 20:30 ART",
+      "start": "13/07/2026",
+      "end": "25/08/2026",
+      "cid": "103290",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
     {
       "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
       "title": "Data Engineering",
@@ -1274,6 +1285,39 @@
       "start": "31/08/2026",
       "end": "10/11/2026",
       "cid": "91050",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bd9298c0-9bf9-46af-b02e-b9d619042963",
+      "title": "Product Manager",
+      "schedule": "Mar — 19:00 ART",
+      "start": "01/09/2026",
+      "end": "21/10/2026",
+      "cid": "93180",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "280db51d-cde5-4ab4-b992-6c2f2e23f2a7",
+      "title": "Google Ads Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "01/09/2026",
+      "end": "14/10/2026",
+      "cid": "92140",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "26747de8-8927-4378-ac79-9fe9ca590dd2",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
+      "schedule": "Mié — 10:00 ART",
+      "start": "02/09/2026",
+      "end": "21/10/2026",
+      "cid": "95160",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
