@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T13:06:46+00:00",
-  "total": 120,
+  "generated_at": "2026-07-05T13:15:42+00:00",
+  "total": 126,
   "cohorts": [
     {
       "id": "5c20fa01-bf76-407e-81ef-9153acabc8a9",
@@ -1312,12 +1312,78 @@
       "active": true
     },
     {
+      "id": "6891ee27-9395-420f-8c37-8c573ad75761",
+      "title": "AI Engineering",
+      "schedule": "Mié — 20:30 ART",
+      "start": "02/09/2026",
+      "end": "07/10/2026",
+      "cid": "102125",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "26747de8-8927-4378-ac79-9fe9ca590dd2",
       "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
       "schedule": "Mié — 10:00 ART",
       "start": "02/09/2026",
       "end": "21/10/2026",
       "cid": "95160",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3ecdc9b4-9ec4-46d7-89dd-7032868dc5ef",
+      "title": "Python",
+      "schedule": "Mié — 20:30 ART",
+      "start": "02/09/2026",
+      "end": "26/11/2026",
+      "cid": "93345",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7c2941f7-2ffc-466a-afa0-2de204683e56",
+      "title": "Growth Marketing Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "02/09/2026",
+      "end": "05/11/2026",
+      "cid": "92250",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "685d7e88-a902-4682-902e-a38892fba0f3",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Mié — 20:30 ART",
+      "start": "02/09/2026",
+      "end": "26/11/2026",
+      "cid": "91540",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4a20696e-e3a5-427d-a370-5dfca1d829e2",
+      "title": "Data Analytics",
+      "schedule": "Mié — 20:30 ART",
+      "start": "02/09/2026",
+      "end": "05/11/2026",
+      "cid": "91055",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4195aeec-e63f-4ae8-a23e-53e4966475f8",
+      "title": "Administración de empresas",
+      "schedule": "Mié — 20:30 ART",
+      "start": "02/09/2026",
+      "end": "01/10/2026",
+      "cid": "90745",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
