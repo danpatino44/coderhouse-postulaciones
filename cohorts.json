@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-07-05T13:15:42+00:00",
-  "total": 126,
+  "generated_at": "2026-07-06T15:16:32+00:00",
+  "total": 129,
   "cohorts": [
-    {
-      "id": "5c20fa01-bf76-407e-81ef-9153acabc8a9",
-      "title": "Introducción a la Inteligencia Artificial",
-      "schedule": "Lun — 20:30 ART",
-      "start": "13/07/2026",
-      "end": "25/08/2026",
-      "cid": "103290",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
-      "title": "Data Engineering",
-      "schedule": "Mar — 19:00 ART",
-      "start": "14/07/2026",
-      "end": "18/08/2026",
-      "cid": "103110",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "6d591f49-44d3-4bbc-8ef3-4f582f9182aa",
       "title": "E-commerce Flex",
@@ -42,17 +20,6 @@
       "start": "16/07/2026",
       "end": "28/08/2026",
       "cid": "94005",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "797366d9-41fc-4ae1-9735-616de566bd70",
-      "title": "Tableau Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "17/07/2026",
-      "end": "26/08/2026",
-      "cid": "102035",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -86,6 +53,17 @@
       "start": "28/07/2026",
       "end": "01/09/2026",
       "cid": "103260",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
+      "title": "Data Engineering",
+      "schedule": "Mar — 19:00 ART",
+      "start": "28/07/2026",
+      "end": "18/08/2026",
+      "cid": "103110",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1384,6 +1362,61 @@
       "start": "02/09/2026",
       "end": "01/10/2026",
       "cid": "90745",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6cc34a6d-4ff5-4a6e-a417-0d274651f65d",
+      "title": "AI Automation",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "03/09/2026",
+      "end": "21/10/2026",
+      "cid": "96935",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8d7dac09-ba96-4653-96a3-3c6574a9d521",
+      "title": "Publicidad en Redes Avanzado Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "03/09/2026",
+      "end": "30/10/2026",
+      "cid": "92915",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "06e93e66-fa64-435c-92d6-b54b5c244701",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "03/09/2026",
+      "end": "06/11/2026",
+      "cid": "92735",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9a41fddd-306c-4023-a6af-e872840ed2fb",
+      "title": "JavaScript Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "03/09/2026",
+      "end": "13/11/2026",
+      "cid": "92475",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "99ac1b33-fef5-4cb0-b769-e91de9454b89",
+      "title": "Customer Experience (CX) Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "03/09/2026",
+      "end": "30/10/2026",
+      "cid": "91195",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
