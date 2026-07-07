@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T15:16:32+00:00",
-  "total": 129,
+  "generated_at": "2026-07-07T14:13:03+00:00",
+  "total": 132,
   "cohorts": [
     {
       "id": "6d591f49-44d3-4bbc-8ef3-4f582f9182aa",
@@ -817,6 +817,17 @@
       "active": true
     },
     {
+      "id": "6fbf1a18-c228-4fb9-891d-386b9ddf8b5f",
+      "title": "Programación Backend (III): Testing y Escalabilidad Flex",
+      "schedule": "Mié — 21:30 ART",
+      "start": "20/08/2026",
+      "end": "14/10/2026",
+      "cid": "103300",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "012884b5-c919-47c0-97e9-0a3561dcda7d",
       "title": "AI Automation Avanzado",
       "schedule": "Jue y Mar — 19:00 ART",
@@ -1417,6 +1428,28 @@
       "start": "03/09/2026",
       "end": "30/10/2026",
       "cid": "91195",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8cebe3df-a37e-4be1-8477-5fadca5fc6de",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend Flex",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "05/09/2026",
+      "end": "31/10/2026",
+      "cid": "94910",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b5aa8907-8dff-4e37-af5b-54f66975f8c2",
+      "title": "Photoshop e Illustrator Flex",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "05/09/2026",
+      "end": "10/10/2026",
+      "cid": "94635",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
