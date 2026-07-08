@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-07-07T14:13:03+00:00",
-  "total": 132,
+  "generated_at": "2026-07-08T13:46:54+00:00",
+  "total": 131,
   "cohorts": [
-    {
-      "id": "6d591f49-44d3-4bbc-8ef3-4f582f9182aa",
-      "title": "E-commerce Flex",
-      "schedule": "Mié — 20:30 ART",
-      "start": "15/07/2026",
-      "end": "17/09/2026",
-      "cid": "91770",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "bd8602ec-3327-4a90-aa6b-e65547901de0",
       "title": "UX Research Flex",
