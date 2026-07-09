@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-07-08T13:46:54+00:00",
+  "generated_at": "2026-07-09T14:39:10+00:00",
   "total": 131,
   "cohorts": [
-    {
-      "id": "bd8602ec-3327-4a90-aa6b-e65547901de0",
-      "title": "UX Research Flex",
-      "schedule": "Jue — 19:00 ART",
-      "start": "16/07/2026",
-      "end": "28/08/2026",
-      "cid": "94005",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "7aae7349-6cff-4446-9c94-2e336d322545",
       "title": "Google Ads Flex",
@@ -1439,6 +1428,17 @@
       "start": "05/09/2026",
       "end": "10/10/2026",
       "cid": "94635",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1365be83-31d3-4826-94a2-f2af4834fb41",
+      "title": "JavaScript Flex",
+      "schedule": "Lun — 10:00 ART",
+      "start": "07/09/2026",
+      "end": "23/11/2026",
+      "cid": "95080",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
