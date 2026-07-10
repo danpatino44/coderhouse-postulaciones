@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T14:39:10+00:00",
-  "total": 131,
+  "generated_at": "2026-07-10T14:05:35+00:00",
+  "total": 139,
   "cohorts": [
     {
       "id": "7aae7349-6cff-4446-9c94-2e336d322545",
@@ -1433,12 +1433,100 @@
       "active": true
     },
     {
+      "id": "4a7babb5-bad4-428d-829e-522788adcb97",
+      "title": "Tableau Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "07/09/2026",
+      "end": "19/10/2026",
+      "cid": "103035",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "143937fa-4055-4215-9d65-017756d2e0c7",
+      "title": "DevOps & Cloud",
+      "schedule": "Lun — 20:30 ART",
+      "start": "07/09/2026",
+      "end": "21/09/2026",
+      "cid": "102090",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "1365be83-31d3-4826-94a2-f2af4834fb41",
       "title": "JavaScript Flex",
       "schedule": "Lun — 10:00 ART",
       "start": "07/09/2026",
       "end": "23/11/2026",
       "cid": "95080",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3c2e37ad-975c-4c8d-9278-f4dd70dd1038",
+      "title": "React JS",
+      "schedule": "Lun — 20:30 ART",
+      "start": "07/09/2026",
+      "end": "10/11/2026",
+      "cid": "93485",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "78f561f3-6c4a-42b8-b449-cd7d301b4834",
+      "title": "Publicidad en Redes Avanzado Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "07/09/2026",
+      "end": "10/11/2026",
+      "cid": "92920",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0ae4f5f4-6442-4db4-a995-5dba94fc3dd4",
+      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "07/09/2026",
+      "end": "17/11/2026",
+      "cid": "92740",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "82917543-5896-4dc6-aed7-717e23484f07",
+      "title": "Excel",
+      "schedule": "Lun — 20:30 ART",
+      "start": "07/09/2026",
+      "end": "17/11/2026",
+      "cid": "91900",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "496c2cef-9700-4013-b971-6f70e849471b",
+      "title": "Desarrollo Web Flex",
+      "schedule": "Lun — 20:30 ART",
+      "start": "07/09/2026",
+      "end": "17/11/2026",
+      "cid": "91345",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5ed3b4c0-f496-4504-8261-767455001718",
+      "title": "Product Manager",
+      "schedule": "Mar — 10:00 ART",
+      "start": "08/09/2026",
+      "end": "27/10/2026",
+      "cid": "95135",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
