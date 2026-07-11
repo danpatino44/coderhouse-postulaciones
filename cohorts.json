@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-10T14:05:35+00:00",
-  "total": 139,
+  "generated_at": "2026-07-11T13:01:40+00:00",
+  "total": 147,
   "cohorts": [
     {
       "id": "7aae7349-6cff-4446-9c94-2e336d322545",
-      "title": "Google Ads Flex",
+      "title": "Google Ads, Analytics & Looker Studio",
       "schedule": "Mié — 20:30 ART",
       "start": "22/07/2026",
       "end": "03/09/2026",
@@ -48,7 +48,7 @@
     },
     {
       "id": "51afa39e-a819-480b-8c29-c2ce7a70d214",
-      "title": "Publicidad en Redes Avanzado Flex",
+      "title": "Paid media: Meta & Google Ads",
       "schedule": "Sáb — 11:00 ART",
       "start": "01/08/2026",
       "end": "19/09/2026",
@@ -246,7 +246,7 @@
     },
     {
       "id": "bb7ed208-a415-4b2a-8f74-94820b1a1f07",
-      "title": "Publicidad en Redes Avanzado Flex",
+      "title": "Paid media: Meta & Google Ads",
       "schedule": "Jue — 19:00 ART",
       "start": "06/08/2026",
       "end": "02/10/2026",
@@ -257,7 +257,7 @@
     },
     {
       "id": "44de9061-ba9e-478a-b47e-265c73448c8c",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "title": "Community Manager",
       "schedule": "Jue — 19:00 ART",
       "start": "06/08/2026",
       "end": "09/10/2026",
@@ -279,7 +279,7 @@
     },
     {
       "id": "1123f933-ed2f-4ad3-89b4-12d76d6f1f88",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "title": "Community Manager",
       "schedule": "Sáb — 11:00 ART",
       "start": "08/08/2026",
       "end": "10/10/2026",
@@ -345,7 +345,7 @@
     },
     {
       "id": "f1277029-4c10-41a2-ba55-d731e359d860",
-      "title": "Publicidad en Redes Avanzado Flex",
+      "title": "Paid media: Meta & Google Ads",
       "schedule": "Lun — 20:30 ART",
       "start": "10/08/2026",
       "end": "20/10/2026",
@@ -356,7 +356,7 @@
     },
     {
       "id": "55ee3398-8b77-49ab-bbc7-d4d881747b72",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "title": "Community Manager",
       "schedule": "Lun — 20:30 ART",
       "start": "10/08/2026",
       "end": "27/10/2026",
@@ -642,7 +642,7 @@
     },
     {
       "id": "46da90fb-ecb5-4065-a423-9a39fffca582",
-      "title": "Creación de productos desde 0 con AI",
+      "title": "Vibe Coding: creá tu app con IA",
       "schedule": "Mar — 19:00 ART",
       "start": "18/08/2026",
       "end": "23/09/2026",
@@ -686,7 +686,7 @@
     },
     {
       "id": "7251931f-931e-4fa2-89d7-6fd48d1bc537",
-      "title": "Publicidad en Redes Avanzado Flex",
+      "title": "Paid media: Meta & Google Ads",
       "schedule": "Mar — 19:00 ART",
       "start": "18/08/2026",
       "end": "14/10/2026",
@@ -697,7 +697,7 @@
     },
     {
       "id": "a3d6faac-8d87-4a85-87ec-e5353e221c41",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "title": "Community Manager",
       "schedule": "Mar — 19:00 ART",
       "start": "18/08/2026",
       "end": "21/10/2026",
@@ -818,7 +818,7 @@
     },
     {
       "id": "bd4659b6-ad15-48d8-b1e3-4be5676390e0",
-      "title": "Finanzas Personales Flex",
+      "title": "Finanzas e inversiones desde cero",
       "schedule": "Jue — 19:00 ART",
       "start": "20/08/2026",
       "end": "11/09/2026",
@@ -851,7 +851,7 @@
     },
     {
       "id": "5eee9c2b-f0e1-48f4-98c0-2e404370ca8e",
-      "title": "Business Analytics Flex",
+      "title": "Análisis de datos para negocios",
       "schedule": "Jue — 19:00 ART",
       "start": "20/08/2026",
       "end": "16/10/2026",
@@ -928,7 +928,7 @@
     },
     {
       "id": "35f2c094-9a59-4b18-affc-59b8dbb7d6c1",
-      "title": "Creación de productos desde 0 con AI",
+      "title": "Vibe Coding: creá tu app con IA",
       "schedule": "Lun — 20:30 ART",
       "start": "24/08/2026",
       "end": "29/09/2026",
@@ -1115,7 +1115,7 @@
     },
     {
       "id": "d29cf145-0ac7-4945-b89b-ccbabd3ec736",
-      "title": "Publicidad en Redes Avanzado Flex",
+      "title": "Paid media: Meta & Google Ads",
       "schedule": "Mié — 20:30 ART",
       "start": "26/08/2026",
       "end": "22/10/2026",
@@ -1126,7 +1126,7 @@
     },
     {
       "id": "04faeb29-4b01-4d0e-bba3-040bed555125",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "title": "Community Manager",
       "schedule": "Mié — 20:30 ART",
       "start": "26/08/2026",
       "end": "29/10/2026",
@@ -1236,7 +1236,7 @@
     },
     {
       "id": "b88880c9-5bf2-4ffb-895c-5308f5e91eba",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "title": "Community Manager",
       "schedule": "Lun — 10:00 ART",
       "start": "31/08/2026",
       "end": "09/11/2026",
@@ -1269,7 +1269,7 @@
     },
     {
       "id": "280db51d-cde5-4ab4-b992-6c2f2e23f2a7",
-      "title": "Google Ads Flex",
+      "title": "Google Ads, Analytics & Looker Studio",
       "schedule": "Mar — 19:00 ART",
       "start": "01/09/2026",
       "end": "14/10/2026",
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "8d7dac09-ba96-4653-96a3-3c6574a9d521",
-      "title": "Publicidad en Redes Avanzado Flex",
+      "title": "Paid media: Meta & Google Ads",
       "schedule": "Jue — 19:00 ART",
       "start": "03/09/2026",
       "end": "30/10/2026",
@@ -1379,7 +1379,7 @@
     },
     {
       "id": "06e93e66-fa64-435c-92d6-b54b5c244701",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "title": "Community Manager",
       "schedule": "Jue — 19:00 ART",
       "start": "03/09/2026",
       "end": "06/11/2026",
@@ -1478,7 +1478,7 @@
     },
     {
       "id": "78f561f3-6c4a-42b8-b449-cd7d301b4834",
-      "title": "Publicidad en Redes Avanzado Flex",
+      "title": "Paid media: Meta & Google Ads",
       "schedule": "Lun — 20:30 ART",
       "start": "07/09/2026",
       "end": "10/11/2026",
@@ -1489,7 +1489,7 @@
     },
     {
       "id": "0ae4f5f4-6442-4db4-a995-5dba94fc3dd4",
-      "title": "Marketing Digital: Community Manager & Publicidad Flex",
+      "title": "Community Manager",
       "schedule": "Lun — 20:30 ART",
       "start": "07/09/2026",
       "end": "17/11/2026",
@@ -1521,12 +1521,100 @@
       "active": true
     },
     {
+      "id": "eb29e63e-15e3-4fe9-9c88-c03a41851308",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "08/09/2026",
+      "end": "28/10/2026",
+      "cid": "95275",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "5ed3b4c0-f496-4504-8261-767455001718",
       "title": "Product Manager",
       "schedule": "Mar — 10:00 ART",
       "start": "08/09/2026",
       "end": "27/10/2026",
       "cid": "95135",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8d6081ea-d50c-4709-a086-e30b5599d3c1",
+      "title": "Photoshop e Illustrator Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "08/09/2026",
+      "end": "21/10/2026",
+      "cid": "94115",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a60d1976-fc67-40d3-8672-ff21ba87144e",
+      "title": "UX Research Flex",
+      "schedule": "Mar — 19:00 ART",
+      "start": "08/09/2026",
+      "end": "04/11/2026",
+      "cid": "94025",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9e82609d-eb5e-41bf-8842-6c1b10967dd4",
+      "title": "Prototipado con Figma",
+      "schedule": "Mar — 19:00 ART",
+      "start": "08/09/2026",
+      "end": "04/11/2026",
+      "cid": "93275",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d1763dca-0235-414f-9752-84b73691159f",
+      "title": "Introducción a la Inteligencia Artificial",
+      "schedule": "Mar — 19:00 ART",
+      "start": "08/09/2026",
+      "end": "14/10/2026",
+      "cid": "92050",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c6f234da-0914-4a05-8b06-b9e5d28b4032",
+      "title": "Data Analytics",
+      "schedule": "Mar — 19:00 ART",
+      "start": "08/09/2026",
+      "end": "11/11/2026",
+      "cid": "91060",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ca4d93cf-fb6f-42e0-9caf-fc1ecd6a83e5",
+      "title": "Data science 1 (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "09/09/2026",
+      "end": "18/11/2026",
+      "cid": "102390",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0d5f6af8-a466-4436-b134-823ed45536d4",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Mié — 10:00 ART",
+      "start": "09/09/2026",
+      "end": "04/11/2026",
+      "cid": "95120",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
