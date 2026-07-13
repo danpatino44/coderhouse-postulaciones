@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T13:02:37+00:00",
-  "total": 151,
+  "generated_at": "2026-07-13T14:14:05+00:00",
+  "total": 159,
   "cohorts": [
     {
       "id": "7aae7349-6cff-4446-9c94-2e336d322545",
@@ -1257,6 +1257,28 @@
       "active": true
     },
     {
+      "id": "ae9e8209-03aa-483e-864d-cb38aa725ba2",
+      "title": "BE I: Desarrollo avanzado de Backend (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "01/09/2026",
+      "end": "10/12/2026",
+      "cid": "102335",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "62ee970a-1548-406d-a41f-bd66069a4984",
+      "title": "BE I: Desarrollo avanzado de Backend (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "01/09/2026",
+      "end": "10/12/2026",
+      "cid": "102275",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "bd9298c0-9bf9-46af-b02e-b9d619042963",
       "title": "Product Manager",
       "schedule": "Mar — 19:00 ART",
@@ -1653,12 +1675,78 @@
       "active": true
     },
     {
+      "id": "64f671e7-30be-4354-b952-143f30385c01",
+      "title": "AI Automation Avanzado",
+      "schedule": "Mar y Jue — 19:00 ART",
+      "start": "10/09/2026",
+      "end": "13/10/2026",
+      "cid": "103270",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3312fd80-f438-4a50-b9b0-d100ebaa2b50",
+      "title": "AI Automation Avanzado",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "10/09/2026",
+      "end": "14/10/2026",
+      "cid": "103065",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a0167d67-cfa5-457b-9423-079a1910b7e2",
+      "title": "AI Automation Avanzado",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "10/09/2026",
+      "end": "14/10/2026",
+      "cid": "97490",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "76b9a3f8-1672-4978-b147-edbdee2556ec",
       "title": "Desarrollo Web Flex",
       "schedule": "Jue — 10:00 ART",
       "start": "10/09/2026",
       "end": "12/11/2026",
       "cid": "95050",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a91d545b-baa6-4cbc-bd15-db5754cfe120",
+      "title": "Growth Marketing Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "10/09/2026",
+      "end": "13/11/2026",
+      "cid": "92255",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0f4f3506-2d31-4b2b-8ed7-a8cb653fbca6",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Jue — 19:00 ART",
+      "start": "10/09/2026",
+      "end": "20/11/2026",
+      "cid": "91705",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2fb25047-ea4f-4fb0-8050-8bfdca697bbb",
+      "title": "Diseño UX/UI Flex",
+      "schedule": "Jue — 19:00 ART",
+      "start": "10/09/2026",
+      "end": "04/12/2026",
+      "cid": "91545",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
