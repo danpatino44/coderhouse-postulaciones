@@ -1,32 +1,10 @@
 {
-  "generated_at": "2026-07-14T13:16:24+00:00",
-  "total": 159,
+  "generated_at": "2026-07-15T13:20:07+00:00",
+  "total": 156,
   "cohorts": [
     {
-      "id": "7aae7349-6cff-4446-9c94-2e336d322545",
-      "title": "Google Ads, Analytics & Looker Studio",
-      "schedule": "Mié — 20:30 ART",
-      "start": "22/07/2026",
-      "end": "03/09/2026",
-      "cid": "92135",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "a6ecd94f-2893-4438-9c7e-69a36077743b",
-      "title": "Excel",
-      "schedule": "Mié — 20:30 ART",
-      "start": "22/07/2026",
-      "end": "17/09/2026",
-      "cid": "91870",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "77d73b47-cadd-4979-a0be-4440923fc877",
-      "title": "Tableau Flex",
+      "title": "Tableau",
       "schedule": "Mar — 19:00 ART",
       "start": "28/07/2026",
       "end": "01/09/2026",
@@ -70,7 +48,7 @@
     },
     {
       "id": "9a6032b7-af66-4458-bf16-f3023a5354d0",
-      "title": "JavaScript Flex",
+      "title": "JavaScript",
       "schedule": "Lun — 20:30 ART",
       "start": "03/08/2026",
       "end": "27/10/2026",
@@ -81,7 +59,7 @@
     },
     {
       "id": "e4b1ed52-cc15-47e9-b486-f6ece4fd2ac2",
-      "title": "Fundamentos del Marketing digital Flex",
+      "title": "Fundamentos del Marketing digital",
       "schedule": "Lun — 20:30 ART",
       "start": "03/08/2026",
       "end": "29/09/2026",
@@ -92,7 +70,7 @@
     },
     {
       "id": "88291700-842b-4578-8ac7-20e54d3f791e",
-      "title": "Desarrollo Web Flex",
+      "title": "Desarrollo Web",
       "schedule": "Lun — 20:30 ART",
       "start": "03/08/2026",
       "end": "20/10/2026",
@@ -169,7 +147,7 @@
     },
     {
       "id": "25fabaac-5ff5-44c5-8b38-5a58a77685df",
-      "title": "Growth Marketing Flex",
+      "title": "Growth Marketing",
       "schedule": "Mié — 20:30 ART",
       "start": "05/08/2026",
       "end": "08/10/2026",
@@ -180,7 +158,7 @@
     },
     {
       "id": "f1de95fa-2953-42ba-a9bd-16dc9041b0e8",
-      "title": "Diseño UX/UI Flex",
+      "title": "Diseño UX/UI",
       "schedule": "Mié — 20:30 ART",
       "start": "05/08/2026",
       "end": "29/10/2026",
@@ -235,7 +213,7 @@
     },
     {
       "id": "5a94ca87-dce1-4ee3-a52e-31a6f75b8abc",
-      "title": "Técnicas de Negociación Flex",
+      "title": "Técnicas de Negociación",
       "schedule": "Jue — 19:00 ART",
       "start": "06/08/2026",
       "end": "28/08/2026",
@@ -268,7 +246,7 @@
     },
     {
       "id": "1b0c8e7d-ee36-4d71-a7ac-d8d4851d3835",
-      "title": "Customer Experience (CX) Flex",
+      "title": "Customer Experience (CX)",
       "schedule": "Jue — 19:00 ART",
       "start": "06/08/2026",
       "end": "02/10/2026",
@@ -301,7 +279,7 @@
     },
     {
       "id": "b8845aed-842f-40f1-a9f3-e4b2a3075349",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend",
       "schedule": "Lun — 20:30 ART",
       "start": "10/08/2026",
       "end": "06/10/2026",
@@ -312,7 +290,7 @@
     },
     {
       "id": "c9c63ae4-50cf-4873-a6ad-3a2b8994f027",
-      "title": "Programación Backend I: Desarrollo Avanzado de Backend Flex",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
       "schedule": "Lun — 20:30 ART",
       "start": "10/08/2026",
       "end": "20/10/2026",
@@ -334,7 +312,7 @@
     },
     {
       "id": "1295c7c0-fc36-42d7-8451-1cc8ab870dc0",
-      "title": "Power BI Flex",
+      "title": "Power BI",
       "schedule": "Lun — 20:30 ART",
       "start": "10/08/2026",
       "end": "15/09/2026",
@@ -433,7 +411,7 @@
     },
     {
       "id": "46143a97-57d8-4ace-91fa-e53969384ffa",
-      "title": "Programación Backend I: Desarrollo Avanzado de Backend Flex",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
       "schedule": "Mar — 19:00 ART",
       "start": "11/08/2026",
       "end": "21/10/2026",
@@ -444,7 +422,7 @@
     },
     {
       "id": "51a2478a-1119-481c-9f11-e0db0026a436",
-      "title": "Programación Backend I: Desarrollo Avanzado de Backend Flex",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
       "schedule": "Mar — 10:00 ART",
       "start": "11/08/2026",
       "end": "20/10/2026",
@@ -455,7 +433,7 @@
     },
     {
       "id": "948a530d-8d55-497d-8e73-a363b0c9fb2b",
-      "title": "Photoshop e Illustrator Flex",
+      "title": "Photoshop e Illustrator",
       "schedule": "Mar — 19:00 ART",
       "start": "11/08/2026",
       "end": "23/09/2026",
@@ -466,7 +444,7 @@
     },
     {
       "id": "58567c46-7798-469b-bcae-d76ee739a5be",
-      "title": "UX Research Flex",
+      "title": "UX Research",
       "schedule": "Mar — 19:00 ART",
       "start": "11/08/2026",
       "end": "07/10/2026",
@@ -510,7 +488,7 @@
     },
     {
       "id": "f8ba426b-531d-40d1-aee5-2b5a4b0ac758",
-      "title": "Desarrollo Web Flex",
+      "title": "Desarrollo Web",
       "schedule": "Mar — 19:00 ART",
       "start": "11/08/2026",
       "end": "14/10/2026",
@@ -532,7 +510,7 @@
     },
     {
       "id": "d32ca48e-25ef-4251-8f08-f5eb386991dc",
-      "title": "Data Science II: Machine Learning para la Ciencia de Datos Flex",
+      "title": "Data Science II: Machine Learning para la Ciencia de Datos",
       "schedule": "Mar — 19:00 ART",
       "start": "11/08/2026",
       "end": "25/11/2026",
@@ -543,7 +521,7 @@
     },
     {
       "id": "80f49d5c-9220-4433-b220-e6fd6858a0e5",
-      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos Flex",
+      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos",
       "schedule": "Mar — 19:00 ART",
       "start": "11/08/2026",
       "end": "02/09/2026",
@@ -554,7 +532,7 @@
     },
     {
       "id": "a3e2a2c5-a64e-496f-87cb-e7f72088eb88",
-      "title": "Tableau Flex",
+      "title": "Tableau",
       "schedule": "Mié — 20:30 ART",
       "start": "12/08/2026",
       "end": "16/09/2026",
@@ -587,7 +565,7 @@
     },
     {
       "id": "09c34a17-f44d-40c3-80a9-a6a0128cdefc",
-      "title": "Desarrollo Web Flex",
+      "title": "Desarrollo Web",
       "schedule": "Mié — 10:00 ART",
       "start": "12/08/2026",
       "end": "14/10/2026",
@@ -598,7 +576,7 @@
     },
     {
       "id": "11bcd858-e320-4bb3-b12f-50fc6ea9e2b2",
-      "title": "Tableau Flex",
+      "title": "Tableau",
       "schedule": "Mié — 20:30 ART",
       "start": "12/08/2026",
       "end": "17/09/2026",
@@ -609,7 +587,7 @@
     },
     {
       "id": "0c509683-89a5-4201-bc24-4fb251c7098b",
-      "title": "Growth Marketing Flex",
+      "title": "Growth Marketing",
       "schedule": "Mié — 20:30 ART",
       "start": "12/08/2026",
       "end": "15/10/2026",
@@ -620,7 +598,7 @@
     },
     {
       "id": "7cda03e2-9a82-4229-a49b-67bb9a01819c",
-      "title": "Growth Marketing Flex",
+      "title": "Growth Marketing",
       "schedule": "Jue — 19:00 ART",
       "start": "13/08/2026",
       "end": "16/10/2026",
@@ -631,7 +609,7 @@
     },
     {
       "id": "cc727ce9-bccd-4772-985c-51be37452a79",
-      "title": "Fundamentos del Diseño Gráfico Flex",
+      "title": "Fundamentos del Diseño Gráfico",
       "schedule": "Jue — 19:00 ART",
       "start": "13/08/2026",
       "end": "18/09/2026",
@@ -642,7 +620,7 @@
     },
     {
       "id": "e8c63a61-72df-4ac5-8aed-5de2740cca43",
-      "title": "Diseño UX/UI Flex",
+      "title": "Diseño UX/UI",
       "schedule": "Jue — 19:00 ART",
       "start": "13/08/2026",
       "end": "06/11/2026",
@@ -675,7 +653,7 @@
     },
     {
       "id": "7405dd39-9884-4bea-9d7b-011867c65df6",
-      "title": "Testing QA Manual Flex",
+      "title": "Testing QA Manual",
       "schedule": "Mar — 19:00 ART",
       "start": "18/08/2026",
       "end": "30/09/2026",
@@ -686,7 +664,7 @@
     },
     {
       "id": "6b511534-61d1-4fd7-9625-0f3f5b6eb64c",
-      "title": "Scrum - Metodologías Ágiles Flex",
+      "title": "Scrum - Metodologías Ágiles",
       "schedule": "Mar — 19:00 ART",
       "start": "18/08/2026",
       "end": "14/10/2026",
@@ -719,7 +697,7 @@
     },
     {
       "id": "4eb8694f-4ada-423e-8fc2-d80d8576ccbf",
-      "title": "JavaScript Flex",
+      "title": "JavaScript",
       "schedule": "Mar — 19:00 ART",
       "start": "18/08/2026",
       "end": "28/10/2026",
@@ -741,7 +719,7 @@
     },
     {
       "id": "ecbdbead-91f5-456c-a151-c435acf0c9e8",
-      "title": "Canva Flex",
+      "title": "Canva",
       "schedule": "Mar — 19:00 ART",
       "start": "18/08/2026",
       "end": "16/09/2026",
@@ -796,7 +774,7 @@
     },
     {
       "id": "6b4d4dbd-5a9a-4eda-9af1-d113f0c19f39",
-      "title": "Ciberseguridad Flex",
+      "title": "Ciberseguridad",
       "schedule": "Mié — 20:30 ART",
       "start": "19/08/2026",
       "end": "15/10/2026",
@@ -807,7 +785,7 @@
     },
     {
       "id": "6fbf1a18-c228-4fb9-891d-386b9ddf8b5f",
-      "title": "Programación Backend (III): Testing y Escalabilidad Flex",
+      "title": "Programación Backend (III): Testing y Escalabilidad",
       "schedule": "Mié — 21:30 ART",
       "start": "20/08/2026",
       "end": "14/10/2026",
@@ -840,7 +818,7 @@
     },
     {
       "id": "24baa108-c5b5-4156-8ebd-6f798a419ddb",
-      "title": "Desarrollo Web Flex",
+      "title": "Desarrollo Web",
       "schedule": "Jue — 19:00 ART",
       "start": "20/08/2026",
       "end": "23/10/2026",
@@ -917,7 +895,7 @@
     },
     {
       "id": "c1662700-c54d-46e2-99eb-64362322f834",
-      "title": "Desarrollo Web Flex",
+      "title": "Desarrollo Web",
       "schedule": "Sáb — 11:00 ART",
       "start": "22/08/2026",
       "end": "17/10/2026",
@@ -961,7 +939,7 @@
     },
     {
       "id": "70180f6d-0403-468e-a4d1-6b4d7e0bde94",
-      "title": "Growth Marketing Flex",
+      "title": "Growth Marketing",
       "schedule": "Lun — 10:00 ART",
       "start": "24/08/2026",
       "end": "02/11/2026",
@@ -972,7 +950,7 @@
     },
     {
       "id": "0a4c3918-ff97-49ea-9473-2148abcee087",
-      "title": "Photoshop e Illustrator Flex",
+      "title": "Photoshop e Illustrator",
       "schedule": "Lun — 20:30 ART",
       "start": "24/08/2026",
       "end": "06/10/2026",
@@ -983,7 +961,7 @@
     },
     {
       "id": "c85416b7-0794-46ed-a9b1-2d38aade6f9b",
-      "title": "UX Research Flex",
+      "title": "UX Research",
       "schedule": "Lun — 20:30 ART",
       "start": "24/08/2026",
       "end": "20/10/2026",
@@ -1005,7 +983,7 @@
     },
     {
       "id": "73be75f5-baa0-4318-b166-9879fa6bd698",
-      "title": "SQL Flex",
+      "title": "SQL",
       "schedule": "Lun — 20:30 ART",
       "start": "24/08/2026",
       "end": "10/11/2026",
@@ -1016,7 +994,7 @@
     },
     {
       "id": "1ec27d08-cd3b-484f-bb12-a1c0eba8eadf",
-      "title": "Oratoria Flex",
+      "title": "Oratoria",
       "schedule": "Lun — 20:30 ART",
       "start": "24/08/2026",
       "end": "01/09/2026",
@@ -1027,7 +1005,7 @@
     },
     {
       "id": "93e2cb2a-2e72-4fec-bdd7-3fc8119161b3",
-      "title": "Growth Marketing Flex",
+      "title": "Growth Marketing",
       "schedule": "Lun — 20:30 ART",
       "start": "24/08/2026",
       "end": "27/10/2026",
@@ -1038,7 +1016,7 @@
     },
     {
       "id": "8c19e5d8-742a-4884-80c1-e5f94ff31fcd",
-      "title": "Diseño UX/UI Flex",
+      "title": "Diseño UX/UI",
       "schedule": "Lun — 20:30 ART",
       "start": "24/08/2026",
       "end": "17/11/2026",
@@ -1082,7 +1060,7 @@
     },
     {
       "id": "c5c708c7-6e8c-49d3-a2e9-7bf7ae68dc65",
-      "title": "Power BI Flex",
+      "title": "Power BI",
       "schedule": "Mar — 19:00 ART",
       "start": "25/08/2026",
       "end": "23/09/2026",
@@ -1104,7 +1082,7 @@
     },
     {
       "id": "03159a91-99ba-4c1c-970b-11011bd31ec1",
-      "title": "Growth Marketing Flex",
+      "title": "Growth Marketing",
       "schedule": "Mar — 19:00 ART",
       "start": "25/08/2026",
       "end": "28/10/2026",
@@ -1115,7 +1093,7 @@
     },
     {
       "id": "f12c04df-ade4-4899-938f-dfd427abbf09",
-      "title": "Diseño UX/UI Flex",
+      "title": "Diseño UX/UI",
       "schedule": "Mar — 19:00 ART",
       "start": "25/08/2026",
       "end": "18/11/2026",
@@ -1148,7 +1126,7 @@
     },
     {
       "id": "df1b6833-aa0b-48ef-8c8f-138c81839ef3",
-      "title": "JavaScript Flex",
+      "title": "JavaScript",
       "schedule": "Mié — 20:30 ART",
       "start": "26/08/2026",
       "end": "05/11/2026",
@@ -1170,7 +1148,7 @@
     },
     {
       "id": "917f7b9d-838f-4ce3-b5d7-65d25e39fff3",
-      "title": "Desarrollo Web Flex",
+      "title": "Desarrollo Web",
       "schedule": "Mié — 20:30 ART",
       "start": "26/08/2026",
       "end": "29/10/2026",
@@ -1181,7 +1159,7 @@
     },
     {
       "id": "9225d4e4-0261-4b61-a21d-97a95770d562",
-      "title": "Tableau Flex",
+      "title": "Tableau",
       "schedule": "Jue — 19:00 ART",
       "start": "27/08/2026",
       "end": "01/10/2026",
@@ -1203,7 +1181,7 @@
     },
     {
       "id": "6e6c398c-797b-44ae-a919-accb237c5528",
-      "title": "Tableau Flex",
+      "title": "Tableau",
       "schedule": "Jue — 19:00 ART",
       "start": "27/08/2026",
       "end": "02/10/2026",
@@ -1236,7 +1214,7 @@
     },
     {
       "id": "e45950b2-01a7-4760-b967-397a69e9f9e6",
-      "title": "E-commerce Flex",
+      "title": "E-commerce",
       "schedule": "Jue — 19:00 ART",
       "start": "27/08/2026",
       "end": "30/10/2026",
@@ -1263,28 +1241,6 @@
       "start": "31/08/2026",
       "end": "10/11/2026",
       "cid": "91050",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ae9e8209-03aa-483e-864d-cb38aa725ba2",
-      "title": "BE I: Desarrollo avanzado de Backend (diplomatura)",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "01/09/2026",
-      "end": "10/12/2026",
-      "cid": "102335",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "62ee970a-1548-406d-a41f-bd66069a4984",
-      "title": "BE I: Desarrollo avanzado de Backend (diplomatura)",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "01/09/2026",
-      "end": "10/12/2026",
-      "cid": "102275",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1324,7 +1280,7 @@
     },
     {
       "id": "26747de8-8927-4378-ac79-9fe9ca590dd2",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend Flex",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend",
       "schedule": "Mié — 10:00 ART",
       "start": "02/09/2026",
       "end": "21/10/2026",
@@ -1346,7 +1302,7 @@
     },
     {
       "id": "7c2941f7-2ffc-466a-afa0-2de204683e56",
-      "title": "Growth Marketing Flex",
+      "title": "Growth Marketing",
       "schedule": "Mié — 20:30 ART",
       "start": "02/09/2026",
       "end": "05/11/2026",
@@ -1357,7 +1313,7 @@
     },
     {
       "id": "685d7e88-a902-4682-902e-a38892fba0f3",
-      "title": "Diseño UX/UI Flex",
+      "title": "Diseño UX/UI",
       "schedule": "Mié — 20:30 ART",
       "start": "02/09/2026",
       "end": "26/11/2026",
@@ -1423,7 +1379,7 @@
     },
     {
       "id": "9a41fddd-306c-4023-a6af-e872840ed2fb",
-      "title": "JavaScript Flex",
+      "title": "JavaScript",
       "schedule": "Jue — 19:00 ART",
       "start": "03/09/2026",
       "end": "13/11/2026",
@@ -1434,7 +1390,7 @@
     },
     {
       "id": "99ac1b33-fef5-4cb0-b769-e91de9454b89",
-      "title": "Customer Experience (CX) Flex",
+      "title": "Customer Experience (CX)",
       "schedule": "Jue — 19:00 ART",
       "start": "03/09/2026",
       "end": "30/10/2026",
@@ -1445,7 +1401,7 @@
     },
     {
       "id": "8cebe3df-a37e-4be1-8477-5fadca5fc6de",
-      "title": "Programación Backend I: Desarrollo Avanzado de Backend Flex",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
       "schedule": "Sáb — 11:00 ART",
       "start": "05/09/2026",
       "end": "31/10/2026",
@@ -1456,7 +1412,7 @@
     },
     {
       "id": "b5aa8907-8dff-4e37-af5b-54f66975f8c2",
-      "title": "Photoshop e Illustrator Flex",
+      "title": "Photoshop e Illustrator",
       "schedule": "Sáb — 11:00 ART",
       "start": "05/09/2026",
       "end": "10/10/2026",
@@ -1467,7 +1423,7 @@
     },
     {
       "id": "4a7babb5-bad4-428d-829e-522788adcb97",
-      "title": "Tableau Flex",
+      "title": "Tableau",
       "schedule": "Lun — 20:30 ART",
       "start": "07/09/2026",
       "end": "19/10/2026",
@@ -1489,7 +1445,7 @@
     },
     {
       "id": "1365be83-31d3-4826-94a2-f2af4834fb41",
-      "title": "JavaScript Flex",
+      "title": "JavaScript",
       "schedule": "Lun — 10:00 ART",
       "start": "07/09/2026",
       "end": "23/11/2026",
@@ -1544,7 +1500,7 @@
     },
     {
       "id": "496c2cef-9700-4013-b971-6f70e849471b",
-      "title": "Desarrollo Web Flex",
+      "title": "Desarrollo Web",
       "schedule": "Lun — 20:30 ART",
       "start": "07/09/2026",
       "end": "17/11/2026",
@@ -1566,7 +1522,7 @@
     },
     {
       "id": "8d6081ea-d50c-4709-a086-e30b5599d3c1",
-      "title": "Photoshop e Illustrator Flex",
+      "title": "Photoshop e Illustrator",
       "schedule": "Mar — 19:00 ART",
       "start": "08/09/2026",
       "end": "21/10/2026",
@@ -1577,7 +1533,7 @@
     },
     {
       "id": "a60d1976-fc67-40d3-8672-ff21ba87144e",
-      "title": "UX Research Flex",
+      "title": "UX Research",
       "schedule": "Mar — 19:00 ART",
       "start": "08/09/2026",
       "end": "04/11/2026",
@@ -1709,7 +1665,7 @@
     },
     {
       "id": "76b9a3f8-1672-4978-b147-edbdee2556ec",
-      "title": "Desarrollo Web Flex",
+      "title": "Desarrollo Web",
       "schedule": "Jue — 10:00 ART",
       "start": "10/09/2026",
       "end": "12/11/2026",
@@ -1720,7 +1676,7 @@
     },
     {
       "id": "a91d545b-baa6-4cbc-bd15-db5754cfe120",
-      "title": "Growth Marketing Flex",
+      "title": "Growth Marketing",
       "schedule": "Jue — 19:00 ART",
       "start": "10/09/2026",
       "end": "13/11/2026",
@@ -1742,11 +1698,22 @@
     },
     {
       "id": "2fb25047-ea4f-4fb0-8050-8bfdca697bbb",
-      "title": "Diseño UX/UI Flex",
+      "title": "Diseño UX/UI",
       "schedule": "Jue — 19:00 ART",
       "start": "10/09/2026",
       "end": "04/12/2026",
       "cid": "91545",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "85cc302a-34c1-49b3-8f91-fd20449c7eac",
+      "title": "Community Manager",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "12/09/2026",
+      "end": "14/11/2026",
+      "cid": "94705",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
