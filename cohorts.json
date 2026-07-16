@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T13:20:07+00:00",
-  "total": 156,
+  "generated_at": "2026-07-16T13:27:14+00:00",
+  "total": 160,
   "cohorts": [
     {
       "id": "77d73b47-cadd-4979-a0be-4440923fc877",
@@ -1714,6 +1714,50 @@
       "start": "12/09/2026",
       "end": "14/11/2026",
       "cid": "94705",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bc7bc9d8-f2f9-41e7-b787-ec124709f403",
+      "title": "HTML5 (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "14/09/2026",
+      "end": "07/10/2026",
+      "cid": "102895",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "63c325f3-359f-4e38-bd84-a0b26bf43934",
+      "title": "UX Research y Diseño Centrado en el Humano (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "14/09/2026",
+      "end": "28/10/2026",
+      "cid": "102790",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "35cbf05c-bcc7-4786-99c1-1013a7e6b6cf",
+      "title": "Fundamentos de Marketing Digital y Estrategia de Canales (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "14/09/2026",
+      "end": "28/10/2026",
+      "cid": "102700",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "dd518d4b-0e8f-4cc4-a244-c6c6000a0e0e",
+      "title": "Fundamentos de Programación con Python para Datos (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "14/09/2026",
+      "end": "11/11/2026",
+      "cid": "102600",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
