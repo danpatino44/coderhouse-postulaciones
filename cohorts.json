@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T13:27:14+00:00",
-  "total": 160,
+  "generated_at": "2026-07-17T13:12:00+00:00",
+  "total": 177,
   "cohorts": [
     {
       "id": "77d73b47-cadd-4979-a0be-4440923fc877",
@@ -1719,12 +1719,34 @@
       "active": true
     },
     {
+      "id": "8f89edf9-1c80-496d-88e8-0a1c5f4d2918",
+      "title": "HTML5 (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "14/09/2026",
+      "end": "07/10/2026",
+      "cid": "102955",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "bc7bc9d8-f2f9-41e7-b787-ec124709f403",
       "title": "HTML5 (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
       "start": "14/09/2026",
       "end": "07/10/2026",
       "cid": "102895",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3ec4a78a-7d46-4b60-aa73-8c09c198c213",
+      "title": "UX Research y Diseño Centrado en el Humano (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "14/09/2026",
+      "end": "28/10/2026",
+      "cid": "102835",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1741,6 +1763,17 @@
       "active": true
     },
     {
+      "id": "02be0237-91df-422b-b116-4c19b421f752",
+      "title": "Fundamentos de Marketing Digital y Estrategia de Canales (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "14/09/2026",
+      "end": "28/10/2026",
+      "cid": "102745",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "35cbf05c-bcc7-4786-99c1-1013a7e6b6cf",
       "title": "Fundamentos de Marketing Digital y Estrategia de Canales (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
@@ -1752,12 +1785,166 @@
       "active": true
     },
     {
+      "id": "94093515-ed28-43dc-a437-19ecd7a05372",
+      "title": "Fundamentos de Programación con Python para Datos (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "14/09/2026",
+      "end": "11/11/2026",
+      "cid": "102655",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "dd518d4b-0e8f-4cc4-a244-c6c6000a0e0e",
       "title": "Fundamentos de Programación con Python para Datos (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
       "start": "14/09/2026",
       "end": "11/11/2026",
       "cid": "102600",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "cd53bebf-9c3a-48d0-a9ff-87c0b2869ac3",
+      "title": "Programación Backend (III): Testing y Escalabilidad",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "10/11/2026",
+      "cid": "101970",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "24017ec8-5765-4f91-ba3b-bcc44f82ec66",
+      "title": "AI Automation",
+      "schedule": "Lun y Mié — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "03/11/2026",
+      "cid": "96940",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7e8c43a4-1075-4322-8a64-7bc406f7cfba",
+      "title": "Programación Backend (III): Testing y Escalabilidad",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "10/11/2026",
+      "cid": "96795",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "cbcf42ba-8095-4cb5-95a3-da3375cb8fb0",
+      "title": "Data Science II: Machine Learning para la Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "19/01/2027",
+      "cid": "95410",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "636c481d-49e9-426b-9c5b-408a61c10e6b",
+      "title": "Programación Backend (III): Testing y Escalabilidad",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "10/11/2026",
+      "cid": "95295",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9a8d9c67-ce34-479f-a0dc-6ebafd161c00",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "17/11/2026",
+      "cid": "95225",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "88ee89fa-bccb-4142-bdcf-f9ab08b30447",
+      "title": "SQL",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "08/12/2026",
+      "cid": "93635",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "90221e9e-e0f8-4326-b7ec-fd2d1aab593b",
+      "title": "Oratoria",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "29/09/2026",
+      "cid": "93020",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f2b1c517-0182-44e8-b349-7225cf78db91",
+      "title": "Growth Marketing",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "24/11/2026",
+      "cid": "92260",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "fac40ecb-0e4e-4894-965d-df36c572f356",
+      "title": "CSS (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "15/09/2026",
+      "end": "29/10/2026",
+      "cid": "102900",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9ac3fbb1-2551-4425-8666-3b5cd73d3d1c",
+      "title": "Fundamentos Visuales y Maestría en Figma (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "15/09/2026",
+      "end": "29/10/2026",
+      "cid": "102795",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "160468cd-a891-4ed8-9f77-881680ab4644",
+      "title": "Social Media, Contenido Digital e Introducción a la IA (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "15/09/2026",
+      "end": "29/10/2026",
+      "cid": "102705",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "21bab3df-2e8e-4420-86ab-9c878304c7bd",
+      "title": "SQL y Estadística Aplicada al Negocio (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "15/09/2026",
+      "end": "19/11/2026",
+      "cid": "102605",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
