@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T13:12:00+00:00",
-  "total": 177,
+  "generated_at": "2026-07-18T12:57:56+00:00",
+  "total": 193,
   "cohorts": [
     {
       "id": "77d73b47-cadd-4979-a0be-4440923fc877",
@@ -1906,12 +1906,34 @@
       "active": true
     },
     {
+      "id": "96fd628f-d94f-4a15-aa01-9ef3917b7703",
+      "title": "CSS (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "15/09/2026",
+      "end": "29/10/2026",
+      "cid": "102960",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "fac40ecb-0e4e-4894-965d-df36c572f356",
       "title": "CSS (diplomatura)",
       "schedule": "Mar y Jue — 07:30 ART",
       "start": "15/09/2026",
       "end": "29/10/2026",
       "cid": "102900",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9cc90ab0-2a88-411c-bc38-9b59530b26ad",
+      "title": "Fundamentos Visuales y Maestría en Figma (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "15/09/2026",
+      "end": "29/10/2026",
+      "cid": "102840",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1928,6 +1950,17 @@
       "active": true
     },
     {
+      "id": "3298e665-28a0-4c18-9508-0ca0e080c71a",
+      "title": "Social Media, Contenido Digital e Introducción a la IA (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "15/09/2026",
+      "end": "29/10/2026",
+      "cid": "102750",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "160468cd-a891-4ed8-9f77-881680ab4644",
       "title": "Social Media, Contenido Digital e Introducción a la IA (diplomatura)",
       "schedule": "Mar y Jue — 07:30 ART",
@@ -1939,12 +1972,155 @@
       "active": true
     },
     {
+      "id": "a50fe5d2-4e5d-476a-b440-17acf314940e",
+      "title": "SQL y Estadística Aplicada al Negocio (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "15/09/2026",
+      "end": "19/11/2026",
+      "cid": "102660",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "21bab3df-2e8e-4420-86ab-9c878304c7bd",
       "title": "SQL y Estadística Aplicada al Negocio (diplomatura)",
       "schedule": "Mar y Jue — 07:30 ART",
       "start": "15/09/2026",
       "end": "19/11/2026",
       "cid": "102605",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f30483de-d7ca-4d07-a6c1-d8d5f35eca3c",
+      "title": "Curso de AI Agents",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "20/10/2026",
+      "cid": "52",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "eb29e63e-15e3-4fe9-9c88-c03a41851308",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "28/10/2026",
+      "cid": "95275",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7362dd5c-0f71-41ff-b3e0-954202f2596b",
+      "title": "Wordpress",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "14/10/2026",
+      "cid": "93875",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "51c03ab3-dcf5-47d1-9be4-58b6fdfff026",
+      "title": "UX Writing",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "04/11/2026",
+      "cid": "93825",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "dba9060a-ec94-4141-9fcf-9f830164e161",
+      "title": "React JS",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "11/11/2026",
+      "cid": "93490",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2262de2a-8440-4e16-a2b4-e7cf659cda01",
+      "title": "Community Manager",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "18/11/2026",
+      "cid": "92745",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "cc6647a7-79d5-42dc-9bb6-3b19fb861181",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "21/10/2026",
+      "cid": "92575",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "99beaf08-7290-4830-8e98-c6260cadd635",
+      "title": "JavaScript",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "25/11/2026",
+      "cid": "92465",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c55011ef-ddf5-4719-b0fb-79d5a7abedc7",
+      "title": "Excel",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "11/11/2026",
+      "cid": "91905",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b00e7c00-7338-45f9-b437-6a9a9848ee6b",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "25/11/2026",
+      "cid": "91695",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5ef2251b-4cc9-45a3-8e10-5c531f60a100",
+      "title": "Desarrollo Web",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "18/11/2026",
+      "cid": "91350",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "00afc115-799a-4da9-adab-402dcc7766fe",
+      "title": "Cloud Computing (AWS)",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "28/10/2026",
+      "cid": "90905",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
