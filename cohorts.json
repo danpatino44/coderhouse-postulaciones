@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T12:57:56+00:00",
-  "total": 193,
+  "generated_at": "2026-07-19T13:00:10+00:00",
+  "total": 200,
   "cohorts": [
     {
       "id": "77d73b47-cadd-4979-a0be-4440923fc877",
@@ -2121,6 +2121,83 @@
       "start": "15/09/2026",
       "end": "28/10/2026",
       "cid": "90905",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "33707fba-b79a-4491-9e2f-da193e3da4a7",
+      "title": "SEO Para AI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "16/09/2026",
+      "end": "15/10/2026",
+      "cid": "103085",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1d99a0a4-a9f9-4a14-b2ef-b1ac1decb0df",
+      "title": "Vibe Coding: creá tu app con IA",
+      "schedule": "Mié — 20:30 ART",
+      "start": "16/09/2026",
+      "end": "22/10/2026",
+      "cid": "97630",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7d427c2e-6b3c-4d33-9361-eadb856c6393",
+      "title": "SEO Para AI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "16/09/2026",
+      "end": "15/10/2026",
+      "cid": "93600",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "dc547f1a-08f3-4ac8-8b5c-fa6d3f26e9ea",
+      "title": "Power BI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "16/09/2026",
+      "end": "15/10/2026",
+      "cid": "93095",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "765d455e-e14e-4e07-9a99-d3da742d402a",
+      "title": "Fotografía para RRSS",
+      "schedule": "Mié — 20:30 ART",
+      "start": "16/09/2026",
+      "end": "22/10/2026",
+      "cid": "92015",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "87758445-24e8-46fc-88cd-5335654b9bf1",
+      "title": "Copywriting",
+      "schedule": "Mié — 20:30 ART",
+      "start": "16/09/2026",
+      "end": "26/11/2026",
+      "cid": "91150",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4cee86ee-9a68-46df-99cf-83c91e14ddad",
+      "title": "Data Engineering",
+      "schedule": "Mié — 21:30 ART",
+      "start": "17/09/2026",
+      "end": "28/10/2026",
+      "cid": "103115",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
