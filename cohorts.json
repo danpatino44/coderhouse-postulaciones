@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-07-19T13:00:10+00:00",
-  "total": 200,
+  "generated_at": "2026-07-20T13:52:09+00:00",
+  "total": 210,
   "cohorts": [
-    {
-      "id": "77d73b47-cadd-4979-a0be-4440923fc877",
-      "title": "Tableau",
-      "schedule": "Mar — 19:00 ART",
-      "start": "28/07/2026",
-      "end": "01/09/2026",
-      "cid": "103260",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
       "title": "Data Engineering",
@@ -2198,6 +2187,127 @@
       "start": "17/09/2026",
       "end": "28/10/2026",
       "cid": "103115",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "74186dfc-3e39-4ba0-b8fd-1a9b85265b52",
+      "title": "Python",
+      "schedule": "Jue — 19:00 ART",
+      "start": "17/09/2026",
+      "end": "11/12/2026",
+      "cid": "93350",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6c74926a-d5ec-4c2a-8a6e-af89991286e9",
+      "title": "Product Manager",
+      "schedule": "Jue — 19:00 ART",
+      "start": "17/09/2026",
+      "end": "06/11/2026",
+      "cid": "93200",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f8ced0b3-6449-4213-bf47-eb260f8ad8d9",
+      "title": "Fundamentos del Diseño Gráfico",
+      "schedule": "Jue — 19:00 ART",
+      "start": "17/09/2026",
+      "end": "30/10/2026",
+      "cid": "92095",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "314d4734-de1e-4dca-a539-c3ce88fa80be",
+      "title": "Desarrollo de Aplicaciones",
+      "schedule": "Jue — 19:00 ART",
+      "start": "17/09/2026",
+      "end": "27/11/2026",
+      "cid": "91235",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8eb158c4-9aff-497d-b8e0-1421d1cf5e2d",
+      "title": "Data Analytics",
+      "schedule": "Jue — 19:00 ART",
+      "start": "17/09/2026",
+      "end": "20/11/2026",
+      "cid": "91065",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6c2bf976-a9c1-4808-a99b-01a2d2d15142",
+      "title": "Contabilidad",
+      "schedule": "Jue — 19:00 ART",
+      "start": "17/09/2026",
+      "end": "16/10/2026",
+      "cid": "90925",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6542bd1a-aaf3-4dd8-a260-b2281eab70f4",
+      "title": "Git y GitHub (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "18/09/2026",
+      "end": "25/09/2026",
+      "cid": "102905",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "58bdf254-ee45-437b-9504-f80919cdf1b2",
+      "title": "Mentalidad Profesional y Autogestión (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "18/09/2026",
+      "end": "02/10/2026",
+      "cid": "102800",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9828254e-6906-41af-841c-bfa4228cf338",
+      "title": "Mindset Digital y Metodologías Ágiles (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "18/09/2026",
+      "end": "06/10/2026",
+      "cid": "102710",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e900dfef-0cce-4d18-b969-b23e6dfd17ac",
+      "title": "Identidad Profesional y Metodologías Ágiles (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "18/09/2026",
+      "end": "02/10/2026",
+      "cid": "102610",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "519cb4f8-bccd-40c7-b20b-36a9a6be4356",
+      "title": "Metodologias agiles (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "18/09/2026",
+      "end": "30/10/2026",
+      "cid": "102280",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
