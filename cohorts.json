@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-07-20T13:52:09+00:00",
-  "total": 210,
+  "generated_at": "2026-07-21T13:21:53+00:00",
+  "total": 214,
   "cohorts": [
-    {
-      "id": "6765aed5-2388-480d-a3c3-c9ed598a0c23",
-      "title": "Data Engineering",
-      "schedule": "Mar — 19:00 ART",
-      "start": "28/07/2026",
-      "end": "18/08/2026",
-      "cid": "103110",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "51afa39e-a819-480b-8c29-c2ce7a70d214",
-      "title": "Paid media: Meta & Google Ads",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "01/08/2026",
-      "end": "19/09/2026",
-      "cid": "94730",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "7cc65896-51f4-4905-8a8b-b2c13abfcb87",
       "title": "AI Engineering",
@@ -53,17 +31,6 @@
       "start": "03/08/2026",
       "end": "29/09/2026",
       "cid": "92120",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "88291700-842b-4578-8ac7-20e54d3f791e",
-      "title": "Desarrollo Web",
-      "schedule": "Lun — 20:30 ART",
-      "start": "03/08/2026",
-      "end": "20/10/2026",
-      "cid": "91325",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -768,6 +735,17 @@
       "start": "19/08/2026",
       "end": "15/10/2026",
       "cid": "90875",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "588e43a1-683b-41f5-832b-927ee1dc20a7",
+      "title": "AI Automation Avanzado",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "20/08/2026",
+      "end": "23/09/2026",
+      "cid": "103360",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1708,6 +1686,17 @@
       "active": true
     },
     {
+      "id": "3ef3c7ab-ee0f-4208-9ea4-9afa286a484d",
+      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "",
+      "cid": "103365",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "8f89edf9-1c80-496d-88e8-0a1c5f4d2918",
       "title": "HTML5 (diplomatura)",
       "schedule": "Lun y Mié — 18:30 ART",
@@ -2258,12 +2247,34 @@
       "active": true
     },
     {
+      "id": "0684ec37-c414-403b-ba18-1e2dab236877",
+      "title": "Git y GitHub (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "18/09/2026",
+      "end": "25/09/2026",
+      "cid": "102965",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "6542bd1a-aaf3-4dd8-a260-b2281eab70f4",
       "title": "Git y GitHub (diplomatura)",
       "schedule": "Vie — 07:30 ART",
       "start": "18/09/2026",
       "end": "25/09/2026",
       "cid": "102905",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b17d9ceb-3284-4c35-846a-48d38e75aec5",
+      "title": "Mentalidad Profesional y Autogestión (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "18/09/2026",
+      "end": "02/10/2026",
+      "cid": "102845",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2280,6 +2291,17 @@
       "active": true
     },
     {
+      "id": "62180316-2bee-4cbf-b3ee-e85b50527947",
+      "title": "Mindset Digital y Metodologías Ágiles (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "18/09/2026",
+      "end": "02/10/2026",
+      "cid": "102755",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "9828254e-6906-41af-841c-bfa4228cf338",
       "title": "Mindset Digital y Metodologías Ágiles (diplomatura)",
       "schedule": "Vie — 07:30 ART",
@@ -2291,12 +2313,34 @@
       "active": true
     },
     {
+      "id": "9885a54a-7d95-45d8-9d76-863fe9c7f319",
+      "title": "Identidad Profesional y Metodologías Ágiles (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "18/09/2026",
+      "end": "02/10/2026",
+      "cid": "102665",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "e900dfef-0cce-4d18-b969-b23e6dfd17ac",
       "title": "Identidad Profesional y Metodologías Ágiles (diplomatura)",
       "schedule": "Vie — 07:30 ART",
       "start": "18/09/2026",
       "end": "02/10/2026",
       "cid": "102610",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b8be131f-8d8a-4fd4-a7c8-8453b8bf5752",
+      "title": "Metodologias agiles (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "18/09/2026",
+      "end": "30/10/2026",
+      "cid": "102340",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
