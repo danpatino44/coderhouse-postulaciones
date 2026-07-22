@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T13:21:53+00:00",
-  "total": 214,
+  "generated_at": "2026-07-22T13:26:11+00:00",
+  "total": 216,
   "cohorts": [
     {
       "id": "7cc65896-51f4-4905-8a8b-b2c13abfcb87",
@@ -9,28 +9,6 @@
       "start": "03/08/2026",
       "end": "14/09/2026",
       "cid": "102120",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9a6032b7-af66-4458-bf16-f3023a5354d0",
-      "title": "JavaScript",
-      "schedule": "Lun — 20:30 ART",
-      "start": "03/08/2026",
-      "end": "27/10/2026",
-      "cid": "92450",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e4b1ed52-cc15-47e9-b486-f6ece4fd2ac2",
-      "title": "Fundamentos del Marketing digital",
-      "schedule": "Lun — 20:30 ART",
-      "start": "03/08/2026",
-      "end": "29/09/2026",
-      "cid": "92120",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2352,6 +2330,50 @@
       "start": "18/09/2026",
       "end": "30/10/2026",
       "cid": "102280",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1259aa43-6af8-42d3-96ad-710cd0a621a3",
+      "title": "UX Writing",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "19/09/2026",
+      "end": "07/11/2026",
+      "cid": "94855",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ba6cc7bf-9af4-4211-ae07-5163bd549e82",
+      "title": "React JS",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "19/09/2026",
+      "end": "07/11/2026",
+      "cid": "94840",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "667259e7-2f58-4f48-a7a0-8ddb21a9b554",
+      "title": "Desarrollo Web",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "19/09/2026",
+      "end": "28/11/2026",
+      "cid": "94795",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "eade3716-6c7b-48c9-900b-7923563ce5ed",
+      "title": "Growth Marketing",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "19/09/2026",
+      "end": "14/11/2026",
+      "cid": "94745",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
