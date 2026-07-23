@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-07-22T13:26:11+00:00",
-  "total": 216,
+  "generated_at": "2026-07-23T13:39:06+00:00",
+  "total": 214,
   "cohorts": [
-    {
-      "id": "7cc65896-51f4-4905-8a8b-b2c13abfcb87",
-      "title": "AI Engineering",
-      "schedule": "Lun — 20:30 ART",
-      "start": "03/08/2026",
-      "end": "14/09/2026",
-      "cid": "102120",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6db8639a-b106-4a23-9538-899ab7ced238",
-      "title": "Prototipado con Figma",
-      "schedule": "Mar — 19:00 ART",
-      "start": "04/08/2026",
-      "end": "30/09/2026",
-      "cid": "93270",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "91b0871b-0e19-4c74-aab5-ead1af430ad6",
       "title": "AI Automation Avanzado",
@@ -97,17 +75,6 @@
       "start": "05/08/2026",
       "end": "29/10/2026",
       "cid": "91520",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "2fdbc635-ecc1-449f-9bb4-a44709bd3bda",
-      "title": "Data Analytics",
-      "schedule": "Mié — 20:30 ART",
-      "start": "05/08/2026",
-      "end": "08/10/2026",
-      "cid": "91035",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2374,6 +2341,17 @@
       "start": "19/09/2026",
       "end": "14/11/2026",
       "cid": "94745",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3eaae169-0ef2-4a26-a9b8-41f01fcd3581",
+      "title": "Growth Marketing",
+      "schedule": "Lun — 10:00 ART",
+      "start": "21/09/2026",
+      "end": "30/11/2026",
+      "cid": "94960",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
