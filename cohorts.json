@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T13:39:06+00:00",
-  "total": 214,
+  "generated_at": "2026-07-24T13:21:58+00:00",
+  "total": 216,
   "cohorts": [
     {
       "id": "91b0871b-0e19-4c74-aab5-ead1af430ad6",
@@ -53,17 +53,6 @@
       "start": "05/08/2026",
       "end": "24/09/2026",
       "cid": "93185",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "25fabaac-5ff5-44c5-8b38-5a58a77685df",
-      "title": "Growth Marketing",
-      "schedule": "Mié — 20:30 ART",
-      "start": "05/08/2026",
-      "end": "08/10/2026",
-      "cid": "92230",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2346,12 +2335,45 @@
       "active": true
     },
     {
+      "id": "3e7f3df7-d384-455e-a3bc-3d9c294a4d73",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "21/09/2026",
+      "end": "01/12/2026",
+      "cid": "95360",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "3eaae169-0ef2-4a26-a9b8-41f01fcd3581",
       "title": "Growth Marketing",
       "schedule": "Lun — 10:00 ART",
       "start": "21/09/2026",
       "end": "30/11/2026",
       "cid": "94960",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ba996829-7d48-48c6-b4c7-233408e27edf",
+      "title": "Diseño UX/UI",
+      "schedule": "Lun — 20:30 ART",
+      "start": "21/09/2026",
+      "end": "22/12/2026",
+      "cid": "91550",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f50481c2-65a4-479f-96b1-bc7f5943e7cd",
+      "title": "Data Analytics",
+      "schedule": "Lun — 20:30 ART",
+      "start": "21/09/2026",
+      "end": "01/12/2026",
+      "cid": "91070",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
