@@ -1,73 +1,7 @@
 {
-  "generated_at": "2026-07-24T13:21:58+00:00",
-  "total": 216,
+  "generated_at": "2026-07-25T13:07:33+00:00",
+  "total": 211,
   "cohorts": [
-    {
-      "id": "91b0871b-0e19-4c74-aab5-ead1af430ad6",
-      "title": "AI Automation Avanzado",
-      "schedule": "Mié y Lun — 20:30 ART",
-      "start": "05/08/2026",
-      "end": "10/09/2026",
-      "cid": "103090",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "747945b8-5a14-4145-9d13-635170e41e9a",
-      "title": "AI Automation Avanzado",
-      "schedule": "Lun y Mié — 20:30 ART",
-      "start": "05/08/2026",
-      "end": "09/09/2026",
-      "cid": "102005",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "84b6a564-45bf-4d3e-bd14-d58fa3d15322",
-      "title": "AI Automation Avanzado",
-      "schedule": "Mié y Lun — 20:30 ART",
-      "start": "05/08/2026",
-      "end": "10/09/2026",
-      "cid": "97485",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1f97766a-0fe0-4afa-bb60-0ff82c41f400",
-      "title": "Python",
-      "schedule": "Mié — 20:30 ART",
-      "start": "05/08/2026",
-      "end": "29/10/2026",
-      "cid": "93340",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "70cf0f19-1096-4dde-bc2a-18eddd6b46a4",
-      "title": "Product Manager",
-      "schedule": "Mié — 20:30 ART",
-      "start": "05/08/2026",
-      "end": "24/09/2026",
-      "cid": "93185",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "f1de95fa-2953-42ba-a9bd-16dc9041b0e8",
-      "title": "Diseño UX/UI",
-      "schedule": "Mié — 20:30 ART",
-      "start": "05/08/2026",
-      "end": "29/10/2026",
-      "cid": "91520",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "e8d500e7-1077-406f-898f-dd23baaee33f",
       "title": "Administración de empresas",
@@ -91,56 +25,12 @@
       "active": true
     },
     {
-      "id": "3367ab89-ca28-4561-9a5a-4c650e4e6f29",
-      "title": "AI Automation",
-      "schedule": "Jue y Mar — 19:00 ART",
-      "start": "06/08/2026",
-      "end": "23/09/2026",
-      "cid": "96925",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "5a94ca87-dce1-4ee3-a52e-31a6f75b8abc",
-      "title": "Técnicas de Negociación",
-      "schedule": "Jue — 19:00 ART",
-      "start": "06/08/2026",
-      "end": "28/08/2026",
-      "cid": "93660",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "bb7ed208-a415-4b2a-8f74-94820b1a1f07",
       "title": "Paid media: Meta & Google Ads",
       "schedule": "Jue — 19:00 ART",
       "start": "06/08/2026",
       "end": "02/10/2026",
       "cid": "92895",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "44de9061-ba9e-478a-b47e-265c73448c8c",
-      "title": "Community Manager",
-      "schedule": "Jue — 19:00 ART",
-      "start": "06/08/2026",
-      "end": "09/10/2026",
-      "cid": "92715",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1b0c8e7d-ee36-4d71-a7ac-d8d4851d3835",
-      "title": "Customer Experience (CX)",
-      "schedule": "Jue — 19:00 ART",
-      "start": "06/08/2026",
-      "end": "02/10/2026",
-      "cid": "91190",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2374,6 +2264,61 @@
       "start": "21/09/2026",
       "end": "01/12/2026",
       "cid": "91070",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "772ec24b-7a4e-419b-b3b0-5168f90d053a",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
+      "schedule": "Mar — 19:00 ART",
+      "start": "22/09/2026",
+      "end": "25/11/2026",
+      "cid": "95230",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "45b13704-72e1-4a6f-93ec-1a6bd83aef59",
+      "title": "Testing QA Manual",
+      "schedule": "Mar — 19:00 ART",
+      "start": "22/09/2026",
+      "end": "04/11/2026",
+      "cid": "93695",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a0a7e779-23e8-4e06-84e4-db966b6ee5c0",
+      "title": "Product Manager",
+      "schedule": "Mar — 19:00 ART",
+      "start": "22/09/2026",
+      "end": "11/11/2026",
+      "cid": "93190",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "eca4fb4d-a3aa-49ce-b9a4-d41bf2e15c8b",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Mar — 19:00 ART",
+      "start": "22/09/2026",
+      "end": "18/11/2026",
+      "cid": "92925",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ce10ea92-c4d9-4975-a78f-7fd64ca718fb",
+      "title": "Canva",
+      "schedule": "Mar — 19:00 ART",
+      "start": "22/09/2026",
+      "end": "21/10/2026",
+      "cid": "90835",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
