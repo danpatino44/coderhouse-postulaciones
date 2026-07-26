@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T13:07:33+00:00",
-  "total": 211,
+  "generated_at": "2026-07-26T13:03:52+00:00",
+  "total": 217,
   "cohorts": [
     {
       "id": "e8d500e7-1077-406f-898f-dd23baaee33f",
@@ -2319,6 +2319,72 @@
       "start": "22/09/2026",
       "end": "21/10/2026",
       "cid": "90835",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c6dca75c-5bb5-48dc-a837-7da33834ea20",
+      "title": "UX Writing",
+      "schedule": "Mié — 20:30 ART",
+      "start": "23/09/2026",
+      "end": "12/11/2026",
+      "cid": "93830",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "167a737c-4351-4e63-b760-8b5e825358bc",
+      "title": "Community Manager",
+      "schedule": "Mié — 20:30 ART",
+      "start": "23/09/2026",
+      "end": "26/11/2026",
+      "cid": "92750",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "33185185-a202-4028-b66a-dc317fbb52d1",
+      "title": "JavaScript",
+      "schedule": "Mié — 20:30 ART",
+      "start": "23/09/2026",
+      "end": "03/12/2026",
+      "cid": "92470",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "434c614b-dd95-4cc5-839e-5580ee7bab18",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Mié — 20:30 ART",
+      "start": "23/09/2026",
+      "end": "03/12/2026",
+      "cid": "91700",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "faa40f23-633e-44df-aa9b-f591d019a321",
+      "title": "Ciberseguridad",
+      "schedule": "Mié — 20:30 ART",
+      "start": "23/09/2026",
+      "end": "19/11/2026",
+      "cid": "90880",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f64df36e-07e7-415f-b161-7faf363c2a32",
+      "title": "React JS",
+      "schedule": "Jue — 10:00 ART",
+      "start": "24/09/2026",
+      "end": "19/11/2026",
+      "cid": "95100",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
