@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T13:03:52+00:00",
-  "total": 217,
+  "generated_at": "2026-07-27T14:15:03+00:00",
+  "total": 225,
   "cohorts": [
     {
       "id": "e8d500e7-1077-406f-898f-dd23baaee33f",
@@ -9,17 +9,6 @@
       "start": "05/08/2026",
       "end": "03/09/2026",
       "cid": "90740",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "92c87104-2cba-4c11-b1fd-ce8ad336002a",
-      "title": "DevOps & Cloud",
-      "schedule": "Jue — 19:00 ART",
-      "start": "06/08/2026",
-      "end": "20/08/2026",
-      "cid": "102085",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -581,6 +570,17 @@
       "start": "20/08/2026",
       "end": "14/10/2026",
       "cid": "103300",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "92c87104-2cba-4c11-b1fd-ce8ad336002a",
+      "title": "DevOps & Cloud",
+      "schedule": "Jue — 19:00 ART",
+      "start": "20/08/2026",
+      "end": "03/09/2026",
+      "cid": "102085",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2379,12 +2379,100 @@
       "active": true
     },
     {
+      "id": "7cc3d056-77fc-478c-aa36-0d00e0afb5b3",
+      "title": "Tableau",
+      "schedule": "Jue — 19:00 ART",
+      "start": "24/09/2026",
+      "end": "29/10/2026",
+      "cid": "103255",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a8a68ea2-2a44-4cbb-932b-ba0d157e0d6b",
+      "title": "AI Automation",
+      "schedule": "Jue y Mar — 20:30 ART",
+      "start": "24/09/2026",
+      "end": "11/11/2026",
+      "cid": "97425",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "f64df36e-07e7-415f-b161-7faf363c2a32",
       "title": "React JS",
       "schedule": "Jue — 10:00 ART",
       "start": "24/09/2026",
       "end": "19/11/2026",
       "cid": "95100",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bd8ab11b-00f3-49b1-a69e-148c7b43862e",
+      "title": "Tableau",
+      "schedule": "Jue — 19:00 ART",
+      "start": "24/09/2026",
+      "end": "30/10/2026",
+      "cid": "93935",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8b9adecf-1474-4a06-b4c1-0ac0c4b76682",
+      "title": "React JS",
+      "schedule": "Jue — 19:00 ART",
+      "start": "24/09/2026",
+      "end": "20/11/2026",
+      "cid": "93500",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1ff27d03-babd-45a2-82a9-4ccea9c6131f",
+      "title": "Excel",
+      "schedule": "Jue — 19:00 ART",
+      "start": "24/09/2026",
+      "end": "13/11/2026",
+      "cid": "91915",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ce9d4698-b780-42fd-8fca-dca74c6a6b1e",
+      "title": "E-commerce",
+      "schedule": "Jue — 19:00 ART",
+      "start": "24/09/2026",
+      "end": "27/11/2026",
+      "cid": "91780",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "428e2efb-788b-4f20-ad72-f0461886d56a",
+      "title": "Desarrollo Web",
+      "schedule": "Jue — 19:00 ART",
+      "start": "24/09/2026",
+      "end": "20/11/2026",
+      "cid": "91355",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c93f1e2f-3329-470b-8d88-c13e4e76d874",
+      "title": "Análisis de datos para negocios",
+      "schedule": "Jue — 19:00 ART",
+      "start": "24/09/2026",
+      "end": "20/11/2026",
+      "cid": "90790",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
