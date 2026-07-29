@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-07-28T13:46:52+00:00",
-  "total": 225,
+  "generated_at": "2026-07-29T13:51:58+00:00",
+  "total": 223,
   "cohorts": [
-    {
-      "id": "e8d500e7-1077-406f-898f-dd23baaee33f",
-      "title": "Administración de empresas",
-      "schedule": "Mié — 20:30 ART",
-      "start": "05/08/2026",
-      "end": "03/09/2026",
-      "cid": "90740",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "bb7ed208-a415-4b2a-8f74-94820b1a1f07",
       "title": "Paid media: Meta & Google Ads",
@@ -20,28 +9,6 @@
       "start": "06/08/2026",
       "end": "02/10/2026",
       "cid": "92895",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1123f933-ed2f-4ad3-89b4-12d76d6f1f88",
-      "title": "Community Manager",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "08/08/2026",
-      "end": "10/10/2026",
-      "cid": "94700",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ed9644bb-2d23-46b1-b96b-ffda97da77c8",
-      "title": "Curso de AI Agents",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "21/09/2026",
-      "cid": "51",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -58,17 +25,6 @@
       "active": true
     },
     {
-      "id": "c9c63ae4-50cf-4873-a6ad-3a2b8994f027",
-      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "20/10/2026",
-      "cid": "95215",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "9f39c250-7d87-45b2-8d0a-83fa8505ff6c",
       "title": "Product Manager",
       "schedule": "Lun — 20:30 ART",
@@ -80,56 +36,12 @@
       "active": true
     },
     {
-      "id": "1295c7c0-fc36-42d7-8451-1cc8ab870dc0",
-      "title": "Power BI",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "15/09/2026",
-      "cid": "93080",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "f1277029-4c10-41a2-ba55-d731e359d860",
-      "title": "Paid media: Meta & Google Ads",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "20/10/2026",
-      "cid": "92900",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "55ee3398-8b77-49ab-bbc7-d4d881747b72",
-      "title": "Community Manager",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "27/10/2026",
-      "cid": "92720",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "89ec52dc-e25a-4fd8-a11a-a019b3afc82d",
       "title": "Liderazgo y gestión de equipos",
       "schedule": "Lun — 20:30 ART",
       "start": "10/08/2026",
       "end": "15/09/2026",
       "cid": "92565",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "40793042-3d2a-4c78-9a8d-bedcf7138486",
-      "title": "Excel",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "27/10/2026",
-      "cid": "91880",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2473,6 +2385,72 @@
       "start": "24/09/2026",
       "end": "20/11/2026",
       "cid": "90790",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e06fcd77-55cc-4008-88ce-8507b409ccfc",
+      "title": "Data Science II: Machine Learning para la Ciencia de Datos",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "26/09/2026",
+      "end": "30/01/2027",
+      "cid": "94895",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7e103e49-e899-422c-9666-70550a30bab8",
+      "title": "JavaScript",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "26/09/2026",
+      "end": "28/11/2026",
+      "cid": "94825",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "535ddb53-d879-4883-9f39-93e0b06663df",
+      "title": "Product Manager",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "26/09/2026",
+      "end": "14/11/2026",
+      "cid": "94760",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b80dfac1-b08d-400f-b190-cbc8f06d4c96",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "26/09/2026",
+      "end": "05/12/2026",
+      "cid": "94670",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6ce800d3-3aec-45fc-ae24-8f3a196cb175",
+      "title": "Diseño UX/UI",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "26/09/2026",
+      "end": "09/01/2027",
+      "cid": "94655",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2d597c91-bf07-44c1-9b05-491a7e1816a6",
+      "title": "Programación Backend (III): Testing y Escalabilidad",
+      "schedule": "Sáb — 11:30 ART",
+      "start": "26/09/2026",
+      "end": "14/11/2026",
+      "cid": "90360",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
