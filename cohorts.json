@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-07-30T13:42:12+00:00",
-  "total": 223,
+  "generated_at": "2026-07-31T13:46:54+00:00",
+  "total": 221,
   "cohorts": [
-    {
-      "id": "b8845aed-842f-40f1-a9f3-e4b2a3075349",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "06/10/2026",
-      "cid": "95270",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9f39c250-7d87-45b2-8d0a-83fa8505ff6c",
-      "title": "Product Manager",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "06/10/2026",
-      "cid": "93175",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "89ec52dc-e25a-4fd8-a11a-a019b3afc82d",
       "title": "Liderazgo y gestión de equipos",
@@ -119,17 +97,6 @@
       "start": "11/08/2026",
       "end": "07/10/2026",
       "cid": "94020",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "dcf56adf-0d26-4c54-a048-ffdaa3ef456d",
-      "title": "React JS",
-      "schedule": "Mar — 19:00 ART",
-      "start": "11/08/2026",
-      "end": "07/10/2026",
-      "cid": "93470",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -878,17 +845,6 @@
       "start": "27/08/2026",
       "end": "02/10/2026",
       "cid": "93930",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "b3649563-a7c9-48ab-8503-1f61706793c7",
-      "title": "React JS",
-      "schedule": "Jue — 19:00 ART",
-      "start": "27/08/2026",
-      "end": "23/10/2026",
-      "cid": "93480",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2440,6 +2396,28 @@
       "start": "26/09/2026",
       "end": "14/11/2026",
       "cid": "90360",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "27d8834e-b441-46e0-ab58-2939373b1596",
+      "title": "AI Automation Avanzado",
+      "schedule": "Lun y Mié — 20:30 ART",
+      "start": "28/09/2026",
+      "end": "03/11/2026",
+      "cid": "97315",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "11441061-5ce5-4bd0-9920-bf445e1ed61a",
+      "title": "Creación de contenido con AI",
+      "schedule": "Lun — 20:30 ART",
+      "start": "28/09/2026",
+      "end": "24/11/2026",
+      "cid": "97000",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
