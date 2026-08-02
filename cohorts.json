@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T13:02:21+00:00",
-  "total": 217,
+  "generated_at": "2026-08-02T13:04:47+00:00",
+  "total": 225,
   "cohorts": [
     {
       "id": "1295c7c0-fc36-42d7-8451-1cc8ab870dc0",
@@ -2368,12 +2368,100 @@
       "active": true
     },
     {
+      "id": "fd5d5163-ca1e-4bba-8296-12c88846f550",
+      "title": "React (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "30/09/2026",
+      "end": "30/11/2026",
+      "cid": "102330",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "9d22741f-f689-420b-be7f-b59e57db065a",
       "title": "React (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
       "start": "30/09/2026",
       "end": "30/11/2026",
       "cid": "102270",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5e64a7f7-8f9b-48e5-a0b7-7e62e4a6b667",
+      "title": "Photoshop e Illustrator",
+      "schedule": "Mié — 20:30 ART",
+      "start": "30/09/2026",
+      "end": "12/11/2026",
+      "cid": "94120",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f9500060-3e7c-49e2-b544-e16b63b905dd",
+      "title": "UX Research",
+      "schedule": "Mié — 20:30 ART",
+      "start": "30/09/2026",
+      "end": "26/11/2026",
+      "cid": "94030",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a4bc4b45-71ab-45de-a154-d87a157a52d3",
+      "title": "React JS",
+      "schedule": "Mié — 20:30 ART",
+      "start": "30/09/2026",
+      "end": "19/11/2026",
+      "cid": "93495",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ee584df8-6748-402a-81fd-5244dc781f31",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Mié — 20:30 ART",
+      "start": "30/09/2026",
+      "end": "26/11/2026",
+      "cid": "92930",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7954423a-3608-4df6-9601-e803fab1b786",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Mié — 20:30 ART",
+      "start": "30/09/2026",
+      "end": "05/11/2026",
+      "cid": "92580",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c71674c2-46a7-4939-b408-858074820da1",
+      "title": "Excel",
+      "schedule": "Mié — 20:30 ART",
+      "start": "30/09/2026",
+      "end": "12/11/2026",
+      "cid": "91910",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3373142a-544c-4891-b850-7e47067442bd",
+      "title": "Desarrollo Web",
+      "schedule": "Mié — 20:30 ART",
+      "start": "30/09/2026",
+      "end": "03/12/2026",
+      "cid": "91360",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
