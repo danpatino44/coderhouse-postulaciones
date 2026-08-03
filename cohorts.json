@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-08-02T13:04:47+00:00",
-  "total": 225,
+  "generated_at": "2026-08-03T14:21:53+00:00",
+  "total": 222,
   "cohorts": [
-    {
-      "id": "1295c7c0-fc36-42d7-8451-1cc8ab870dc0",
-      "title": "Power BI",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "15/09/2026",
-      "cid": "93080",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "89ec52dc-e25a-4fd8-a11a-a019b3afc82d",
-      "title": "Liderazgo y gestión de equipos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "15/09/2026",
-      "cid": "92565",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4829c60b-a055-4e3c-bf09-172a3820d0a4",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Lun — 20:30 ART",
-      "start": "10/08/2026",
-      "end": "03/11/2026",
-      "cid": "91680",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "eb4fb2bc-bc5f-4d0d-837a-6c767cdb6ddd",
       "title": "Python(diplomatura)",
@@ -42,50 +9,6 @@
       "start": "11/08/2026",
       "end": "29/10/2026",
       "cid": "102425",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "7b155dc8-5607-4baf-b65e-9a909da0bb47",
-      "title": "UX Writing",
-      "schedule": "Mar — 19:00 ART",
-      "start": "11/08/2026",
-      "end": "25/08/2026",
-      "cid": "102045",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "51a2478a-1119-481c-9f11-e0db0026a436",
-      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
-      "schedule": "Mar — 10:00 ART",
-      "start": "11/08/2026",
-      "end": "20/10/2026",
-      "cid": "95150",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "948a530d-8d55-497d-8e73-a363b0c9fb2b",
-      "title": "Photoshop e Illustrator",
-      "schedule": "Mar — 19:00 ART",
-      "start": "11/08/2026",
-      "end": "23/09/2026",
-      "cid": "94110",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "a3e2a2c5-a64e-496f-87cb-e7f72088eb88",
-      "title": "Tableau",
-      "schedule": "Mié — 20:30 ART",
-      "start": "12/08/2026",
-      "end": "16/09/2026",
-      "cid": "103320",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -113,17 +36,6 @@
       "active": true
     },
     {
-      "id": "09c34a17-f44d-40c3-80a9-a6a0128cdefc",
-      "title": "Desarrollo Web",
-      "schedule": "Mié — 10:00 ART",
-      "start": "12/08/2026",
-      "end": "14/10/2026",
-      "cid": "95045",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "11bcd858-e320-4bb3-b12f-50fc6ea9e2b2",
       "title": "Tableau",
       "schedule": "Mié — 20:30 ART",
@@ -146,34 +58,12 @@
       "active": true
     },
     {
-      "id": "7cda03e2-9a82-4229-a49b-67bb9a01819c",
-      "title": "Growth Marketing",
-      "schedule": "Jue — 19:00 ART",
-      "start": "13/08/2026",
-      "end": "16/10/2026",
-      "cid": "92235",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "cc727ce9-bccd-4772-985c-51be37452a79",
       "title": "Fundamentos del Diseño Gráfico",
       "schedule": "Jue — 19:00 ART",
       "start": "13/08/2026",
       "end": "18/09/2026",
       "cid": "92090",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e8c63a61-72df-4ac5-8aed-5de2740cca43",
-      "title": "Diseño UX/UI",
-      "schedule": "Jue — 19:00 ART",
-      "start": "13/08/2026",
-      "end": "06/11/2026",
-      "cid": "91525",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -597,6 +487,17 @@
       "active": true
     },
     {
+      "id": "51a2478a-1119-481c-9f11-e0db0026a436",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
+      "schedule": "Mar — 10:00 ART",
+      "start": "25/08/2026",
+      "end": "20/10/2026",
+      "cid": "95150",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "b9119a32-9d97-414e-8422-48c6f5d22b83",
       "title": "Python",
       "schedule": "Mar — 19:00 ART",
@@ -647,6 +548,17 @@
       "start": "25/08/2026",
       "end": "18/11/2026",
       "cid": "91535",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "09c34a17-f44d-40c3-80a9-a6a0128cdefc",
+      "title": "Desarrollo Web",
+      "schedule": "Mié — 10:00 ART",
+      "start": "26/08/2026",
+      "end": "14/10/2026",
+      "cid": "95045",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2473,6 +2385,61 @@
       "start": "30/09/2026",
       "end": "18/11/2026",
       "cid": "90350",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "efb657f2-efce-4cdd-bb28-ac493261fb01",
+      "title": "AI Engineering",
+      "schedule": "Jue — 19:00 ART",
+      "start": "01/10/2026",
+      "end": "05/11/2026",
+      "cid": "102130",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e5726bc5-64b2-4059-bbb4-7a8d5e816bfd",
+      "title": "AI Automation",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "01/10/2026",
+      "end": "18/11/2026",
+      "cid": "96945",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6c729687-ac98-4d25-a5cf-04f656667a22",
+      "title": "Community Manager",
+      "schedule": "Jue — 19:00 ART",
+      "start": "01/10/2026",
+      "end": "04/12/2026",
+      "cid": "92755",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3a36bd23-d50c-42c5-93ca-259ae9e5ff7c",
+      "title": "JavaScript",
+      "schedule": "Jue — 19:00 ART",
+      "start": "01/10/2026",
+      "end": "11/12/2026",
+      "cid": "92485",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d039eabb-8281-442d-ba7f-9860a0126498",
+      "title": "Administración de empresas",
+      "schedule": "Jue — 19:00 ART",
+      "start": "01/10/2026",
+      "end": "30/10/2026",
+      "cid": "90750",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
