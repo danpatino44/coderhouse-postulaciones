@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-03T14:21:53+00:00",
-  "total": 222,
+  "generated_at": "2026-08-04T13:52:58+00:00",
+  "total": 221,
   "cohorts": [
-    {
-      "id": "eb4fb2bc-bc5f-4d0d-837a-6c767cdb6ddd",
-      "title": "Python(diplomatura)",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "11/08/2026",
-      "end": "29/10/2026",
-      "cid": "102425",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "be6c1302-6876-4476-b2a3-7683d92cf58c",
       "title": "SEO Para AI",
@@ -1917,17 +1906,6 @@
       "active": true
     },
     {
-      "id": "f50481c2-65a4-479f-96b1-bc7f5943e7cd",
-      "title": "Data Analytics",
-      "schedule": "Lun — 20:30 ART",
-      "start": "21/09/2026",
-      "end": "01/12/2026",
-      "cid": "91070",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "772ec24b-7a4e-419b-b3b0-5168f90d053a",
       "title": "Programación Backend I: Desarrollo Avanzado de Backend",
       "schedule": "Mar — 19:00 ART",
@@ -2231,6 +2209,17 @@
       "start": "28/09/2026",
       "end": "07/12/2026",
       "cid": "95005",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f50481c2-65a4-479f-96b1-bc7f5943e7cd",
+      "title": "Data Analytics",
+      "schedule": "Lun — 20:30 ART",
+      "start": "28/09/2026",
+      "end": "01/12/2026",
+      "cid": "91070",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
