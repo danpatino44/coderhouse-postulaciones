@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-05T13:49:37+00:00",
-  "total": 169,
+  "generated_at": "2026-08-06T13:47:08+00:00",
+  "total": 166,
   "cohorts": [
-    {
-      "id": "7251931f-931e-4fa2-89d7-6fd48d1bc537",
-      "title": "Paid media: Meta & Google Ads",
-      "schedule": "Mar — 19:00 ART",
-      "start": "18/08/2026",
-      "end": "14/10/2026",
-      "cid": "92905",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "5748c447-0dca-4056-ba47-056e8cfcb2f7",
       "title": "Diseño UX/UI Avanzado",
@@ -124,45 +113,12 @@
       "active": true
     },
     {
-      "id": "119c21c7-a831-4c3c-999b-d46dec4b3ae9",
-      "title": "Product Manager",
-      "schedule": "Mar — 19:00 ART",
-      "start": "25/08/2026",
-      "end": "14/10/2026",
-      "cid": "101865",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "b9119a32-9d97-414e-8422-48c6f5d22b83",
       "title": "Python",
       "schedule": "Mar — 19:00 ART",
       "start": "25/08/2026",
       "end": "18/11/2026",
       "cid": "93335",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e164e099-4d2a-4757-b044-29d892e7d868",
-      "title": "Liderazgo y gestión de equipos",
-      "schedule": "Mar — 19:00 ART",
-      "start": "25/08/2026",
-      "end": "23/09/2026",
-      "cid": "92570",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "03159a91-99ba-4c1c-970b-11011bd31ec1",
-      "title": "Growth Marketing",
-      "schedule": "Mar — 19:00 ART",
-      "start": "25/08/2026",
-      "end": "28/10/2026",
-      "cid": "92245",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1857,6 +1813,17 @@
       "start": "03/10/2026",
       "end": "12/12/2026",
       "cid": "94710",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "effe81de-3375-42bd-9bad-4e6b0a50f4f7",
+      "title": "SEO para AI (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "05/10/2026",
+      "end": "09/11/2026",
+      "cid": "102540",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
