@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T13:47:08+00:00",
-  "total": 166,
+  "generated_at": "2026-08-07T12:44:33+00:00",
+  "total": 174,
   "cohorts": [
     {
       "id": "5748c447-0dca-4056-ba47-056e8cfcb2f7",
@@ -53,17 +53,6 @@
       "start": "21/08/2026",
       "end": "09/10/2026",
       "cid": "102385",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "2a36a166-caa0-41b9-ba67-04ee1da6a0e1",
-      "title": "Data Analytics",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "22/08/2026",
-      "end": "17/10/2026",
-      "cid": "94870",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1213,28 +1202,6 @@
       "active": true
     },
     {
-      "id": "b8be131f-8d8a-4fd4-a7c8-8453b8bf5752",
-      "title": "Metodologias agiles (diplomatura)",
-      "schedule": "Vie — 18:30 ART",
-      "start": "18/09/2026",
-      "end": "30/10/2026",
-      "cid": "102340",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "519cb4f8-bccd-40c7-b20b-36a9a6be4356",
-      "title": "Metodologias agiles (diplomatura)",
-      "schedule": "Vie — 07:30 ART",
-      "start": "18/09/2026",
-      "end": "30/10/2026",
-      "cid": "102280",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "1259aa43-6af8-42d3-96ad-710cd0a621a3",
       "title": "UX Writing",
       "schedule": "Sáb — 11:00 ART",
@@ -1818,12 +1785,133 @@
       "active": true
     },
     {
+      "id": "3b9cf487-8640-4a26-a139-47192d31a66c",
+      "title": "Data Analytics",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "11/01/2027",
+      "cid": "103250",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1a4d0db5-1aef-4476-9df1-f2b218169036",
+      "title": "SEO para AI (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "05/10/2026",
+      "end": "09/11/2026",
+      "cid": "102575",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "effe81de-3375-42bd-9bad-4e6b0a50f4f7",
       "title": "SEO para AI (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
       "start": "05/10/2026",
       "end": "09/11/2026",
       "cid": "102540",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c2e43d2b-2ded-4c1e-8c4c-ce37f0ad3940",
+      "title": "UX Writing",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "14/12/2026",
+      "cid": "102050",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b74996a1-637a-4d1d-a118-9335334c0e15",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "15/12/2026",
+      "cid": "95370",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e6f2aca2-0749-47e0-92c2-40994a4f7729",
+      "title": "Tableau",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "17/11/2026",
+      "cid": "93945",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bc0b1c95-6c42-4405-a3d4-767fe8fc59ba",
+      "title": "React JS",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "08/12/2026",
+      "cid": "93505",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e3044113-215b-4feb-9066-31d0c140f184",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "08/12/2026",
+      "cid": "92940",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4d93f148-e70f-47f2-8416-8517774dec78",
+      "title": "Excel",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "15/12/2026",
+      "cid": "91920",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "17b3b8d0-a104-420c-a352-45ad0f2b3741",
+      "title": "E-commerce",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "15/12/2026",
+      "cid": "91785",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5e100de1-e51e-40cd-adf6-ae9220714391",
+      "title": "Desarrollo Web",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "15/12/2026",
+      "cid": "91365",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "838cfc2c-953e-4d25-a36e-8ff9087b2ed8",
+      "title": "Growth Marketing (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "06/10/2026",
+      "end": "03/12/2026",
+      "cid": "102545",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
