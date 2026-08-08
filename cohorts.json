@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T12:44:33+00:00",
-  "total": 174,
+  "generated_at": "2026-08-08T12:32:05+00:00",
+  "total": 178,
   "cohorts": [
     {
       "id": "5748c447-0dca-4056-ba47-056e8cfcb2f7",
@@ -1906,12 +1906,56 @@
       "active": true
     },
     {
+      "id": "779fa222-2a54-4699-8bc5-cd7b9ed363f2",
+      "title": "Growth Marketing (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "06/10/2026",
+      "end": "03/12/2026",
+      "cid": "102580",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "838cfc2c-953e-4d25-a36e-8ff9087b2ed8",
       "title": "Growth Marketing (diplomatura)",
       "schedule": "Mar y Jue — 07:30 ART",
       "start": "06/10/2026",
       "end": "03/12/2026",
       "cid": "102545",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1088a84f-5571-4121-be5f-ec316877be84",
+      "title": "DevOps & Cloud",
+      "schedule": "Mar — 19:00 ART",
+      "start": "06/10/2026",
+      "end": "20/10/2026",
+      "cid": "102095",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6a8513de-7375-4238-a7de-361be7749248",
+      "title": "Oratoria",
+      "schedule": "Mar — 19:00 ART",
+      "start": "06/10/2026",
+      "end": "21/10/2026",
+      "cid": "93025",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9210f685-3ec4-4ffe-ad82-1ae5fbacc429",
+      "title": "Community Manager",
+      "schedule": "Mar — 19:00 ART",
+      "start": "06/10/2026",
+      "end": "06/01/2027",
+      "cid": "92765",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
