@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T12:32:05+00:00",
-  "total": 178,
+  "generated_at": "2026-08-09T12:34:29+00:00",
+  "total": 184,
   "cohorts": [
     {
       "id": "5748c447-0dca-4056-ba47-056e8cfcb2f7",
@@ -1956,6 +1956,72 @@
       "start": "06/10/2026",
       "end": "06/01/2027",
       "cid": "92765",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9263e902-17eb-4eb2-9d19-a9589b26d9b2",
+      "title": "AI Automation",
+      "schedule": "Mié y Lun — 19:00 ART",
+      "start": "07/10/2026",
+      "end": "01/12/2026",
+      "cid": "97430",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "722ab13b-8a65-4d59-a148-e6ee45bab952",
+      "title": "Product Manager",
+      "schedule": "Mié — 20:30 ART",
+      "start": "07/10/2026",
+      "end": "26/11/2026",
+      "cid": "93205",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "487278af-f115-468b-a4b1-704ea9d01033",
+      "title": "Growth Marketing",
+      "schedule": "Mié — 20:30 ART",
+      "start": "07/10/2026",
+      "end": "10/12/2026",
+      "cid": "92270",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "fee5d5f8-8ea5-4996-a121-0391b011eef9",
+      "title": "Introducción a la Inteligencia Artificial",
+      "schedule": "Mié — 20:30 ART",
+      "start": "07/10/2026",
+      "end": "12/11/2026",
+      "cid": "92055",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c6ddfb83-ba15-409a-bc2c-091f28885cf6",
+      "title": "Diseño UX/UI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "07/10/2026",
+      "end": "14/01/2027",
+      "cid": "91560",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "44756da1-7856-41aa-97c2-a6ba4c44869f",
+      "title": "Data Analytics",
+      "schedule": "Mié — 20:30 ART",
+      "start": "07/10/2026",
+      "end": "10/12/2026",
+      "cid": "91075",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
