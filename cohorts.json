@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:34:29+00:00",
-  "total": 184,
+  "generated_at": "2026-08-10T12:52:08+00:00",
+  "total": 191,
   "cohorts": [
     {
       "id": "5748c447-0dca-4056-ba47-056e8cfcb2f7",
@@ -9,17 +9,6 @@
       "start": "18/08/2026",
       "end": "28/10/2026",
       "cid": "91685",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6fbf1a18-c228-4fb9-891d-386b9ddf8b5f",
-      "title": "Programación Backend (III): Testing y Escalabilidad",
-      "schedule": "Mié — 20:30 ART",
-      "start": "20/08/2026",
-      "end": "14/10/2026",
-      "cid": "103300",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2022,6 +2011,94 @@
       "start": "07/10/2026",
       "end": "10/12/2026",
       "cid": "91075",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "df431051-815a-4f2e-9799-e859ea95a5b8",
+      "title": "Photoshop e Illustrator",
+      "schedule": "Jue — 19:00 ART",
+      "start": "08/10/2026",
+      "end": "20/11/2026",
+      "cid": "94130",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0b404dcc-1073-4825-9074-03a995ff10f3",
+      "title": "UX Research",
+      "schedule": "Jue — 19:00 ART",
+      "start": "08/10/2026",
+      "end": "04/12/2026",
+      "cid": "94040",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6a2ed8dc-b1e3-4c9b-abdc-012508a07ff1",
+      "title": "Python",
+      "schedule": "Jue — 19:00 ART",
+      "start": "08/10/2026",
+      "end": "15/01/2027",
+      "cid": "93355",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "117d2b46-5821-425f-8d48-15b3dcf29521",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Jue — 19:00 ART",
+      "start": "08/10/2026",
+      "end": "13/11/2026",
+      "cid": "92590",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4148532f-b5ab-44e6-94b6-268e754e83ff",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Jue — 19:00 ART",
+      "start": "08/10/2026",
+      "end": "18/12/2026",
+      "cid": "91720",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "fb1406ff-7aa9-405e-9e2a-58a65eba1c81",
+      "title": "Copywriting",
+      "schedule": "Jue — 19:00 ART",
+      "start": "08/10/2026",
+      "end": "18/12/2026",
+      "cid": "91155",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "34ac2f46-34a6-4306-b548-62c1968e43ff",
+      "title": "Comunicación Efectiva (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "09/10/2026",
+      "end": "23/10/2026",
+      "cid": "102925",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "acc45da9-54ab-45fe-aa8c-854a7432d3df",
+      "title": "Career Hacking: Marca Personal y Negociación en el Mercado Global. (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "09/10/2026",
+      "end": "27/11/2026",
+      "cid": "102555",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
