@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-10T12:52:08+00:00",
-  "total": 191,
+  "generated_at": "2026-08-11T12:46:08+00:00",
+  "total": 193,
   "cohorts": [
-    {
-      "id": "5748c447-0dca-4056-ba47-056e8cfcb2f7",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Mar — 19:00 ART",
-      "start": "18/08/2026",
-      "end": "28/10/2026",
-      "cid": "91685",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "92c87104-2cba-4c11-b1fd-ce8ad336002a",
       "title": "DevOps & Cloud",
@@ -108,6 +97,28 @@
       "start": "27/08/2026",
       "end": "02/10/2026",
       "cid": "93930",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8b73d260-ba63-4894-b118-33116630d1c5",
+      "title": "Ai Builders Program",
+      "schedule": "Lun y Mié — 20:30 ART",
+      "start": "31/08/2026",
+      "end": "21/10/2026",
+      "cid": "105520",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "52cf99fd-02f8-434d-b77e-ad5059eb7691",
+      "title": "Ai Builders Program",
+      "schedule": "Mar y Jue — 19:00 ART",
+      "start": "01/09/2026",
+      "end": "22/10/2026",
+      "cid": "105525",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1213,23 +1224,23 @@
       "active": true
     },
     {
-      "id": "667259e7-2f58-4f48-a7a0-8ddb21a9b554",
-      "title": "Desarrollo Web",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "19/09/2026",
-      "end": "28/11/2026",
-      "cid": "94795",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "eade3716-6c7b-48c9-900b-7923563ce5ed",
       "title": "Growth Marketing",
       "schedule": "Sáb — 11:00 ART",
       "start": "19/09/2026",
       "end": "14/11/2026",
       "cid": "94745",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "11441061-5ce5-4bd0-9920-bf445e1ed61a",
+      "title": "Creación de contenido con AI",
+      "schedule": "Lun — 20:30 ART",
+      "start": "21/09/2026",
+      "end": "24/11/2026",
+      "cid": "97000",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1527,17 +1538,6 @@
       "start": "28/09/2026",
       "end": "03/11/2026",
       "cid": "97315",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "11441061-5ce5-4bd0-9920-bf445e1ed61a",
-      "title": "Creación de contenido con AI",
-      "schedule": "Lun — 20:30 ART",
-      "start": "28/09/2026",
-      "end": "24/11/2026",
-      "cid": "97000",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2082,12 +2082,34 @@
       "active": true
     },
     {
+      "id": "36c62cad-b6e8-4310-9162-2eb7b9169c2a",
+      "title": "Comunicación Efectiva (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "09/10/2026",
+      "end": "23/10/2026",
+      "cid": "102980",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "34ac2f46-34a6-4306-b548-62c1968e43ff",
       "title": "Comunicación Efectiva (diplomatura)",
       "schedule": "Vie — 07:30 ART",
       "start": "09/10/2026",
       "end": "23/10/2026",
       "cid": "102925",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0c3c587d-79db-4217-9ef3-3ab2ecad9128",
+      "title": "Career Hacking: Marca Personal y Negociación en el Mercado Global. (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "09/10/2026",
+      "end": "27/11/2026",
+      "cid": "102590",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
