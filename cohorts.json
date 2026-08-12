@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:46:08+00:00",
+  "generated_at": "2026-08-12T12:52:12+00:00",
   "total": 193,
   "cohorts": [
     {
@@ -14,56 +14,12 @@
       "active": true
     },
     {
-      "id": "ac11b82d-a98b-478e-822d-4ff192325cb3",
-      "title": "AI automation (diplomatura)",
-      "schedule": "Vie — 18:30 ART",
-      "start": "21/08/2026",
-      "end": "09/10/2026",
-      "cid": "102430",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "8bd89610-fc63-476f-967e-4b5980df3eec",
-      "title": "AI automation (diplomatura)",
-      "schedule": "Vie — 07:30 ART",
-      "start": "21/08/2026",
-      "end": "09/10/2026",
-      "cid": "102385",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "fa7e0eea-c66c-455b-9ff9-c005e27b7d64",
       "title": "Product Manager",
       "schedule": "Lun — 20:30 ART",
       "start": "24/08/2026",
       "end": "19/10/2026",
       "cid": "102180",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "c85416b7-0794-46ed-a9b1-2d38aade6f9b",
-      "title": "UX Research",
-      "schedule": "Lun — 20:30 ART",
-      "start": "24/08/2026",
-      "end": "20/10/2026",
-      "cid": "94015",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "73be75f5-baa0-4318-b166-9879fa6bd698",
-      "title": "SQL",
-      "schedule": "Lun — 20:30 ART",
-      "start": "24/08/2026",
-      "end": "10/11/2026",
-      "cid": "93630",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -104,7 +60,7 @@
     {
       "id": "8b73d260-ba63-4894-b118-33116630d1c5",
       "title": "Ai Builders Program",
-      "schedule": "Lun y Mié — 20:30 ART",
+      "schedule": "Lun y Mié — 19:30 ART",
       "start": "31/08/2026",
       "end": "21/10/2026",
       "cid": "105520",
@@ -115,7 +71,7 @@
     {
       "id": "52cf99fd-02f8-434d-b77e-ad5059eb7691",
       "title": "Ai Builders Program",
-      "schedule": "Mar y Jue — 19:00 ART",
+      "schedule": "Mar y Jue — 20:30 ART",
       "start": "01/09/2026",
       "end": "22/10/2026",
       "cid": "105525",
@@ -1774,6 +1730,28 @@
       "active": true
     },
     {
+      "id": "a4a412e6-557e-4766-9bb2-27fb8406a74d",
+      "title": "Introducción a la Inteligencia Artificial (V2) Diplomatura",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "05/10/2026",
+      "end": "16/11/2026",
+      "cid": "105580",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3e652f56-2a47-4f86-90bc-6a9ecf968466",
+      "title": "Introducción a la Inteligencia Artificial (V2) Diplomatura",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "05/10/2026",
+      "end": "16/11/2026",
+      "cid": "105550",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "3b9cf487-8640-4a26-a139-47192d31a66c",
       "title": "Data Analytics",
       "schedule": "Lun — 20:30 ART",
@@ -1890,6 +1868,28 @@
       "start": "05/10/2026",
       "end": "15/12/2026",
       "cid": "91365",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e5847e12-c17c-455f-a765-a0c4424d7140",
+      "title": "Python (Diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "06/10/2026",
+      "end": "12/01/2027",
+      "cid": "105585",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f46a717f-aa47-4e17-b415-eb2536697b0a",
+      "title": "Python (Diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "06/10/2026",
+      "end": "12/01/2027",
+      "cid": "105555",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
