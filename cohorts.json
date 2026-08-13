@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-12T12:52:12+00:00",
-  "total": 193,
+  "generated_at": "2026-08-13T12:53:09+00:00",
+  "total": 187,
   "cohorts": [
-    {
-      "id": "92c87104-2cba-4c11-b1fd-ce8ad336002a",
-      "title": "DevOps & Cloud",
-      "schedule": "Jue — 19:00 ART",
-      "start": "20/08/2026",
-      "end": "03/09/2026",
-      "cid": "102085",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "fa7e0eea-c66c-455b-9ff9-c005e27b7d64",
       "title": "Product Manager",
@@ -29,7 +18,7 @@
       "title": "Oratoria",
       "schedule": "Lun — 20:30 ART",
       "start": "24/08/2026",
-      "end": "01/09/2026",
+      "end": "07/09/2026",
       "cid": "93015",
       "modality": "ONLINE",
       "country": "AR",
@@ -113,28 +102,6 @@
       "active": true
     },
     {
-      "id": "26747de8-8927-4378-ac79-9fe9ca590dd2",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend",
-      "schedule": "Mié — 10:00 ART",
-      "start": "02/09/2026",
-      "end": "21/10/2026",
-      "cid": "95160",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "3ecdc9b4-9ec4-46d7-89dd-7032868dc5ef",
-      "title": "Python",
-      "schedule": "Mié — 20:30 ART",
-      "start": "02/09/2026",
-      "end": "26/11/2026",
-      "cid": "93345",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "7c2941f7-2ffc-466a-afa0-2de204683e56",
       "title": "Growth Marketing",
       "schedule": "Mié — 20:30 ART",
@@ -157,34 +124,12 @@
       "active": true
     },
     {
-      "id": "4a20696e-e3a5-427d-a370-5dfca1d829e2",
-      "title": "Data Analytics",
-      "schedule": "Mié — 20:30 ART",
-      "start": "02/09/2026",
-      "end": "05/11/2026",
-      "cid": "91055",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "4195aeec-e63f-4ae8-a23e-53e4966475f8",
       "title": "Administración de empresas",
       "schedule": "Mié — 20:30 ART",
       "start": "02/09/2026",
       "end": "01/10/2026",
       "cid": "90745",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6cc34a6d-4ff5-4a6e-a417-0d274651f65d",
-      "title": "AI Automation",
-      "schedule": "Jue y Mar — 19:00 ART",
-      "start": "03/09/2026",
-      "end": "21/10/2026",
-      "cid": "96935",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1010,17 +955,6 @@
       "start": "17/09/2026",
       "end": "28/10/2026",
       "cid": "103115",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "74186dfc-3e39-4ba0-b8fd-1a9b85265b52",
-      "title": "Python",
-      "schedule": "Jue — 19:00 ART",
-      "start": "17/09/2026",
-      "end": "11/12/2026",
-      "cid": "93350",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
