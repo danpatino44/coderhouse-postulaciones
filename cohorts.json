@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T12:53:09+00:00",
-  "total": 187,
+  "generated_at": "2026-08-14T12:47:51+00:00",
+  "total": 188,
   "cohorts": [
     {
       "id": "fa7e0eea-c66c-455b-9ff9-c005e27b7d64",
@@ -2055,6 +2055,17 @@
       "start": "09/10/2026",
       "end": "27/11/2026",
       "cid": "102555",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "62ee970a-1548-406d-a41f-bd66069a4984",
+      "title": "BE I: Desarrollo avanzado de Backend (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "13/10/2026",
+      "end": "10/12/2026",
+      "cid": "102275",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
