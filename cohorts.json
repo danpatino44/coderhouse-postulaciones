@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T12:47:51+00:00",
-  "total": 188,
+  "generated_at": "2026-08-15T12:21:45+00:00",
+  "total": 199,
   "cohorts": [
     {
       "id": "fa7e0eea-c66c-455b-9ff9-c005e27b7d64",
@@ -14,34 +14,12 @@
       "active": true
     },
     {
-      "id": "1ec27d08-cd3b-484f-bb12-a1c0eba8eadf",
-      "title": "Oratoria",
-      "schedule": "Lun — 20:30 ART",
-      "start": "24/08/2026",
-      "end": "07/09/2026",
-      "cid": "93015",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "b9119a32-9d97-414e-8422-48c6f5d22b83",
       "title": "Python",
       "schedule": "Mar — 19:00 ART",
       "start": "25/08/2026",
       "end": "18/11/2026",
       "cid": "93335",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6e6c398c-797b-44ae-a919-accb237c5528",
-      "title": "Tableau",
-      "schedule": "Jue — 19:00 ART",
-      "start": "27/08/2026",
-      "end": "02/10/2026",
-      "cid": "93930",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -377,6 +355,17 @@
       "active": true
     },
     {
+      "id": "bbf10112-4b23-4360-beb6-bced0650ebe3",
+      "title": "Excel",
+      "schedule": "Jue — 10:00 ART",
+      "start": "10/09/2026",
+      "end": "12/11/2026",
+      "cid": "105635",
+      "modality": "ON_SITE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "64f671e7-30be-4354-b952-143f30385c01",
       "title": "AI Automation Avanzado",
       "schedule": "Mar y Jue — 19:00 ART",
@@ -460,6 +449,17 @@
       "start": "12/09/2026",
       "end": "14/11/2026",
       "cid": "94705",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "38efba1e-e5dc-419d-879f-729454fd8611",
+      "title": "Ai Builders Program",
+      "schedule": "Lun y Mié — 20:30 ART",
+      "start": "14/09/2026",
+      "end": "04/11/2026",
+      "cid": "105625",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -658,6 +658,17 @@
       "start": "14/09/2026",
       "end": "24/11/2026",
       "cid": "92260",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c62acd6b-6b4e-4866-ac1c-711ba73a710b",
+      "title": "Ai Builders Program",
+      "schedule": "Mar y Jue — 19:30 ART",
+      "start": "15/09/2026",
+      "end": "05/11/2026",
+      "cid": "105630",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2060,12 +2071,122 @@
       "active": true
     },
     {
+      "id": "9fafbf1a-054d-4cab-b326-bcada4e569f7",
+      "title": "SEO Para AI",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "10/11/2026",
+      "cid": "103275",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0c077d4c-da0f-4023-9947-7b68d2bc2c81",
+      "title": "JavaScript",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "12/01/2027",
+      "cid": "103245",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6d7bd166-4721-48a8-b6a0-a838790db47f",
+      "title": "Community Manager",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "09/12/2026",
+      "cid": "103235",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ae9e8209-03aa-483e-864d-cb38aa725ba2",
+      "title": "BE I: Desarrollo avanzado de Backend (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "13/10/2026",
+      "end": "10/12/2026",
+      "cid": "102335",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "62ee970a-1548-406d-a41f-bd66069a4984",
       "title": "BE I: Desarrollo avanzado de Backend (diplomatura)",
       "schedule": "Mar y Jue — 07:30 ART",
       "start": "13/10/2026",
       "end": "10/12/2026",
       "cid": "102275",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5786c437-533f-4e3e-97e0-8b937ac63fb9",
+      "title": "React JS",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "16/12/2026",
+      "cid": "93510",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "33ccb804-f178-4ac0-933a-98c8797a22c1",
+      "title": "Excel",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "16/12/2026",
+      "cid": "91925",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2f0a6f5b-0a9d-4fed-b02a-8899b5446e84",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "06/01/2027",
+      "cid": "91710",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "296f360a-5ed7-477c-ba73-3f8077755a89",
+      "title": "Desarrollo Web",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "23/12/2026",
+      "cid": "91370",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1c644501-3d34-45e1-a38f-d7a8e717f9c5",
+      "title": "Data Analytics",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "23/12/2026",
+      "cid": "91080",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "22ee20ab-ba33-4a74-9ac8-91e34c1b1297",
+      "title": "Ciberseguridad",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "16/12/2026",
+      "cid": "90885",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
