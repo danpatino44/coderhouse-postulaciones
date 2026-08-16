@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T12:21:45+00:00",
-  "total": 199,
+  "generated_at": "2026-08-16T12:23:07+00:00",
+  "total": 203,
   "cohorts": [
     {
       "id": "fa7e0eea-c66c-455b-9ff9-c005e27b7d64",
@@ -2187,6 +2187,50 @@
       "start": "13/10/2026",
       "end": "16/12/2026",
       "cid": "90885",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f5876360-421a-409d-a17e-f61636d4318a",
+      "title": "Programación Backend (III): Testing y Escalabilidad",
+      "schedule": "Mié — 20:30 ART",
+      "start": "14/10/2026",
+      "end": "02/12/2026",
+      "cid": "103315",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d9212d7b-550c-478e-875d-800760d38325",
+      "title": "AI Automation Avanzado",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "14/10/2026",
+      "end": "17/11/2026",
+      "cid": "97495",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e36949a6-531e-4e7b-b3e3-976dc13dbd7a",
+      "title": "Power BI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "14/10/2026",
+      "end": "12/11/2026",
+      "cid": "93100",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ece58979-e223-461b-8263-2e5541ab31e1",
+      "title": "Contenido para redes sociales",
+      "schedule": "Mié — 20:30 ART",
+      "start": "14/10/2026",
+      "end": "03/12/2026",
+      "cid": "90945",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
