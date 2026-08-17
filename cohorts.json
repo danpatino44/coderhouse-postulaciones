@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-16T12:23:07+00:00",
-  "total": 203,
+  "generated_at": "2026-08-17T12:27:52+00:00",
+  "total": 212,
   "cohorts": [
-    {
-      "id": "fa7e0eea-c66c-455b-9ff9-c005e27b7d64",
-      "title": "Product Manager",
-      "schedule": "Lun — 20:30 ART",
-      "start": "24/08/2026",
-      "end": "19/10/2026",
-      "cid": "102180",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "b9119a32-9d97-414e-8422-48c6f5d22b83",
       "title": "Python",
@@ -2231,6 +2220,116 @@
       "start": "14/10/2026",
       "end": "03/12/2026",
       "cid": "90945",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "60aeb70c-1d58-41b3-92a9-1f3a72cda411",
+      "title": "Curso de AI Agents",
+      "schedule": "Jue — 19:00 ART",
+      "start": "15/10/2026",
+      "end": "19/11/2026",
+      "cid": "53",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3da59c97-4f6a-4c97-9113-30ff7e190dba",
+      "title": "Desarrollo Web",
+      "schedule": "Jue — 10:00 ART",
+      "start": "15/10/2026",
+      "end": "17/12/2026",
+      "cid": "95055",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ed49b794-4add-4dcd-b243-b647226431ed",
+      "title": "Product Manager",
+      "schedule": "Jue — 19:00 ART",
+      "start": "15/10/2026",
+      "end": "04/12/2026",
+      "cid": "93210",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a99474c3-9d68-40e2-af57-657d4a33ea98",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Jue — 19:00 ART",
+      "start": "15/10/2026",
+      "end": "27/11/2026",
+      "cid": "92935",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6b7d210a-48e1-41db-86e7-96136f7f3d16",
+      "title": "Growth Marketing",
+      "schedule": "Jue — 19:00 ART",
+      "start": "15/10/2026",
+      "end": "18/12/2026",
+      "cid": "92345",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "641d9727-aaa6-495f-80dd-72947dc8a28e",
+      "title": "Diseño UX/UI",
+      "schedule": "Jue — 19:00 ART",
+      "start": "15/10/2026",
+      "end": "22/01/2027",
+      "cid": "91565",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ab554273-b7a7-4a49-ad52-1c65b370e465",
+      "title": "Trabajo en Equipos Tech y Agilidad  (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "16/10/2026",
+      "end": "30/10/2026",
+      "cid": "102815",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "cb7852a2-14e9-4b75-8492-49cfeb8410ca",
+      "title": "Marca Personal y Estrategias en LinkedIn (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "16/10/2026",
+      "end": "30/10/2026",
+      "cid": "102725",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "22c8dce5-2699-4a47-b3ff-0c1ae711aea6",
+      "title": "Estrategia de Marca Personal y Networking (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "16/10/2026",
+      "end": "30/10/2026",
+      "cid": "102635",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3b77a245-cdbc-4b63-b806-18de5d7db2fa",
+      "title": "Estrategia de Marca Personal y Networking (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "16/10/2026",
+      "end": "30/10/2026",
+      "cid": "102625",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
