@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-17T12:27:52+00:00",
-  "total": 212,
+  "generated_at": "2026-08-18T12:29:37+00:00",
+  "total": 214,
   "cohorts": [
-    {
-      "id": "b9119a32-9d97-414e-8422-48c6f5d22b83",
-      "title": "Python",
-      "schedule": "Mar — 19:00 ART",
-      "start": "25/08/2026",
-      "end": "18/11/2026",
-      "cid": "93335",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "8b73d260-ba63-4894-b118-33116630d1c5",
       "title": "Ai Builders Program",
@@ -2291,6 +2280,17 @@
       "active": true
     },
     {
+      "id": "29fdab24-015e-4eb6-8df1-6d374d6de7ec",
+      "title": "Trabajo en Equipos Tech y Agilidad  (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "16/10/2026",
+      "end": "30/10/2026",
+      "cid": "102860",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "ab554273-b7a7-4a49-ad52-1c65b370e465",
       "title": "Trabajo en Equipos Tech y Agilidad  (diplomatura)",
       "schedule": "Vie — 07:30 ART",
@@ -2302,12 +2302,34 @@
       "active": true
     },
     {
+      "id": "06878059-203f-47f6-963b-dfec4a0fd4aa",
+      "title": "Marca Personal y Estrategias en LinkedIn (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "16/10/2026",
+      "end": "30/10/2026",
+      "cid": "102770",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "cb7852a2-14e9-4b75-8492-49cfeb8410ca",
       "title": "Marca Personal y Estrategias en LinkedIn (diplomatura)",
       "schedule": "Vie — 07:30 ART",
       "start": "16/10/2026",
       "end": "30/10/2026",
       "cid": "102725",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c3c8a96c-0acd-47d6-8759-cd57f217d446",
+      "title": "Estrategia de Marca Personal y Networking (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "16/10/2026",
+      "end": "30/10/2026",
+      "cid": "102680",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
