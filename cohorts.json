@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T12:29:37+00:00",
-  "total": 214,
+  "generated_at": "2026-08-19T12:30:40+00:00",
+  "total": 202,
   "cohorts": [
     {
       "id": "8b73d260-ba63-4894-b118-33116630d1c5",
@@ -20,17 +20,6 @@
       "start": "01/09/2026",
       "end": "22/10/2026",
       "cid": "105525",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "bd9298c0-9bf9-46af-b02e-b9d619042963",
-      "title": "Product Manager",
-      "schedule": "Mar — 19:00 ART",
-      "start": "01/09/2026",
-      "end": "21/10/2026",
-      "cid": "93180",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -146,45 +135,12 @@
       "active": true
     },
     {
-      "id": "143937fa-4055-4215-9d65-017756d2e0c7",
-      "title": "DevOps & Cloud",
-      "schedule": "Lun — 20:30 ART",
-      "start": "07/09/2026",
-      "end": "21/09/2026",
-      "cid": "102090",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1365be83-31d3-4826-94a2-f2af4834fb41",
-      "title": "JavaScript",
-      "schedule": "Lun — 10:00 ART",
-      "start": "07/09/2026",
-      "end": "23/11/2026",
-      "cid": "95080",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "3c2e37ad-975c-4c8d-9278-f4dd70dd1038",
       "title": "React JS",
       "schedule": "Lun — 20:30 ART",
       "start": "07/09/2026",
       "end": "10/11/2026",
       "cid": "93485",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "78f561f3-6c4a-42b8-b449-cd7d301b4834",
-      "title": "Paid media: Meta & Google Ads",
-      "schedule": "Lun — 20:30 ART",
-      "start": "07/09/2026",
-      "end": "10/11/2026",
-      "cid": "92920",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -278,28 +234,6 @@
       "active": true
     },
     {
-      "id": "3a5b6f8b-a42c-4df7-b58b-100f4717e27d",
-      "title": "Data science 1 (diplomatura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "09/09/2026",
-      "end": "18/11/2026",
-      "cid": "102435",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ca4d93cf-fb6f-42e0-9caf-fc1ecd6a83e5",
-      "title": "Data science 1 (diplomatura)",
-      "schedule": "Lun y Mié — 07:30 ART",
-      "start": "09/09/2026",
-      "end": "18/11/2026",
-      "cid": "102390",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "1cc46d50-be58-44f7-8279-ce9e46528b62",
       "title": "AI Automation",
       "schedule": "Mié y Lun — 19:00 ART",
@@ -307,39 +241,6 @@
       "end": "29/10/2026",
       "cid": "97420",
       "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "0d5f6af8-a466-4436-b134-823ed45536d4",
-      "title": "Paid media: Meta & Google Ads",
-      "schedule": "Mié — 10:00 ART",
-      "start": "09/09/2026",
-      "end": "04/11/2026",
-      "cid": "95120",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "861d1ad3-40bf-42b2-88bf-29dce5b0a840",
-      "title": "Product Manager",
-      "schedule": "Mié — 20:30 ART",
-      "start": "09/09/2026",
-      "end": "29/10/2026",
-      "cid": "93195",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "bbf10112-4b23-4360-beb6-bced0650ebe3",
-      "title": "Excel",
-      "schedule": "Jue — 10:00 ART",
-      "start": "10/09/2026",
-      "end": "12/11/2026",
-      "cid": "105635",
-      "modality": "ON_SITE",
       "country": "AR",
       "active": true
     },
@@ -383,17 +284,6 @@
       "start": "10/09/2026",
       "end": "12/11/2026",
       "cid": "95050",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "a91d545b-baa6-4cbc-bd15-db5754cfe120",
-      "title": "Growth Marketing",
-      "schedule": "Jue — 19:00 ART",
-      "start": "10/09/2026",
-      "end": "13/11/2026",
-      "cid": "92255",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -630,17 +520,6 @@
       "active": true
     },
     {
-      "id": "f2b1c517-0182-44e8-b349-7225cf78db91",
-      "title": "Growth Marketing",
-      "schedule": "Lun — 20:30 ART",
-      "start": "14/09/2026",
-      "end": "24/11/2026",
-      "cid": "92260",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "c62acd6b-6b4e-4866-ac1c-711ba73a710b",
       "title": "Ai Builders Program",
       "schedule": "Mar y Jue — 19:30 ART",
@@ -784,17 +663,6 @@
       "active": true
     },
     {
-      "id": "dba9060a-ec94-4141-9fcf-9f830164e161",
-      "title": "React JS",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "11/11/2026",
-      "cid": "93490",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "2262de2a-8440-4e16-a2b4-e7cf659cda01",
       "title": "Community Manager",
       "schedule": "Mar — 19:00 ART",
@@ -812,17 +680,6 @@
       "start": "15/09/2026",
       "end": "21/10/2026",
       "cid": "92575",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "99beaf08-7290-4830-8e98-c6260cadd635",
-      "title": "JavaScript",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "25/11/2026",
-      "cid": "92465",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -944,17 +801,6 @@
       "start": "17/09/2026",
       "end": "28/10/2026",
       "cid": "103115",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6c74926a-d5ec-4c2a-8a6e-af89991286e9",
-      "title": "Product Manager",
-      "schedule": "Jue — 19:00 ART",
-      "start": "17/09/2026",
-      "end": "06/11/2026",
-      "cid": "93200",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1114,17 +960,6 @@
       "active": true
     },
     {
-      "id": "11441061-5ce5-4bd0-9920-bf445e1ed61a",
-      "title": "Creación de contenido con AI",
-      "schedule": "Lun — 20:30 ART",
-      "start": "21/09/2026",
-      "end": "24/11/2026",
-      "cid": "97000",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "3e7f3df7-d384-455e-a3bc-3d9c294a4d73",
       "title": "Data Science I: Fundamentos para la Ciencia de Datos",
       "schedule": "Lun — 20:30 ART",
@@ -1191,17 +1026,6 @@
       "active": true
     },
     {
-      "id": "eca4fb4d-a3aa-49ce-b9a4-d41bf2e15c8b",
-      "title": "Paid media: Meta & Google Ads",
-      "schedule": "Mar — 19:00 ART",
-      "start": "22/09/2026",
-      "end": "18/11/2026",
-      "cid": "92925",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "ce10ea92-c4d9-4975-a78f-7fd64ca718fb",
       "title": "Canva",
       "schedule": "Mar — 19:00 ART",
@@ -1230,17 +1054,6 @@
       "start": "23/09/2026",
       "end": "26/11/2026",
       "cid": "92750",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "33185185-a202-4028-b66a-dc317fbb52d1",
-      "title": "JavaScript",
-      "schedule": "Mié — 20:30 ART",
-      "start": "23/09/2026",
-      "end": "03/12/2026",
-      "cid": "92470",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1351,17 +1164,6 @@
       "start": "26/09/2026",
       "end": "30/01/2027",
       "cid": "94895",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "7e103e49-e899-422c-9666-70550a30bab8",
-      "title": "JavaScript",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "26/09/2026",
-      "end": "28/11/2026",
-      "cid": "94825",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1648,6 +1450,28 @@
       "start": "03/10/2026",
       "end": "12/12/2026",
       "cid": "94710",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7b750909-ac7b-4807-8237-baf9c9963561",
+      "title": "Programación Backend (III): Testing y Escalabilidad",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "14/12/2026",
+      "cid": "105645",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "423b5890-a94b-477a-b364-e5bcd152412d",
+      "title": "Tableau",
+      "schedule": "Lun — 20:30 ART",
+      "start": "05/10/2026",
+      "end": "17/11/2026",
+      "cid": "105640",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2170,6 +1994,17 @@
       "active": true
     },
     {
+      "id": "b19a4fd7-5411-428a-aaae-790dae6f2013",
+      "title": "AI Automation Avanzado",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "14/10/2026",
+      "end": "17/11/2026",
+      "cid": "105650",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "f5876360-421a-409d-a17e-f61636d4318a",
       "title": "Programación Backend (III): Testing y Escalabilidad",
       "schedule": "Mié — 20:30 ART",
@@ -2352,6 +2187,39 @@
       "start": "16/10/2026",
       "end": "30/10/2026",
       "cid": "102625",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "526b3c51-8b09-40ea-9f02-7fe693937027",
+      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "17/10/2026",
+      "end": "31/10/2026",
+      "cid": "102200",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "286f1972-bf3f-4946-8b5a-05a16fb0df22",
+      "title": "Desarrollo Web",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "17/10/2026",
+      "end": "09/01/2027",
+      "cid": "94800",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f16705a1-8b6b-4966-b69a-8cb66089bfd3",
+      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "17/10/2026",
+      "end": "31/10/2026",
+      "cid": "90450",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
