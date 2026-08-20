@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T12:30:40+00:00",
-  "total": 202,
+  "generated_at": "2026-08-20T12:32:23+00:00",
+  "total": 197,
   "cohorts": [
     {
       "id": "8b73d260-ba63-4894-b118-33116630d1c5",
@@ -20,17 +20,6 @@
       "start": "01/09/2026",
       "end": "22/10/2026",
       "cid": "105525",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "280db51d-cde5-4ab4-b992-6c2f2e23f2a7",
-      "title": "Google Ads, Analytics & Looker Studio",
-      "schedule": "Mar — 19:00 ART",
-      "start": "01/09/2026",
-      "end": "14/10/2026",
-      "cid": "92140",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -135,17 +124,6 @@
       "active": true
     },
     {
-      "id": "3c2e37ad-975c-4c8d-9278-f4dd70dd1038",
-      "title": "React JS",
-      "schedule": "Lun — 20:30 ART",
-      "start": "07/09/2026",
-      "end": "10/11/2026",
-      "cid": "93485",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "0ae4f5f4-6442-4db4-a995-5dba94fc3dd4",
       "title": "Community Manager",
       "schedule": "Lun — 20:30 ART",
@@ -163,17 +141,6 @@
       "start": "07/09/2026",
       "end": "17/11/2026",
       "cid": "91900",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "496c2cef-9700-4013-b971-6f70e849471b",
-      "title": "Desarrollo Web",
-      "schedule": "Lun — 20:30 ART",
-      "start": "07/09/2026",
-      "end": "17/11/2026",
-      "cid": "91345",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -416,17 +383,6 @@
       "start": "14/09/2026",
       "end": "11/11/2026",
       "cid": "102655",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "dd518d4b-0e8f-4cc4-a244-c6c6000a0e0e",
-      "title": "Fundamentos de Programación con Python para Datos (diplomatura)",
-      "schedule": "Lun y Mié — 07:30 ART",
-      "start": "14/09/2026",
-      "end": "11/11/2026",
-      "cid": "102600",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -707,17 +663,6 @@
       "active": true
     },
     {
-      "id": "5ef2251b-4cc9-45a3-8e10-5c531f60a100",
-      "title": "Desarrollo Web",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "18/11/2026",
-      "cid": "91350",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "00afc115-799a-4da9-adab-402dcc7766fe",
       "title": "Cloud Computing (AWS)",
       "schedule": "Mar — 19:00 ART",
@@ -933,17 +878,6 @@
       "start": "19/09/2026",
       "end": "07/11/2026",
       "cid": "94855",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ba6cc7bf-9af4-4211-ae07-5163bd549e82",
-      "title": "React JS",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "19/09/2026",
-      "end": "07/11/2026",
-      "cid": "94840",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2220,6 +2154,17 @@
       "start": "17/10/2026",
       "end": "31/10/2026",
       "cid": "90450",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "453af511-0526-404c-b847-998211c10e00",
+      "title": "JavaScript (diplomatura2026)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "19/10/2026",
+      "end": "27/01/2027",
+      "cid": "102910",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
