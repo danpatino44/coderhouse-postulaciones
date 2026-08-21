@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T12:32:23+00:00",
-  "total": 197,
+  "generated_at": "2026-08-21T12:31:24+00:00",
+  "total": 202,
   "cohorts": [
     {
       "id": "8b73d260-ba63-4894-b118-33116630d1c5",
@@ -25,17 +25,6 @@
       "active": true
     },
     {
-      "id": "6891ee27-9395-420f-8c37-8c573ad75761",
-      "title": "AI Engineering",
-      "schedule": "Mié — 20:30 ART",
-      "start": "02/09/2026",
-      "end": "07/10/2026",
-      "cid": "102125",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "7c2941f7-2ffc-466a-afa0-2de204683e56",
       "title": "Growth Marketing",
       "schedule": "Mié — 20:30 ART",
@@ -47,45 +36,12 @@
       "active": true
     },
     {
-      "id": "685d7e88-a902-4682-902e-a38892fba0f3",
-      "title": "Diseño UX/UI",
-      "schedule": "Mié — 20:30 ART",
-      "start": "02/09/2026",
-      "end": "26/11/2026",
-      "cid": "91540",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4195aeec-e63f-4ae8-a23e-53e4966475f8",
-      "title": "Administración de empresas",
-      "schedule": "Mié — 20:30 ART",
-      "start": "02/09/2026",
-      "end": "01/10/2026",
-      "cid": "90745",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "8d7dac09-ba96-4653-96a3-3c6574a9d521",
       "title": "Paid media: Meta & Google Ads",
       "schedule": "Jue — 19:00 ART",
       "start": "03/09/2026",
       "end": "30/10/2026",
       "cid": "92915",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "06e93e66-fa64-435c-92d6-b54b5c244701",
-      "title": "Community Manager",
-      "schedule": "Jue — 19:00 ART",
-      "start": "03/09/2026",
-      "end": "06/11/2026",
-      "cid": "92735",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -174,17 +130,6 @@
       "start": "08/09/2026",
       "end": "04/11/2026",
       "cid": "93275",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "d1763dca-0235-414f-9752-84b73691159f",
-      "title": "Introducción a la Inteligencia Artificial",
-      "schedule": "Mar — 19:00 ART",
-      "start": "08/09/2026",
-      "end": "14/10/2026",
-      "cid": "92050",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2165,6 +2110,116 @@
       "start": "19/10/2026",
       "end": "27/01/2027",
       "cid": "102910",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0862339b-3589-487c-a89a-6b14a7a8f97c",
+      "title": "AI Automation",
+      "schedule": "Lun y Mié — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "03/12/2026",
+      "cid": "96950",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "88b10e25-c486-493a-ab5e-a005439bdfdf",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "08/12/2026",
+      "cid": "95280",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bd1983d8-6004-498d-b524-977f2e480907",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "05/01/2027",
+      "cid": "95235",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9e7ec6bc-2fea-42a7-a877-86e7afe18262",
+      "title": "Community Manager",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "15/12/2026",
+      "cid": "92760",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2591c84e-1b21-4858-9756-93a1c74f0ba4",
+      "title": "JavaScript",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "22/12/2026",
+      "cid": "92490",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8c9a8266-abbf-422c-9719-088edf9f090a",
+      "title": "Growth Marketing",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "22/12/2026",
+      "cid": "92280",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8ba51dfc-4727-4e76-ada2-2c9a0dca2644",
+      "title": "Diseño UX/UI",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "19/01/2027",
+      "cid": "91570",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "464dd775-e936-4063-a1bd-541f63d288c1",
+      "title": "Customer Experience (CX)",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "15/12/2026",
+      "cid": "91200",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f1c4abe3-bace-4232-b8aa-407b106fb45f",
+      "title": "Canva",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "10/11/2026",
+      "cid": "90840",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5e913439-7bc0-4693-95fd-3981a8b6a405",
+      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "03/11/2026",
+      "cid": "90560",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
