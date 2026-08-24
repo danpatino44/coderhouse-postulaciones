@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-08-23T12:23:42+00:00",
-  "total": 200,
+  "generated_at": "2026-08-24T12:33:11+00:00",
+  "total": 203,
   "cohorts": [
-    {
-      "id": "8b73d260-ba63-4894-b118-33116630d1c5",
-      "title": "Ai Builders Program",
-      "schedule": "Lun y Mié — 19:30 ART",
-      "start": "31/08/2026",
-      "end": "21/10/2026",
-      "cid": "105520",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "52cf99fd-02f8-434d-b77e-ad5059eb7691",
-      "title": "Ai Builders Program",
-      "schedule": "Mar y Jue — 20:30 ART",
-      "start": "01/09/2026",
-      "end": "22/10/2026",
-      "cid": "105525",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "7c2941f7-2ffc-466a-afa0-2de204683e56",
       "title": "Growth Marketing",
@@ -247,10 +225,21 @@
     {
       "id": "c62acd6b-6b4e-4866-ac1c-711ba73a710b",
       "title": "Ai Builders Program",
-      "schedule": "Mar y Jue — 19:30 ART",
+      "schedule": "Mar y Jue — 19:00 ART",
       "start": "15/09/2026",
       "end": "05/11/2026",
       "cid": "105630",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "52cf99fd-02f8-434d-b77e-ad5059eb7691",
+      "title": "Ai Builders Program",
+      "schedule": "Mar y Jue — 20:30 ART",
+      "start": "15/09/2026",
+      "end": "05/11/2026",
+      "cid": "105525",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -511,7 +500,7 @@
     {
       "id": "4cee86ee-9a68-46df-99cf-83c91e14ddad",
       "title": "Data Engineering",
-      "schedule": "Mié — 21:30 ART",
+      "schedule": "Mié — 20:30 ART",
       "start": "17/09/2026",
       "end": "28/10/2026",
       "cid": "103115",
@@ -2198,6 +2187,50 @@
       "start": "21/10/2026",
       "end": "14/01/2027",
       "cid": "91715",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9d02da65-e47e-40f5-b098-8bbc36f33011",
+      "title": "Power BI",
+      "schedule": "Jue — 19:00 ART",
+      "start": "22/10/2026",
+      "end": "20/11/2026",
+      "cid": "93105",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c8bdb483-4cbd-414b-90a7-19fdbc32602c",
+      "title": "Desarrollo Web",
+      "schedule": "Jue — 19:00 ART",
+      "start": "22/10/2026",
+      "end": "08/01/2027",
+      "cid": "91375",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ebc8e669-9cd6-4135-af7c-b8e49d49a0ac",
+      "title": "Data Analytics",
+      "schedule": "Jue — 19:00 ART",
+      "start": "22/10/2026",
+      "end": "08/01/2027",
+      "cid": "91085",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3d894a84-b7a6-4f51-b98c-934dc197f01b",
+      "title": "Metodologias agiles (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "23/10/2026",
+      "end": "04/12/2026",
+      "cid": "102400",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
