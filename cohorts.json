@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T12:33:11+00:00",
-  "total": 203,
+  "generated_at": "2026-08-25T12:32:55+00:00",
+  "total": 211,
   "cohorts": [
     {
       "id": "7c2941f7-2ffc-466a-afa0-2de204683e56",
@@ -42,6 +42,28 @@
       "start": "10/09/2026",
       "end": "14/10/2026",
       "cid": "103065",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4be016d7-d811-46d6-b75c-e62b6fd8c8ff",
+      "title": "Ciberseguridad (diplomatura)",
+      "schedule": "Lun y Mié — 21:00 ART",
+      "start": "14/09/2026",
+      "end": "02/11/2026",
+      "cid": "105725",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "599cd366-928f-43a9-b435-13b76b270fa1",
+      "title": "Ciberseguridad (diplomatura)",
+      "schedule": "Lun y Mié — 21:00 ART",
+      "start": "14/09/2026",
+      "end": "02/11/2026",
+      "cid": "105720",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -119,17 +141,6 @@
       "start": "14/09/2026",
       "end": "28/10/2026",
       "cid": "102700",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "94093515-ed28-43dc-a437-19ecd7a05372",
-      "title": "Fundamentos de Programación con Python para Datos (diplomatura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "14/09/2026",
-      "end": "11/11/2026",
-      "cid": "102655",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -223,23 +234,34 @@
       "active": true
     },
     {
+      "id": "18b0f22c-2119-4f83-b0f4-4a03eb706184",
+      "title": "Programacion Backend III (diplomatura)",
+      "schedule": "Mar y Jue — 21:00 ART",
+      "start": "15/09/2026",
+      "end": "05/11/2026",
+      "cid": "105665",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6aa407fc-b65e-485b-9912-f751c764232f",
+      "title": "Programacion Backend III (diplomatura)",
+      "schedule": "Mar y Jue — 21:00 ART",
+      "start": "15/09/2026",
+      "end": "05/11/2026",
+      "cid": "105660",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "c62acd6b-6b4e-4866-ac1c-711ba73a710b",
       "title": "Ai Builders Program",
       "schedule": "Mar y Jue — 19:00 ART",
       "start": "15/09/2026",
       "end": "05/11/2026",
       "cid": "105630",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "52cf99fd-02f8-434d-b77e-ad5059eb7691",
-      "title": "Ai Builders Program",
-      "schedule": "Mar y Jue — 20:30 ART",
-      "start": "15/09/2026",
-      "end": "05/11/2026",
-      "cid": "105525",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -537,6 +559,28 @@
       "start": "17/09/2026",
       "end": "16/10/2026",
       "cid": "90925",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "378edf15-3098-4846-b7a4-0c956760d9d0",
+      "title": "Empleabilidad",
+      "schedule": "Vie — 21:00 ART",
+      "start": "18/09/2026",
+      "end": "30/10/2026",
+      "cid": "105675",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "cba1463a-ac03-4c6a-b7e9-443347f31749",
+      "title": "Empleabilidad",
+      "schedule": "Vie — 21:00 ART",
+      "start": "18/09/2026",
+      "end": "30/10/2026",
+      "cid": "105670",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1114,17 +1158,6 @@
       "active": true
     },
     {
-      "id": "3a36bd23-d50c-42c5-93ca-259ae9e5ff7c",
-      "title": "JavaScript",
-      "schedule": "Jue — 19:00 ART",
-      "start": "01/10/2026",
-      "end": "11/12/2026",
-      "cid": "92485",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "d039eabb-8281-442d-ba7f-9860a0126498",
       "title": "Administración de empresas",
       "schedule": "Jue — 19:00 ART",
@@ -1521,6 +1554,28 @@
       "active": true
     },
     {
+      "id": "7db6535c-9406-4bee-88b7-bebe1d18019b",
+      "title": "Oratoria",
+      "schedule": "Vie — 21:00 ART",
+      "start": "09/10/2026",
+      "end": "23/10/2026",
+      "cid": "105685",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ea7683c0-3cbc-448c-8cbd-af1195036bdd",
+      "title": "Oratoria",
+      "schedule": "Vie — 21:00 ART",
+      "start": "09/10/2026",
+      "end": "23/10/2026",
+      "cid": "105680",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "36c62cad-b6e8-4310-9162-2eb7b9169c2a",
       "title": "Comunicación Efectiva (diplomatura)",
       "schedule": "Vie — 18:30 ART",
@@ -1560,6 +1615,28 @@
       "start": "09/10/2026",
       "end": "27/11/2026",
       "cid": "102555",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "df661a8f-990b-441e-bd72-85550f9df6fe",
+      "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
+      "schedule": "Mar y Jue — 21:00 ART",
+      "start": "13/10/2026",
+      "end": "22/10/2026",
+      "cid": "105695",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "685f5f29-cd01-4a74-981a-6659862ec623",
+      "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
+      "schedule": "Mar y Jue — 21:00 ART",
+      "start": "13/10/2026",
+      "end": "22/10/2026",
+      "cid": "105690",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2038,6 +2115,17 @@
       "active": true
     },
     {
+      "id": "0fcc3e4c-f6c6-43de-afaa-e4868ece2d93",
+      "title": "Creación de contenido con AI",
+      "schedule": "Mar — 19:00 ART",
+      "start": "20/10/2026",
+      "end": "05/01/2027",
+      "cid": "103100",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "010f0290-1d26-4608-a262-6764ab6504fd",
       "title": "Vibe Coding: creá tu app con IA",
       "schedule": "Mar — 19:00 ART",
@@ -2099,17 +2187,6 @@
       "start": "20/10/2026",
       "end": "23/12/2026",
       "cid": "92945",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "0fcc3e4c-f6c6-43de-afaa-e4868ece2d93",
-      "title": "Creación de contenido con AI",
-      "schedule": "Mar — 19:00 ART",
-      "start": "21/10/2026",
-      "end": "05/01/2027",
-      "cid": "103100",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2220,6 +2297,17 @@
       "start": "22/10/2026",
       "end": "08/01/2027",
       "cid": "91085",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e57ef63f-b181-4e94-8d3c-aabac9b82b0f",
+      "title": "Metodologias agiles (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "23/10/2026",
+      "end": "04/12/2026",
+      "cid": "102445",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
