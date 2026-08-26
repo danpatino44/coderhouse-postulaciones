@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-25T12:32:55+00:00",
+  "generated_at": "2026-08-26T12:36:29+00:00",
   "total": 211,
   "cohorts": [
-    {
-      "id": "7c2941f7-2ffc-466a-afa0-2de204683e56",
-      "title": "Growth Marketing",
-      "schedule": "Mié — 20:30 ART",
-      "start": "02/09/2026",
-      "end": "05/11/2026",
-      "cid": "92250",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "a60d1976-fc67-40d3-8672-ff21ba87144e",
       "title": "UX Research",
@@ -2319,6 +2308,17 @@
       "start": "23/10/2026",
       "end": "04/12/2026",
       "cid": "102400",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ca983097-0212-4d7a-8f10-6fd151c53030",
+      "title": "Programación Backend II: Diseño y Arquitectura Backend",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "24/10/2026",
+      "end": "12/12/2026",
+      "cid": "94925",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
