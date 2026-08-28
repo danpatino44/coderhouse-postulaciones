@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-27T21:32:01+00:00",
-  "total": 211,
+  "generated_at": "2026-08-28T21:37:21+00:00",
+  "total": 206,
   "cohorts": [
-    {
-      "id": "a60d1976-fc67-40d3-8672-ff21ba87144e",
-      "title": "UX Research",
-      "schedule": "Mar — 19:00 ART",
-      "start": "08/09/2026",
-      "end": "04/11/2026",
-      "cid": "94025",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "9e82609d-eb5e-41bf-8842-6c1b10967dd4",
       "title": "Prototipado con Figma",
@@ -146,17 +135,6 @@
       "active": true
     },
     {
-      "id": "24017ec8-5765-4f91-ba3b-bcc44f82ec66",
-      "title": "AI Automation",
-      "schedule": "Lun y Mié — 20:30 ART",
-      "start": "14/09/2026",
-      "end": "03/11/2026",
-      "cid": "96940",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "7e8c43a4-1075-4322-8a64-7bc406f7cfba",
       "title": "Programación Backend (III): Testing y Escalabilidad",
       "schedule": "Lun — 20:30 ART",
@@ -168,34 +146,12 @@
       "active": true
     },
     {
-      "id": "cbcf42ba-8095-4cb5-95a3-da3375cb8fb0",
-      "title": "Data Science II: Machine Learning para la Ciencia de Datos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "14/09/2026",
-      "end": "19/01/2027",
-      "cid": "95410",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "636c481d-49e9-426b-9c5b-408a61c10e6b",
       "title": "Programación Backend (III): Testing y Escalabilidad",
       "schedule": "Lun — 20:30 ART",
       "start": "14/09/2026",
       "end": "10/11/2026",
       "cid": "95295",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9a8d9c67-ce34-479f-a0dc-6ebafd161c00",
-      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
-      "schedule": "Lun — 20:30 ART",
-      "start": "14/09/2026",
-      "end": "17/11/2026",
-      "cid": "95225",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -344,89 +300,12 @@
       "active": true
     },
     {
-      "id": "f30483de-d7ca-4d07-a6c1-d8d5f35eca3c",
-      "title": "Curso de AI Agents",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "20/10/2026",
-      "cid": "52",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "eb29e63e-15e3-4fe9-9c88-c03a41851308",
-      "title": "Programación Backend II: Diseño y Arquitectura Backend",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "28/10/2026",
-      "cid": "95275",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "7362dd5c-0f71-41ff-b3e0-954202f2596b",
-      "title": "Wordpress",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "14/10/2026",
-      "cid": "93875",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "51c03ab3-dcf5-47d1-9be4-58b6fdfff026",
-      "title": "UX Writing",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "04/11/2026",
-      "cid": "93825",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "2262de2a-8440-4e16-a2b4-e7cf659cda01",
-      "title": "Community Manager",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "18/11/2026",
-      "cid": "92745",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "cc6647a7-79d5-42dc-9bb6-3b19fb861181",
       "title": "Liderazgo y gestión de equipos",
       "schedule": "Mar — 19:00 ART",
       "start": "15/09/2026",
       "end": "21/10/2026",
       "cid": "92575",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "c55011ef-ddf5-4719-b0fb-79d5a7abedc7",
-      "title": "Excel",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "11/11/2026",
-      "cid": "91905",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "b00e7c00-7338-45f9-b437-6a9a9848ee6b",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "25/11/2026",
-      "cid": "91695",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2319,6 +2198,72 @@
       "start": "24/10/2026",
       "end": "12/12/2026",
       "cid": "94925",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0155a751-da89-40e5-a5d5-fbb14258472f",
+      "title": "Python",
+      "schedule": "Lun — 20:30 ART",
+      "start": "26/10/2026",
+      "end": "26/01/2027",
+      "cid": "93360",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9aae56b4-810b-4171-b568-7ed946489c12",
+      "title": "Product Manager",
+      "schedule": "Lun — 20:30 ART",
+      "start": "26/10/2026",
+      "end": "15/12/2026",
+      "cid": "93215",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c59dcfc0-d5f6-40b1-affb-d3c0ca95e3b9",
+      "title": "Fundamentos del Diseño Gráfico",
+      "schedule": "Lun — 20:30 ART",
+      "start": "26/10/2026",
+      "end": "08/12/2026",
+      "cid": "92100",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d484f53e-812a-45ce-bf38-4bc636f25c89",
+      "title": "Data Analytics",
+      "schedule": "Lun — 20:30 ART",
+      "start": "26/10/2026",
+      "end": "05/01/2027",
+      "cid": "91090",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e212f504-9406-4cb5-8257-058343323919",
+      "title": "Business Analytics",
+      "schedule": "Lun — 20:30 ART",
+      "start": "26/10/2026",
+      "end": "22/12/2026",
+      "cid": "90795",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0637fcdf-9f52-4a3c-95c6-630e6d4303e5",
+      "title": "Community Manager",
+      "schedule": "Mar — 10:00 ART",
+      "start": "27/10/2026",
+      "end": "19/01/2027",
+      "cid": "95010",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
