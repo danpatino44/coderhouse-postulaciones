@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T21:37:21+00:00",
-  "total": 206,
+  "generated_at": "2026-08-29T16:00:01+00:00",
+  "total": 211,
   "cohorts": [
     {
       "id": "9e82609d-eb5e-41bf-8842-6c1b10967dd4",
@@ -2258,12 +2258,67 @@
       "active": true
     },
     {
+      "id": "436c8475-3663-4b15-91a9-d003e0b47bf0",
+      "title": "AI Automation Avanzado",
+      "schedule": "Mar y Jue — 19:00 ART",
+      "start": "27/10/2026",
+      "end": "27/11/2026",
+      "cid": "97320",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7160990e-2fe6-43b2-b04b-86cf4d747ffd",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Mar — 19:00 ART",
+      "start": "27/10/2026",
+      "end": "20/01/2027",
+      "cid": "95375",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "14c323eb-4b97-4eb3-a392-c63473b6f4c5",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
+      "schedule": "Mar — 19:00 ART",
+      "start": "27/10/2026",
+      "end": "27/01/2027",
+      "cid": "95240",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "0637fcdf-9f52-4a3c-95c6-630e6d4303e5",
       "title": "Community Manager",
       "schedule": "Mar — 10:00 ART",
       "start": "27/10/2026",
       "end": "19/01/2027",
       "cid": "95010",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a2a66c17-e84b-4492-89bc-452e198fcd6e",
+      "title": "Growth Marketing",
+      "schedule": "Mar — 19:00 ART",
+      "start": "27/10/2026",
+      "end": "13/01/2027",
+      "cid": "92285",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "080f66c5-9182-4cdb-bf08-97805cb86bc2",
+      "title": "Diseño UX/UI",
+      "schedule": "Mar — 19:00 ART",
+      "start": "27/10/2026",
+      "end": "03/02/2027",
+      "cid": "91575",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
