@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T16:00:01+00:00",
-  "total": 211,
+  "generated_at": "2026-08-30T15:49:20+00:00",
+  "total": 218,
   "cohorts": [
     {
       "id": "9e82609d-eb5e-41bf-8842-6c1b10967dd4",
@@ -2319,6 +2319,83 @@
       "start": "27/10/2026",
       "end": "03/02/2027",
       "cid": "91575",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "014dd0c8-28f1-437b-9b26-bb829e3e1f6b",
+      "title": "Photoshop e Illustrator",
+      "schedule": "Mié — 20:30 ART",
+      "start": "28/10/2026",
+      "end": "10/12/2026",
+      "cid": "94125",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "43add77a-de6c-4f90-aeef-c6bb722537aa",
+      "title": "UX Research",
+      "schedule": "Mié — 20:30 ART",
+      "start": "28/10/2026",
+      "end": "07/01/2027",
+      "cid": "94035",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "de756036-4321-4017-ad14-a169827ead58",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Mié — 20:30 ART",
+      "start": "28/10/2026",
+      "end": "07/01/2027",
+      "cid": "92950",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c1ba44dc-1a6a-4d4b-9336-913e7bd0e9ba",
+      "title": "Community Manager",
+      "schedule": "Mié — 20:30 ART",
+      "start": "28/10/2026",
+      "end": "14/01/2027",
+      "cid": "92770",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "50afda73-a8a5-4571-83d9-c663c6561068",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Mié — 20:30 ART",
+      "start": "28/10/2026",
+      "end": "03/12/2026",
+      "cid": "92585",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3e67a2cb-aabb-45b7-8532-2e42e349b1da",
+      "title": "JavaScript",
+      "schedule": "Mié — 20:30 ART",
+      "start": "28/10/2026",
+      "end": "21/01/2027",
+      "cid": "92480",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e65e35e1-e88a-4887-8aeb-b05c53b4ec6f",
+      "title": "Desarrollo Web",
+      "schedule": "Mié — 20:30 ART",
+      "start": "28/10/2026",
+      "end": "14/01/2027",
+      "cid": "91380",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
