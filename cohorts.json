@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-30T15:49:20+00:00",
-  "total": 218,
+  "generated_at": "2026-08-31T18:33:22+00:00",
+  "total": 224,
   "cohorts": [
-    {
-      "id": "9e82609d-eb5e-41bf-8842-6c1b10967dd4",
-      "title": "Prototipado con Figma",
-      "schedule": "Mar — 19:00 ART",
-      "start": "08/09/2026",
-      "end": "04/11/2026",
-      "cid": "93275",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "3312fd80-f438-4a50-b9b0-d100ebaa2b50",
       "title": "AI Automation Avanzado",
@@ -306,6 +295,17 @@
       "start": "15/09/2026",
       "end": "21/10/2026",
       "cid": "92575",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b00e7c00-7338-45f9-b437-6a9a9848ee6b",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/09/2026",
+      "end": "25/11/2026",
+      "cid": "91695",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2396,6 +2396,72 @@
       "start": "28/10/2026",
       "end": "14/01/2027",
       "cid": "91380",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "69393e9b-c283-4052-a96e-7c67ce01fafc",
+      "title": "AI Automation",
+      "schedule": "Jue y Mar — 20:30 ART",
+      "start": "29/10/2026",
+      "end": "18/12/2026",
+      "cid": "97435",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6bf6462c-88f7-475b-8eec-6ef3e13bbb40",
+      "title": "React JS",
+      "schedule": "Jue — 19:00 ART",
+      "start": "29/10/2026",
+      "end": "08/01/2027",
+      "cid": "93520",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4aa5a610-c4b1-4dfb-a001-2ec6efe02291",
+      "title": "Excel",
+      "schedule": "Jue — 19:00 ART",
+      "start": "29/10/2026",
+      "end": "08/01/2027",
+      "cid": "91935",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "29429021-f65e-4d91-8c19-561eb843fd2c",
+      "title": "Empleabilidad",
+      "schedule": "Vie — 21:00 ART",
+      "start": "30/10/2026",
+      "end": "18/12/2026",
+      "cid": "105705",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e88a0bfb-3001-4619-ad6b-eb08f59f7537",
+      "title": "Empleabilidad",
+      "schedule": "Vie — 21:00 ART",
+      "start": "30/10/2026",
+      "end": "18/12/2026",
+      "cid": "105700",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "39f87c43-9da5-4442-a777-cc9d3078ec64",
+      "title": "Career Hacking: Marca Personal y Negociación en el Mercado Global. (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "30/10/2026",
+      "end": "18/12/2026",
+      "cid": "102490",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
