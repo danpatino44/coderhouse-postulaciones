@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-31T18:33:22+00:00",
-  "total": 224,
+  "generated_at": "2026-09-01T15:52:06+00:00",
+  "total": 223,
   "cohorts": [
+    {
+      "id": "6b6d9311-ff20-4f07-9008-83d6053e32fd",
+      "title": "Adidas 2 | Power Platform Inicial",
+      "schedule": "Mié y Jue — 14:00 ART",
+      "start": "03/09/2026",
+      "end": "09/09/2026",
+      "cid": "105740",
+      "modality": "ON_SITE",
+      "country": "AR",
+      "active": true
+    },
     {
       "id": "3312fd80-f438-4a50-b9b0-d100ebaa2b50",
       "title": "AI Automation Avanzado",
@@ -53,39 +64,6 @@
       "start": "14/09/2026",
       "end": "",
       "cid": "103365",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "8f89edf9-1c80-496d-88e8-0a1c5f4d2918",
-      "title": "HTML5 (diplomatura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "14/09/2026",
-      "end": "07/10/2026",
-      "cid": "102955",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "bc7bc9d8-f2f9-41e7-b787-ec124709f403",
-      "title": "HTML5 (diplomatura)",
-      "schedule": "Lun y Mié — 07:30 ART",
-      "start": "14/09/2026",
-      "end": "07/10/2026",
-      "cid": "102895",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "3ec4a78a-7d46-4b60-aa73-8c09c198c213",
-      "title": "UX Research y Diseño Centrado en el Humano (diplomatura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "14/09/2026",
-      "end": "28/10/2026",
-      "cid": "102835",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2451,6 +2429,17 @@
       "start": "30/10/2026",
       "end": "18/12/2026",
       "cid": "105700",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "438acba0-916a-4e91-bd87-5958c77695a0",
+      "title": "Career Hacking: Marca Personal y Negociación en el Mercado Global. (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "30/10/2026",
+      "end": "18/12/2026",
+      "cid": "102520",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
