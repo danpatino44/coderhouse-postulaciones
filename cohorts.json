@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-01T15:52:06+00:00",
-  "total": 223,
+  "generated_at": "2026-09-02T15:44:38+00:00",
+  "total": 214,
   "cohorts": [
-    {
-      "id": "6b6d9311-ff20-4f07-9008-83d6053e32fd",
-      "title": "Adidas 2 | Power Platform Inicial",
-      "schedule": "Mié y Jue — 14:00 ART",
-      "start": "03/09/2026",
-      "end": "09/09/2026",
-      "cid": "105740",
-      "modality": "ON_SITE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "3312fd80-f438-4a50-b9b0-d100ebaa2b50",
       "title": "AI Automation Avanzado",
@@ -64,28 +53,6 @@
       "start": "14/09/2026",
       "end": "",
       "cid": "103365",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "02be0237-91df-422b-b116-4c19b421f752",
-      "title": "Fundamentos de Marketing Digital y Estrategia de Canales (diplomatura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "14/09/2026",
-      "end": "28/10/2026",
-      "cid": "102745",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "35cbf05c-bcc7-4786-99c1-1013a7e6b6cf",
-      "title": "Fundamentos de Marketing Digital y Estrategia de Canales (diplomatura)",
-      "schedule": "Lun y Mié — 07:30 ART",
-      "start": "14/09/2026",
-      "end": "28/10/2026",
-      "cid": "102700",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -696,17 +663,6 @@
       "active": true
     },
     {
-      "id": "8b9adecf-1474-4a06-b4c1-0ac0c4b76682",
-      "title": "React JS",
-      "schedule": "Jue — 19:00 ART",
-      "start": "24/09/2026",
-      "end": "20/11/2026",
-      "cid": "93500",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "1ff27d03-babd-45a2-82a9-4ccea9c6131f",
       "title": "Excel",
       "schedule": "Jue — 19:00 ART",
@@ -746,28 +702,6 @@
       "start": "26/09/2026",
       "end": "30/01/2027",
       "cid": "94895",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "535ddb53-d879-4883-9f39-93e0b06663df",
-      "title": "Product Manager",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "26/09/2026",
-      "end": "14/11/2026",
-      "cid": "94760",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "b80dfac1-b08d-400f-b190-cbc8f06d4c96",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "26/09/2026",
-      "end": "05/12/2026",
-      "cid": "94670",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -867,28 +801,6 @@
       "start": "29/09/2026",
       "end": "06/01/2027",
       "cid": "91555",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "fd5d5163-ca1e-4bba-8296-12c88846f550",
-      "title": "React (diplomatura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "30/09/2026",
-      "end": "30/11/2026",
-      "cid": "102330",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9d22741f-f689-420b-be7f-b59e57db065a",
-      "title": "React (diplomatura)",
-      "schedule": "Lun y Mié — 07:30 ART",
-      "start": "30/09/2026",
-      "end": "30/11/2026",
-      "cid": "102270",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1670,17 +1582,6 @@
       "start": "15/10/2026",
       "end": "19/11/2026",
       "cid": "53",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "3da59c97-4f6a-4c97-9113-30ff7e190dba",
-      "title": "Desarrollo Web",
-      "schedule": "Jue — 10:00 ART",
-      "start": "15/10/2026",
-      "end": "17/12/2026",
-      "cid": "95055",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
