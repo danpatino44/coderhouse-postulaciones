@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-02T15:44:38+00:00",
-  "total": 214,
+  "generated_at": "2026-09-03T15:34:33+00:00",
+  "total": 208,
   "cohorts": [
-    {
-      "id": "3312fd80-f438-4a50-b9b0-d100ebaa2b50",
-      "title": "AI Automation Avanzado",
-      "schedule": "Jue y Mar — 19:00 ART",
-      "start": "10/09/2026",
-      "end": "14/10/2026",
-      "cid": "103065",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "4be016d7-d811-46d6-b75c-e62b6fd8c8ff",
       "title": "Ciberseguridad (diplomatura)",
@@ -53,17 +42,6 @@
       "start": "14/09/2026",
       "end": "",
       "cid": "103365",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "cd53bebf-9c3a-48d0-a9ff-87c0b2869ac3",
-      "title": "Programación Backend (III): Testing y Escalabilidad",
-      "schedule": "Lun — 20:30 ART",
-      "start": "14/09/2026",
-      "end": "10/11/2026",
-      "cid": "101970",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -531,28 +509,6 @@
       "active": true
     },
     {
-      "id": "ba996829-7d48-48c6-b4c7-233408e27edf",
-      "title": "Diseño UX/UI",
-      "schedule": "Lun — 20:30 ART",
-      "start": "21/09/2026",
-      "end": "22/12/2026",
-      "cid": "91550",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "772ec24b-7a4e-419b-b3b0-5168f90d053a",
-      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
-      "schedule": "Mar — 19:00 ART",
-      "start": "22/09/2026",
-      "end": "25/11/2026",
-      "cid": "95230",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "45b13704-72e1-4a6f-93ec-1a6bd83aef59",
       "title": "Testing QA Manual",
       "schedule": "Mar — 19:00 ART",
@@ -718,17 +674,6 @@
       "active": true
     },
     {
-      "id": "2d597c91-bf07-44c1-9b05-491a7e1816a6",
-      "title": "Programación Backend (III): Testing y Escalabilidad",
-      "schedule": "Sáb — 11:30 ART",
-      "start": "26/09/2026",
-      "end": "14/11/2026",
-      "cid": "90360",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "27d8834e-b441-46e0-ab58-2939373b1596",
       "title": "AI Automation Avanzado",
       "schedule": "Lun y Mié — 20:30 ART",
@@ -795,17 +740,6 @@
       "active": true
     },
     {
-      "id": "de26d672-d66d-4233-8d6e-3a90d629486b",
-      "title": "Diseño UX/UI",
-      "schedule": "Mar — 19:00 ART",
-      "start": "29/09/2026",
-      "end": "06/01/2027",
-      "cid": "91555",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "f9500060-3e7c-49e2-b544-e16b63b905dd",
       "title": "UX Research",
       "schedule": "Mié — 20:30 ART",
@@ -867,17 +801,6 @@
       "start": "30/09/2026",
       "end": "03/12/2026",
       "cid": "91360",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "f4d77ea0-84a4-4d88-b47c-1d7bb7f7ee36",
-      "title": "Programación Backend (III): Testing y Escalabilidad",
-      "schedule": "Mié — 10:00 ART",
-      "start": "30/09/2026",
-      "end": "18/11/2026",
-      "cid": "90350",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2352,6 +2275,17 @@
       "start": "30/10/2026",
       "end": "18/12/2026",
       "cid": "102490",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7064bc74-3790-4178-b2f9-7880dc4c6d25",
+      "title": "Desarrollo Web",
+      "schedule": "Lun — 10:00 ART",
+      "start": "02/11/2026",
+      "end": "18/01/2027",
+      "cid": "95060",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
