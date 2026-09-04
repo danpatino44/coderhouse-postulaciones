@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T15:34:33+00:00",
-  "total": 208,
+  "generated_at": "2026-09-04T15:32:41+00:00",
+  "total": 200,
   "cohorts": [
     {
       "id": "4be016d7-d811-46d6-b75c-e62b6fd8c8ff",
@@ -9,17 +9,6 @@
       "start": "14/09/2026",
       "end": "02/11/2026",
       "cid": "105725",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "599cd366-928f-43a9-b435-13b76b270fa1",
-      "title": "Ciberseguridad (diplomatura)",
-      "schedule": "Lun y Mié — 21:00 ART",
-      "start": "14/09/2026",
-      "end": "02/11/2026",
-      "cid": "105720",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -113,17 +102,6 @@
       "active": true
     },
     {
-      "id": "c62acd6b-6b4e-4866-ac1c-711ba73a710b",
-      "title": "Ai Builders Program",
-      "schedule": "Mar y Jue — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "05/11/2026",
-      "cid": "105630",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "96fd628f-d94f-4a15-aa01-9ef3917b7703",
       "title": "CSS (diplomatura)",
       "schedule": "Mar y Jue — 18:30 ART",
@@ -135,56 +113,12 @@
       "active": true
     },
     {
-      "id": "fac40ecb-0e4e-4894-965d-df36c572f356",
-      "title": "CSS (diplomatura)",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "15/09/2026",
-      "end": "29/10/2026",
-      "cid": "102900",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9cc90ab0-2a88-411c-bc38-9b59530b26ad",
-      "title": "Fundamentos Visuales y Maestría en Figma (diplomatura)",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "15/09/2026",
-      "end": "29/10/2026",
-      "cid": "102840",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9ac3fbb1-2551-4425-8666-3b5cd73d3d1c",
-      "title": "Fundamentos Visuales y Maestría en Figma (diplomatura)",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "15/09/2026",
-      "end": "29/10/2026",
-      "cid": "102795",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "3298e665-28a0-4c18-9508-0ca0e080c71a",
       "title": "Social Media, Contenido Digital e Introducción a la IA (diplomatura)",
       "schedule": "Mar y Jue — 18:30 ART",
       "start": "15/09/2026",
       "end": "29/10/2026",
       "cid": "102750",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "160468cd-a891-4ed8-9f77-881680ab4644",
-      "title": "Social Media, Contenido Digital e Introducción a la IA (diplomatura)",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "15/09/2026",
-      "end": "29/10/2026",
-      "cid": "102705",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -256,45 +190,12 @@
       "active": true
     },
     {
-      "id": "1d99a0a4-a9f9-4a14-b2ef-b1ac1decb0df",
-      "title": "Vibe Coding: creá tu app con IA",
-      "schedule": "Mié — 20:30 ART",
-      "start": "16/09/2026",
-      "end": "22/10/2026",
-      "cid": "97630",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "7d427c2e-6b3c-4d33-9361-eadb856c6393",
       "title": "SEO Para AI",
       "schedule": "Mié — 20:30 ART",
       "start": "16/09/2026",
       "end": "15/10/2026",
       "cid": "93600",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "dc547f1a-08f3-4ac8-8b5c-fa6d3f26e9ea",
-      "title": "Power BI",
-      "schedule": "Mié — 20:30 ART",
-      "start": "16/09/2026",
-      "end": "15/10/2026",
-      "cid": "93095",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "765d455e-e14e-4e07-9a99-d3da742d402a",
-      "title": "Fotografía para RRSS",
-      "schedule": "Mié — 20:30 ART",
-      "start": "16/09/2026",
-      "end": "22/10/2026",
-      "cid": "92015",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -311,34 +212,12 @@
       "active": true
     },
     {
-      "id": "4cee86ee-9a68-46df-99cf-83c91e14ddad",
-      "title": "Data Engineering",
-      "schedule": "Mié — 20:30 ART",
-      "start": "17/09/2026",
-      "end": "28/10/2026",
-      "cid": "103115",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "314d4734-de1e-4dca-a539-c3ce88fa80be",
       "title": "Desarrollo de Aplicaciones",
       "schedule": "Jue — 19:00 ART",
       "start": "17/09/2026",
       "end": "27/11/2026",
       "cid": "91235",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "8eb158c4-9aff-497d-b8e0-1421d1cf5e2d",
-      "title": "Data Analytics",
-      "schedule": "Jue — 19:00 ART",
-      "start": "17/09/2026",
-      "end": "20/11/2026",
-      "cid": "91065",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -394,17 +273,6 @@
       "start": "18/09/2026",
       "end": "25/09/2026",
       "cid": "102905",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "b17d9ceb-3284-4c35-846a-48d38e75aec5",
-      "title": "Mentalidad Profesional y Autogestión (diplomatura)",
-      "schedule": "Vie — 18:30 ART",
-      "start": "18/09/2026",
-      "end": "02/10/2026",
-      "cid": "102845",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2286,6 +2154,50 @@
       "start": "02/11/2026",
       "end": "18/01/2027",
       "cid": "95060",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4916be8c-6db6-428b-a48b-6b1f59e1fae6",
+      "title": "React JS",
+      "schedule": "Lun — 20:30 ART",
+      "start": "02/11/2026",
+      "end": "05/01/2027",
+      "cid": "93525",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8dd1266e-7911-40eb-97f1-982e2c186e43",
+      "title": "Excel",
+      "schedule": "Lun — 20:30 ART",
+      "start": "02/11/2026",
+      "end": "19/01/2027",
+      "cid": "91940",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0525566f-478b-46db-8625-d5ce52343161",
+      "title": "E-commerce",
+      "schedule": "Lun — 20:30 ART",
+      "start": "02/11/2026",
+      "end": "12/01/2027",
+      "cid": "91790",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f4dc454f-e898-47d1-a2eb-3d73e6ad9875",
+      "title": "Desarrollo Web",
+      "schedule": "Lun — 20:30 ART",
+      "start": "02/11/2026",
+      "end": "12/01/2027",
+      "cid": "91385",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
