@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T14:20:33+00:00",
-  "total": 192,
+  "generated_at": "2026-09-06T14:43:30+00:00",
+  "total": 198,
   "cohorts": [
     {
       "id": "38efba1e-e5dc-419d-879f-729454fd8611",
@@ -2110,6 +2110,72 @@
       "start": "03/11/2026",
       "end": "06/01/2027",
       "cid": "93230",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "695dedef-955b-4fed-b870-dd64075812c2",
+      "title": "DevOps & Cloud",
+      "schedule": "Mié — 20:30 ART",
+      "start": "04/11/2026",
+      "end": "18/11/2026",
+      "cid": "102100",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6bbf6949-ac4c-486d-be47-226d0f2b09e6",
+      "title": "Tableau",
+      "schedule": "Mié — 20:30 ART",
+      "start": "04/11/2026",
+      "end": "10/12/2026",
+      "cid": "93960",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3605d4d7-b5b2-43c6-ae7d-f547c29840fe",
+      "title": "Growth Marketing",
+      "schedule": "Mié — 20:30 ART",
+      "start": "04/11/2026",
+      "end": "21/01/2027",
+      "cid": "92290",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4f3bd7b9-ebec-4da4-8481-8e7c555699fc",
+      "title": "Fotografía para RRSS",
+      "schedule": "Mié — 20:30 ART",
+      "start": "04/11/2026",
+      "end": "10/12/2026",
+      "cid": "92020",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "654b30c4-4ab3-4457-8748-7379a1104a72",
+      "title": "Diseño UX/UI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "04/11/2026",
+      "end": "11/02/2027",
+      "cid": "91580",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c03bda9a-a8b2-4ade-9708-0a6992b35675",
+      "title": "Data Analytics",
+      "schedule": "Mié — 20:30 ART",
+      "start": "04/11/2026",
+      "end": "21/01/2027",
+      "cid": "91095",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
