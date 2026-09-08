@@ -1,26 +1,15 @@
 {
-  "generated_at": "2026-09-07T16:58:39+00:00",
+  "generated_at": "2026-09-08T15:46:24+00:00",
   "total": 197,
   "cohorts": [
     {
-      "id": "00afc115-799a-4da9-adab-402dcc7766fe",
-      "title": "Cloud Computing (AWS)",
-      "schedule": "Mar — 19:00 ART",
-      "start": "15/09/2026",
-      "end": "28/10/2026",
-      "cid": "90905",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "33707fba-b79a-4491-9e2f-da193e3da4a7",
-      "title": "SEO Para AI",
-      "schedule": "Mié — 20:30 ART",
-      "start": "16/09/2026",
-      "end": "15/10/2026",
-      "cid": "103085",
-      "modality": "ONLINE",
+      "id": "985525f8-af7b-4e1b-be6b-bbc85c2d8c48",
+      "title": "Adidas 1 | Microsoft 365 Copilot",
+      "schedule": "Mié — 14:00 ART",
+      "start": "09/09/2026",
+      "end": "",
+      "cid": "105750",
+      "modality": "ON_SITE",
       "country": "AR",
       "active": true
     },
@@ -36,12 +25,12 @@
       "active": true
     },
     {
-      "id": "87758445-24e8-46fc-88cd-5335654b9bf1",
-      "title": "Copywriting",
-      "schedule": "Mié — 20:30 ART",
-      "start": "16/09/2026",
-      "end": "26/11/2026",
-      "cid": "91150",
+      "id": "74186dfc-3e39-4ba0-b8fd-1a9b85265b52",
+      "title": "Python",
+      "schedule": "Jue — 19:00 ART",
+      "start": "17/09/2026",
+      "end": "11/12/2026",
+      "cid": "93350",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -64,28 +53,6 @@
       "start": "17/09/2026",
       "end": "16/10/2026",
       "cid": "90925",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "378edf15-3098-4846-b7a4-0c956760d9d0",
-      "title": "Empleabilidad",
-      "schedule": "Vie — 21:00 ART",
-      "start": "19/09/2026",
-      "end": "30/10/2026",
-      "cid": "105675",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "cba1463a-ac03-4c6a-b7e9-443347f31749",
-      "title": "Empleabilidad",
-      "schedule": "Vie — 21:00 ART",
-      "start": "19/09/2026",
-      "end": "30/10/2026",
-      "cid": "105670",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2159,12 +2126,45 @@
       "active": true
     },
     {
+      "id": "0ca3b2b9-8eaf-4137-ac28-3a3bb15e65bc",
+      "title": "Trabajo en Equipo (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "06/11/2026",
+      "end": "20/11/2026",
+      "cid": "103000",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "c460638b-bf80-48ac-a5ed-cd91a539fb5b",
       "title": "Trabajo en Equipo (diplomatura)",
       "schedule": "Vie — 07:30 ART",
       "start": "06/11/2026",
       "end": "20/11/2026",
       "cid": "102945",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3ff6275c-861b-435d-b49a-88ad604d8f5a",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "07/11/2026",
+      "end": "30/01/2027",
+      "cid": "94890",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1c8cebee-4cc7-45d3-adfd-87a02f02e61a",
+      "title": "Community Manager",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "07/11/2026",
+      "end": "30/01/2027",
+      "cid": "94715",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
