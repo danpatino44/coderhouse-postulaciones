@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-09-08T15:46:24+00:00",
-  "total": 197,
+  "generated_at": "2026-09-09T15:42:07+00:00",
+  "total": 189,
   "cohorts": [
-    {
-      "id": "985525f8-af7b-4e1b-be6b-bbc85c2d8c48",
-      "title": "Adidas 1 | Microsoft 365 Copilot",
-      "schedule": "Mié — 14:00 ART",
-      "start": "09/09/2026",
-      "end": "",
-      "cid": "105750",
-      "modality": "ON_SITE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "7d427c2e-6b3c-4d33-9361-eadb856c6393",
-      "title": "SEO Para AI",
-      "schedule": "Mié — 20:30 ART",
-      "start": "16/09/2026",
-      "end": "15/10/2026",
-      "cid": "93600",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "74186dfc-3e39-4ba0-b8fd-1a9b85265b52",
       "title": "Python",
@@ -42,17 +20,6 @@
       "start": "17/09/2026",
       "end": "27/11/2026",
       "cid": "91235",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6c2bf976-a9c1-4808-a99b-01a2d2d15142",
-      "title": "Contabilidad",
-      "schedule": "Jue — 19:00 ART",
-      "start": "17/09/2026",
-      "end": "16/10/2026",
-      "cid": "90925",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -157,17 +124,6 @@
       "active": true
     },
     {
-      "id": "a8a68ea2-2a44-4cbb-932b-ba0d157e0d6b",
-      "title": "AI Automation",
-      "schedule": "Jue y Mar — 20:30 ART",
-      "start": "24/09/2026",
-      "end": "11/11/2026",
-      "cid": "97425",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "f64df36e-07e7-415f-b161-7faf363c2a32",
       "title": "React JS",
       "schedule": "Jue — 10:00 ART",
@@ -207,17 +163,6 @@
       "start": "24/09/2026",
       "end": "27/11/2026",
       "cid": "91780",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "428e2efb-788b-4f20-ad72-f0461886d56a",
-      "title": "Desarrollo Web",
-      "schedule": "Jue — 19:00 ART",
-      "start": "24/09/2026",
-      "end": "20/11/2026",
-      "cid": "91355",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -322,17 +267,6 @@
       "active": true
     },
     {
-      "id": "a4bc4b45-71ab-45de-a154-d87a157a52d3",
-      "title": "React JS",
-      "schedule": "Mié — 20:30 ART",
-      "start": "30/09/2026",
-      "end": "19/11/2026",
-      "cid": "93495",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "ee584df8-6748-402a-81fd-5244dc781f31",
       "title": "Paid media: Meta & Google Ads",
       "schedule": "Mié — 20:30 ART",
@@ -361,17 +295,6 @@
       "start": "30/09/2026",
       "end": "12/11/2026",
       "cid": "91910",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "3373142a-544c-4891-b850-7e47067442bd",
-      "title": "Desarrollo Web",
-      "schedule": "Mié — 20:30 ART",
-      "start": "30/09/2026",
-      "end": "03/12/2026",
-      "cid": "91360",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -416,17 +339,6 @@
       "start": "01/10/2026",
       "end": "30/10/2026",
       "cid": "90750",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1259aa43-6af8-42d3-96ad-710cd0a621a3",
-      "title": "UX Writing",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "03/10/2026",
-      "end": "07/11/2026",
-      "cid": "94855",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
