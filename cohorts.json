@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-09-09T15:42:07+00:00",
-  "total": 189,
+  "generated_at": "2026-09-10T15:36:57+00:00",
+  "total": 185,
   "cohorts": [
-    {
-      "id": "74186dfc-3e39-4ba0-b8fd-1a9b85265b52",
-      "title": "Python",
-      "schedule": "Jue — 19:00 ART",
-      "start": "17/09/2026",
-      "end": "11/12/2026",
-      "cid": "93350",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "314d4734-de1e-4dca-a539-c3ce88fa80be",
-      "title": "Desarrollo de Aplicaciones",
-      "schedule": "Jue — 19:00 ART",
-      "start": "17/09/2026",
-      "end": "27/11/2026",
-      "cid": "91235",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "3e7f3df7-d384-455e-a3bc-3d9c294a4d73",
       "title": "Data Science I: Fundamentos para la Ciencia de Datos",
@@ -31,17 +9,6 @@
       "start": "21/09/2026",
       "end": "01/12/2026",
       "cid": "95360",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "3eaae169-0ef2-4a26-a9b8-41f01fcd3581",
-      "title": "Growth Marketing",
-      "schedule": "Lun — 10:00 ART",
-      "start": "21/09/2026",
-      "end": "30/11/2026",
-      "cid": "94960",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -185,17 +152,6 @@
       "start": "26/09/2026",
       "end": "09/01/2027",
       "cid": "94655",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "27d8834e-b441-46e0-ab58-2939373b1596",
-      "title": "AI Automation Avanzado",
-      "schedule": "Lun y Mié — 20:30 ART",
-      "start": "28/09/2026",
-      "end": "03/11/2026",
-      "cid": "97315",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
