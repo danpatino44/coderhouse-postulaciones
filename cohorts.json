@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:36:57+00:00",
-  "total": 185,
+  "generated_at": "2026-09-11T15:38:48+00:00",
+  "total": 199,
   "cohorts": [
     {
       "id": "3e7f3df7-d384-455e-a3bc-3d9c294a4d73",
@@ -2033,6 +2033,160 @@
       "start": "07/11/2026",
       "end": "30/01/2027",
       "cid": "94715",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "511f0823-682f-4a12-a9c8-90fb5bff54a1",
+      "title": "Curso de AI Agents",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "11/01/2027",
+      "cid": "54",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "89ff0999-b9c2-4a86-ac68-4283740d94a4",
+      "title": "Data Science II: Machine Learning para la Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "09/03/2027",
+      "cid": "95420",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8979df4a-794b-4904-b8ce-101e8fd80f61",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "26/01/2027",
+      "cid": "95380",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9a54b9f8-96e8-455d-8f70-c574486d38c9",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "02/02/2027",
+      "cid": "95245",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "cb8de1d1-78b6-43a0-a40a-5e1f5e70f700",
+      "title": "Photoshop e Illustrator",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "22/12/2026",
+      "cid": "94135",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9ab83fd8-7342-4c27-9717-f718123427d4",
+      "title": "UX Research",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "12/01/2027",
+      "cid": "94045",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5da39112-3b99-4711-a049-94cabb359765",
+      "title": "Power BI",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "08/12/2026",
+      "cid": "93115",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "2f000dc7-73d4-4a0d-8705-5662100e1c2b",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "12/01/2027",
+      "cid": "92960",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7cb5f308-c2b4-45e5-b80a-5e95573c3c44",
+      "title": "Community Manager",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "19/01/2027",
+      "cid": "92780",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "87eb706c-e6b9-4997-a63f-9026a594fbc1",
+      "title": "Customer Experience (CX)",
+      "schedule": "Lun — 20:30 ART",
+      "start": "09/11/2026",
+      "end": "12/01/2027",
+      "cid": "91205",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "dbfbc0ff-0bb4-4453-b657-2b48b79412d2",
+      "title": "TypeScript (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "10/11/2026",
+      "end": "07/01/2027",
+      "cid": "102915",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a8be02aa-00f5-46d1-b736-872fac923afa",
+      "title": "Sistemas de Diseño y Documentación Pro (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "10/11/2026",
+      "end": "07/01/2027",
+      "cid": "102810",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9aa497e4-a5c5-41b0-8001-1d6fdca43e33",
+      "title": "E-commerce, CRM y Automatización (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "10/11/2026",
+      "end": "07/01/2027",
+      "cid": "102720",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "51898af8-b530-4c82-8f94-2e6bcbb63444",
+      "title": "Ai automation para data Scientist (diplomatura)",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "10/11/2026",
+      "end": "02/02/2027",
+      "cid": "102395",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
