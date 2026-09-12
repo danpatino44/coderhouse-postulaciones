@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:38:48+00:00",
-  "total": 199,
+  "generated_at": "2026-09-12T14:45:23+00:00",
+  "total": 213,
   "cohorts": [
     {
       "id": "3e7f3df7-d384-455e-a3bc-3d9c294a4d73",
@@ -742,7 +742,7 @@
     {
       "id": "7db6535c-9406-4bee-88b7-bebe1d18019b",
       "title": "Oratoria",
-      "schedule": "Vie — 21:00 ART",
+      "schedule": "Vie — 18:30 ART",
       "start": "10/10/2026",
       "end": "23/10/2026",
       "cid": "105685",
@@ -753,7 +753,7 @@
     {
       "id": "ea7683c0-3cbc-448c-8cbd-af1195036bdd",
       "title": "Oratoria",
-      "schedule": "Vie — 21:00 ART",
+      "schedule": "Vie — 07:30 ART",
       "start": "10/10/2026",
       "end": "23/10/2026",
       "cid": "105680",
@@ -885,7 +885,7 @@
     {
       "id": "df661a8f-990b-441e-bd72-85550f9df6fe",
       "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
-      "schedule": "Mar y Jue — 21:00 ART",
+      "schedule": "Mar y Jue — 18:30 ART",
       "start": "14/10/2026",
       "end": "22/10/2026",
       "cid": "105695",
@@ -896,7 +896,7 @@
     {
       "id": "685f5f29-cd01-4a74-981a-6659862ec623",
       "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
-      "schedule": "Mar y Jue — 21:00 ART",
+      "schedule": "Mar y Jue — 07:30 ART",
       "start": "14/10/2026",
       "end": "22/10/2026",
       "cid": "105690",
@@ -1721,7 +1721,7 @@
     {
       "id": "29429021-f65e-4d91-8c19-561eb843fd2c",
       "title": "Empleabilidad",
-      "schedule": "Vie — 21:00 ART",
+      "schedule": "Vie — 18:30 ART",
       "start": "31/10/2026",
       "end": "18/12/2026",
       "cid": "105705",
@@ -1732,7 +1732,7 @@
     {
       "id": "e88a0bfb-3001-4619-ad6b-eb08f59f7537",
       "title": "Empleabilidad",
-      "schedule": "Vie — 21:00 ART",
+      "schedule": "Vie — 07:30 ART",
       "start": "31/10/2026",
       "end": "18/12/2026",
       "cid": "105700",
@@ -2148,12 +2148,45 @@
       "active": true
     },
     {
+      "id": "f98b53d9-9e43-4add-951a-6ee206a3ccdc",
+      "title": "TypeScript (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "10/11/2026",
+      "end": "07/01/2027",
+      "cid": "103005",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0c3c6e0b-650a-4abb-9cd1-2229d70a916b",
+      "title": "JavaScript (diplomatura2026)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "10/11/2026",
+      "end": "18/02/2027",
+      "cid": "102970",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "dbfbc0ff-0bb4-4453-b657-2b48b79412d2",
       "title": "TypeScript (diplomatura)",
       "schedule": "Mar y Jue — 07:30 ART",
       "start": "10/11/2026",
       "end": "07/01/2027",
       "cid": "102915",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "76721cef-fa2c-4cb1-a4bc-86573d716eaa",
+      "title": "Sistemas de Diseño y Documentación Pro (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "10/11/2026",
+      "end": "07/01/2027",
+      "cid": "102855",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2170,6 +2203,17 @@
       "active": true
     },
     {
+      "id": "8c531d5d-e4e1-4323-98d8-0693d63247b7",
+      "title": "E-commerce, CRM y Automatización (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "10/11/2026",
+      "end": "07/01/2027",
+      "cid": "102765",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "9aa497e4-a5c5-41b0-8001-1d6fdca43e33",
       "title": "E-commerce, CRM y Automatización (diplomatura)",
       "schedule": "Mar y Jue — 07:30 ART",
@@ -2181,12 +2225,122 @@
       "active": true
     },
     {
+      "id": "d5e7fe1f-fe51-4bc5-a4f4-efd7fb0d689d",
+      "title": "Ai automation para data Scientist (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "10/11/2026",
+      "end": "02/02/2027",
+      "cid": "102440",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "51898af8-b530-4c82-8f94-2e6bcbb63444",
       "title": "Ai automation para data Scientist (diplomatura)",
       "schedule": "Mar y Jue — 07:30 ART",
       "start": "10/11/2026",
       "end": "02/02/2027",
       "cid": "102395",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "76e030fc-6cba-4574-a216-92b89ba043cf",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
+      "schedule": "Mar — 19:00 ART",
+      "start": "10/11/2026",
+      "end": "10/02/2027",
+      "cid": "95250",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7d329645-e9f3-4ae1-9ce3-4eca7066e339",
+      "title": "Wordpress",
+      "schedule": "Mar — 19:00 ART",
+      "start": "10/11/2026",
+      "end": "16/12/2026",
+      "cid": "93880",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6b181207-5b7e-400b-91a1-6a6415e890e2",
+      "title": "React JS",
+      "schedule": "Mar — 19:00 ART",
+      "start": "10/11/2026",
+      "end": "20/01/2027",
+      "cid": "93530",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a45dbc41-f401-47f1-8c41-648cb2a5b854",
+      "title": "Oratoria",
+      "schedule": "Mar — 19:00 ART",
+      "start": "10/11/2026",
+      "end": "25/11/2026",
+      "cid": "93030",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "de91bf45-5f53-440d-bf1c-0686a323b41e",
+      "title": "Google Ads, Analytics & Looker Studio",
+      "schedule": "Mar — 19:00 ART",
+      "start": "10/11/2026",
+      "end": "13/01/2027",
+      "cid": "92145",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "78586583-21b0-49d2-b89f-7a85d195040b",
+      "title": "Excel",
+      "schedule": "Mar — 19:00 ART",
+      "start": "10/11/2026",
+      "end": "27/01/2027",
+      "cid": "91945",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "023749c8-0c3d-4b6f-88dd-65c8457f1b15",
+      "title": "Desarrollo Web",
+      "schedule": "Mar — 19:00 ART",
+      "start": "10/11/2026",
+      "end": "27/01/2027",
+      "cid": "91390",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1db2ee67-d5d2-430c-8c65-8a8e70b11110",
+      "title": "Data Analytics",
+      "schedule": "Mar — 19:00 ART",
+      "start": "10/11/2026",
+      "end": "27/01/2027",
+      "cid": "91100",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "20604ae9-399f-4946-8680-f3e54b11e79e",
+      "title": "JavaScript",
+      "schedule": "Mié — 10:00 ART",
+      "start": "11/11/2026",
+      "end": "03/02/2027",
+      "cid": "95085",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
