@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T14:45:23+00:00",
-  "total": 213,
+  "generated_at": "2026-09-13T15:24:34+00:00",
+  "total": 218,
   "cohorts": [
     {
       "id": "3e7f3df7-d384-455e-a3bc-3d9c294a4d73",
@@ -185,6 +185,17 @@
       "start": "29/09/2026",
       "end": "02/12/2026",
       "cid": "95365",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7362dd5c-0f71-41ff-b3e0-954202f2596b",
+      "title": "Wordpress",
+      "schedule": "Mar — 19:00 ART",
+      "start": "29/09/2026",
+      "end": "14/10/2026",
+      "cid": "93875",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2335,12 +2346,56 @@
       "active": true
     },
     {
+      "id": "3661f38a-cc95-4378-acd9-61ab4b0e158b",
+      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos",
+      "schedule": "Mié — 20:30 ART",
+      "start": "11/11/2026",
+      "end": "",
+      "cid": "105655",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "45502cd4-e39f-47f6-a7e2-6de84214a874",
+      "title": "AI Automation",
+      "schedule": "Mié y Lun — 19:00 ART",
+      "start": "11/11/2026",
+      "end": "19/01/2027",
+      "cid": "97440",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "20604ae9-399f-4946-8680-f3e54b11e79e",
       "title": "JavaScript",
       "schedule": "Mié — 10:00 ART",
       "start": "11/11/2026",
       "end": "03/02/2027",
       "cid": "95085",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c66715e7-3d46-4ece-a8f8-c91487b891ab",
+      "title": "Introducción a la Inteligencia Artificial",
+      "schedule": "Mié — 20:30 ART",
+      "start": "11/11/2026",
+      "end": "17/12/2026",
+      "cid": "92060",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bbb538e9-fb3f-4f42-b50d-8536490ac895",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Jue — 10:00 ART",
+      "start": "12/11/2026",
+      "end": "21/01/2027",
+      "cid": "95125",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
