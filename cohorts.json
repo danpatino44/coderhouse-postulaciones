@@ -1,62 +1,7 @@
 {
-  "generated_at": "2026-09-13T15:24:34+00:00",
-  "total": 218,
+  "generated_at": "2026-09-14T17:21:22+00:00",
+  "total": 223,
   "cohorts": [
-    {
-      "id": "3e7f3df7-d384-455e-a3bc-3d9c294a4d73",
-      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "21/09/2026",
-      "end": "01/12/2026",
-      "cid": "95360",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "45b13704-72e1-4a6f-93ec-1a6bd83aef59",
-      "title": "Testing QA Manual",
-      "schedule": "Mar — 19:00 ART",
-      "start": "22/09/2026",
-      "end": "04/11/2026",
-      "cid": "93695",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "a0a7e779-23e8-4e06-84e4-db966b6ee5c0",
-      "title": "Product Manager",
-      "schedule": "Mar — 19:00 ART",
-      "start": "22/09/2026",
-      "end": "11/11/2026",
-      "cid": "93190",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ce10ea92-c4d9-4975-a78f-7fd64ca718fb",
-      "title": "Canva",
-      "schedule": "Mar — 19:00 ART",
-      "start": "22/09/2026",
-      "end": "21/10/2026",
-      "cid": "90835",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "c6dca75c-5bb5-48dc-a837-7da33834ea20",
-      "title": "UX Writing",
-      "schedule": "Mié — 20:30 ART",
-      "start": "23/09/2026",
-      "end": "12/11/2026",
-      "cid": "93830",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "167a737c-4351-4e63-b760-8b5e825358bc",
       "title": "Community Manager",
@@ -86,17 +31,6 @@
       "start": "24/09/2026",
       "end": "29/10/2026",
       "cid": "103255",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "f64df36e-07e7-415f-b161-7faf363c2a32",
-      "title": "React JS",
-      "schedule": "Jue — 10:00 ART",
-      "start": "24/09/2026",
-      "end": "19/11/2026",
-      "cid": "95100",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -141,17 +75,6 @@
       "start": "26/09/2026",
       "end": "30/01/2027",
       "cid": "94895",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6ce800d3-3aec-45fc-ae24-8f3a196cb175",
-      "title": "Diseño UX/UI",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "26/09/2026",
-      "end": "09/01/2027",
-      "cid": "94655",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -575,6 +498,17 @@
       "active": true
     },
     {
+      "id": "ce10ea92-c4d9-4975-a78f-7fd64ca718fb",
+      "title": "Canva",
+      "schedule": "Mar — 19:00 ART",
+      "start": "06/10/2026",
+      "end": "04/11/2026",
+      "cid": "90835",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "9263e902-17eb-4eb2-9d19-a9589b26d9b2",
       "title": "AI Automation",
       "schedule": "Mié y Lun — 19:00 ART",
@@ -707,6 +641,28 @@
       "active": true
     },
     {
+      "id": "7db6535c-9406-4bee-88b7-bebe1d18019b",
+      "title": "Oratoria",
+      "schedule": "Vie — 18:30 ART",
+      "start": "09/10/2026",
+      "end": "23/10/2026",
+      "cid": "105685",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ea7683c0-3cbc-448c-8cbd-af1195036bdd",
+      "title": "Oratoria",
+      "schedule": "Vie — 07:30 ART",
+      "start": "09/10/2026",
+      "end": "23/10/2026",
+      "cid": "105680",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "36c62cad-b6e8-4310-9162-2eb7b9169c2a",
       "title": "Comunicación Efectiva (diplomatura)",
       "schedule": "Vie — 18:30 ART",
@@ -751,23 +707,34 @@
       "active": true
     },
     {
-      "id": "7db6535c-9406-4bee-88b7-bebe1d18019b",
-      "title": "Oratoria",
-      "schedule": "Vie — 18:30 ART",
+      "id": "6ce800d3-3aec-45fc-ae24-8f3a196cb175",
+      "title": "Diseño UX/UI",
+      "schedule": "Sáb — 11:00 ART",
       "start": "10/10/2026",
-      "end": "23/10/2026",
-      "cid": "105685",
+      "end": "23/01/2027",
+      "cid": "94655",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
     },
     {
-      "id": "ea7683c0-3cbc-448c-8cbd-af1195036bdd",
-      "title": "Oratoria",
-      "schedule": "Vie — 07:30 ART",
-      "start": "10/10/2026",
-      "end": "23/10/2026",
-      "cid": "105680",
+      "id": "df661a8f-990b-441e-bd72-85550f9df6fe",
+      "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "13/10/2026",
+      "end": "22/10/2026",
+      "cid": "105695",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "685f5f29-cd01-4a74-981a-6659862ec623",
+      "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
+      "schedule": "Mar y Jue — 07:30 ART",
+      "start": "13/10/2026",
+      "end": "22/10/2026",
+      "cid": "105690",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -889,28 +856,6 @@
       "start": "13/10/2026",
       "end": "16/12/2026",
       "cid": "90885",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "df661a8f-990b-441e-bd72-85550f9df6fe",
-      "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "14/10/2026",
-      "end": "22/10/2026",
-      "cid": "105695",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "685f5f29-cd01-4a74-981a-6659862ec623",
-      "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "14/10/2026",
-      "end": "22/10/2026",
-      "cid": "105690",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1708,6 +1653,28 @@
       "active": true
     },
     {
+      "id": "29429021-f65e-4d91-8c19-561eb843fd2c",
+      "title": "Empleabilidad",
+      "schedule": "Vie — 18:30 ART",
+      "start": "30/10/2026",
+      "end": "18/12/2026",
+      "cid": "105705",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e88a0bfb-3001-4619-ad6b-eb08f59f7537",
+      "title": "Empleabilidad",
+      "schedule": "Vie — 07:30 ART",
+      "start": "30/10/2026",
+      "end": "18/12/2026",
+      "cid": "105700",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "438acba0-916a-4e91-bd87-5958c77695a0",
       "title": "Career Hacking: Marca Personal y Negociación en el Mercado Global. (diplomatura)",
       "schedule": "Vie — 18:30 ART",
@@ -1725,28 +1692,6 @@
       "start": "30/10/2026",
       "end": "18/12/2026",
       "cid": "102490",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "29429021-f65e-4d91-8c19-561eb843fd2c",
-      "title": "Empleabilidad",
-      "schedule": "Vie — 18:30 ART",
-      "start": "31/10/2026",
-      "end": "18/12/2026",
-      "cid": "105705",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e88a0bfb-3001-4619-ad6b-eb08f59f7537",
-      "title": "Empleabilidad",
-      "schedule": "Vie — 07:30 ART",
-      "start": "31/10/2026",
-      "end": "18/12/2026",
-      "cid": "105700",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2390,12 +2335,122 @@
       "active": true
     },
     {
+      "id": "9cc85765-5ed4-4c35-ab19-8c4a8914b7d3",
+      "title": "AI Automation Avanzado",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "12/11/2026",
+      "end": "18/12/2026",
+      "cid": "97500",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "bbb538e9-fb3f-4f42-b50d-8536490ac895",
       "title": "Paid media: Meta & Google Ads",
       "schedule": "Jue — 10:00 ART",
       "start": "12/11/2026",
       "end": "21/01/2027",
       "cid": "95125",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8c628182-8cee-4d10-aa4b-e7d02703edc5",
+      "title": "Técnicas de Negociación",
+      "schedule": "Jue — 19:00 ART",
+      "start": "12/11/2026",
+      "end": "04/12/2026",
+      "cid": "93665",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "90fcfc2b-7557-4819-a8ec-693e69797a90",
+      "title": "Product Manager",
+      "schedule": "Jue — 19:00 ART",
+      "start": "12/11/2026",
+      "end": "15/01/2027",
+      "cid": "93220",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1786ae88-0aba-4235-ba51-6f9e12747a43",
+      "title": "Growth Marketing",
+      "schedule": "Jue — 19:00 ART",
+      "start": "12/11/2026",
+      "end": "29/01/2027",
+      "cid": "92295",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9d79667c-a90f-4edb-8892-c2c340d2de36",
+      "title": "Diseño UX/UI",
+      "schedule": "Jue — 19:00 ART",
+      "start": "12/11/2026",
+      "end": "19/02/2027",
+      "cid": "91585",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ad698f8b-09d8-4225-aedc-b236d1a28470",
+      "title": "Desarrollo de Aplicaciones",
+      "schedule": "Jue — 19:00 ART",
+      "start": "12/11/2026",
+      "end": "22/01/2027",
+      "cid": "91240",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5a1dc082-2f4f-4b75-8c09-d909a3d0860f",
+      "title": "Copywriting",
+      "schedule": "Jue — 19:00 ART",
+      "start": "12/11/2026",
+      "end": "05/02/2027",
+      "cid": "91160",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "40e59cb1-3a3e-4e6c-bd45-18b736cada91",
+      "title": "Inserción Laboral y Marca Personal (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "13/11/2026",
+      "end": "27/11/2026",
+      "cid": "102830",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ff52ebf5-bde7-4238-9060-648981470c8b",
+      "title": "Carrera Tech e Inserción Laboral (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "13/11/2026",
+      "end": "27/11/2026",
+      "cid": "102740",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b7e2699d-6a48-4e49-a200-25135f24802e",
+      "title": "Acelerador de Carrera e Inserción Laboral (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "13/11/2026",
+      "end": "27/11/2026",
+      "cid": "102650",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
