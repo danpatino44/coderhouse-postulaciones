@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T17:21:22+00:00",
-  "total": 223,
+  "generated_at": "2026-09-15T15:59:59+00:00",
+  "total": 226,
   "cohorts": [
     {
       "id": "167a737c-4351-4e63-b760-8b5e825358bc",
@@ -9,17 +9,6 @@
       "start": "23/09/2026",
       "end": "26/11/2026",
       "cid": "92750",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "434c614b-dd95-4cc5-839e-5580ee7bab18",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Mié — 20:30 ART",
-      "start": "23/09/2026",
-      "end": "03/12/2026",
-      "cid": "91700",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -163,17 +152,6 @@
       "start": "30/09/2026",
       "end": "26/11/2026",
       "cid": "92930",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "7954423a-3608-4df6-9601-e803fab1b786",
-      "title": "Liderazgo y gestión de equipos",
-      "schedule": "Mié — 20:30 ART",
-      "start": "30/09/2026",
-      "end": "05/11/2026",
-      "cid": "92580",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2423,12 +2401,34 @@
       "active": true
     },
     {
+      "id": "a8a60b29-1003-4c59-ab4b-6fc1a2d9d1f0",
+      "title": "Inserción Laboral y Marca Personal (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "13/11/2026",
+      "end": "27/11/2026",
+      "cid": "102870",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "40e59cb1-3a3e-4e6c-bd45-18b736cada91",
       "title": "Inserción Laboral y Marca Personal (diplomatura)",
       "schedule": "Vie — 07:30 ART",
       "start": "13/11/2026",
       "end": "27/11/2026",
       "cid": "102830",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "368a8eff-766c-4635-a985-a1d485c37075",
+      "title": "Carrera Tech e Inserción Laboral (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "13/11/2026",
+      "end": "27/11/2026",
+      "cid": "102785",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2445,12 +2445,45 @@
       "active": true
     },
     {
+      "id": "8e7b8dbf-9a68-4495-a227-1d74e839e3ed",
+      "title": "Acelerador de Carrera e Inserción Laboral (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "13/11/2026",
+      "end": "27/11/2026",
+      "cid": "102695",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "b7e2699d-6a48-4e49-a200-25135f24802e",
       "title": "Acelerador de Carrera e Inserción Laboral (diplomatura)",
       "schedule": "Vie — 07:30 ART",
       "start": "13/11/2026",
       "end": "27/11/2026",
       "cid": "102650",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "55a36b27-3012-44e6-90fe-e66011980f37",
+      "title": "Data Analytics",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "14/11/2026",
+      "end": "06/02/2027",
+      "cid": "94875",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "25c47b03-addf-4d0d-841a-8d39d27b392d",
+      "title": "Desarrollo Web",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "14/11/2026",
+      "end": "06/02/2027",
+      "cid": "94805",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
