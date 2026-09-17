@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-09-16T15:52:56+00:00",
+  "generated_at": "2026-09-17T15:59:12+00:00",
   "total": 218,
   "cohorts": [
-    {
-      "id": "bd8ab11b-00f3-49b1-a69e-148c7b43862e",
-      "title": "Tableau",
-      "schedule": "Jue — 19:00 ART",
-      "start": "24/09/2026",
-      "end": "30/10/2026",
-      "cid": "93935",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1ff27d03-babd-45a2-82a9-4ccea9c6131f",
-      "title": "Excel",
-      "schedule": "Jue — 19:00 ART",
-      "start": "24/09/2026",
-      "end": "13/11/2026",
-      "cid": "91915",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ce9d4698-b780-42fd-8fca-dca74c6a6b1e",
-      "title": "E-commerce",
-      "schedule": "Jue — 19:00 ART",
-      "start": "24/09/2026",
-      "end": "27/11/2026",
-      "cid": "91780",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "f50481c2-65a4-479f-96b1-bc7f5943e7cd",
       "title": "Data Analytics",
@@ -2396,6 +2363,39 @@
       "start": "14/11/2026",
       "end": "06/02/2027",
       "cid": "94805",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "064b155d-fcc2-42d4-9180-6f1cf4efc63e",
+      "title": "Data Science III (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "16/11/2026",
+      "end": "09/12/2026",
+      "cid": "105710",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "732e42c1-a027-472c-abc2-79cece6e19ae",
+      "title": "Arquitectura de Información e Interacción (diplotamtura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "16/11/2026",
+      "end": "13/01/2027",
+      "cid": "102805",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "4d1ee6bf-3195-4d6e-a2f3-ffe31717ca32",
+      "title": "Paid Media y Performance Marketing (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "16/11/2026",
+      "end": "13/01/2027",
+      "cid": "102715",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
