@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T15:59:12+00:00",
-  "total": 218,
+  "generated_at": "2026-09-18T15:34:13+00:00",
+  "total": 234,
   "cohorts": [
     {
       "id": "f50481c2-65a4-479f-96b1-bc7f5943e7cd",
@@ -1477,6 +1477,28 @@
       "active": true
     },
     {
+      "id": "850e5b49-24ef-473d-86a8-e7173118447a",
+      "title": "AI Engineering (V2) (ENG)",
+      "schedule": "Mar — 22:00 ART",
+      "start": "29/10/2026",
+      "end": "",
+      "cid": "105790",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a799c6c5-5b71-455a-a9e3-72aabb512024",
+      "title": "Data Analytics (EN)",
+      "schedule": "Mar — 22:00 ART",
+      "start": "29/10/2026",
+      "end": "26/01/2027",
+      "cid": "105785",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "69393e9b-c283-4052-a96e-7c67ce01fafc",
       "title": "AI Automation",
       "schedule": "Jue y Mar — 20:30 ART",
@@ -2368,12 +2390,45 @@
       "active": true
     },
     {
+      "id": "950f48bb-effc-4e89-91d5-214f921ff105",
+      "title": "Data Science III (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "16/11/2026",
+      "end": "09/12/2026",
+      "cid": "105715",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "064b155d-fcc2-42d4-9180-6f1cf4efc63e",
       "title": "Data Science III (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
       "start": "16/11/2026",
       "end": "09/12/2026",
       "cid": "105710",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "95dd9785-73ae-43df-809f-68575b2d4a78",
+      "title": "Data Engineering",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "18/01/2027",
+      "cid": "103120",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b81472c7-6828-457d-8548-8dd8a4889de8",
+      "title": "Arquitectura de Información e Interacción (diplotamtura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "16/11/2026",
+      "end": "13/01/2027",
+      "cid": "102850",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2390,12 +2445,133 @@
       "active": true
     },
     {
+      "id": "5046e276-a89d-45c3-b5ce-30ab43876adf",
+      "title": "Paid Media y Performance Marketing (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "16/11/2026",
+      "end": "13/01/2027",
+      "cid": "102760",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "4d1ee6bf-3195-4d6e-a2f3-ffe31717ca32",
       "title": "Paid Media y Performance Marketing (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
       "start": "16/11/2026",
       "end": "13/01/2027",
       "cid": "102715",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9018d73d-88bb-448e-bf2e-32c9be5dc334",
+      "title": "Vibe Coding: creá tu app con IA",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "19/01/2027",
+      "cid": "97640",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0754df51-5780-4315-bfaf-c1276d0d87c4",
+      "title": "JavaScript",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "02/02/2027",
+      "cid": "92500",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "65be57a2-5563-438c-9ee5-edaa989c998c",
+      "title": "Growth Marketing",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "26/01/2027",
+      "cid": "92300",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "91651fd0-a969-4e7a-bfaf-2e8b8407a2f6",
+      "title": "Fundamentos del Marketing digital",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "12/01/2027",
+      "cid": "92125",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "cd10ce8c-ccd1-4d8d-9e69-06e87af9baa8",
+      "title": "Diseño UX/UI",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "16/02/2027",
+      "cid": "91590",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "618354fd-6cae-4282-8b53-e022d563b6b2",
+      "title": "Contabilidad",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "15/12/2026",
+      "cid": "90930",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "eed8e2e5-54c8-45d5-908e-87b8d9e8fd69",
+      "title": "Canva",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "15/12/2026",
+      "cid": "90845",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "748cd0ca-06d2-447e-99b0-a9d843094f4e",
+      "title": "Business Analytics",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "19/01/2027",
+      "cid": "90800",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "895948ff-91a7-4b34-bdad-20e5c1ea5fc7",
+      "title": "Programación Backend I: Desarrollo Avanzado de Backend",
+      "schedule": "Mar — 10:00 ART",
+      "start": "17/11/2026",
+      "end": "16/02/2027",
+      "cid": "95155",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "bce801b2-a3ef-4d0c-9a6d-d8a93a60e66c",
+      "title": "Growth Marketing",
+      "schedule": "Mar — 10:00 ART",
+      "start": "17/11/2026",
+      "end": "09/02/2027",
+      "cid": "94970",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
