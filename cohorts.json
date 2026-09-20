@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T15:08:16+00:00",
-  "total": 237,
+  "generated_at": "2026-09-20T15:12:17+00:00",
+  "total": 241,
   "cohorts": [
     {
       "id": "7362dd5c-0f71-41ff-b3e0-954202f2596b",
@@ -2605,6 +2605,50 @@
       "start": "17/11/2026",
       "end": "20/01/2027",
       "cid": "90890",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "99e7198b-8fc1-4782-ac1c-3532f8c2118f",
+      "title": "React JS",
+      "schedule": "Mié — 20:30 ART",
+      "start": "18/11/2026",
+      "end": "28/01/2027",
+      "cid": "93535",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ae7a98af-54fa-4789-9422-78da6c9d94e4",
+      "title": "Prototipado con Figma",
+      "schedule": "Mié — 20:30 ART",
+      "start": "18/11/2026",
+      "end": "28/01/2027",
+      "cid": "93285",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "46e14e31-5723-422b-9e3b-9859098e7779",
+      "title": "Excel",
+      "schedule": "Mié — 20:30 ART",
+      "start": "18/11/2026",
+      "end": "28/01/2027",
+      "cid": "91950",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "58db64aa-9aa0-468c-aa41-68961022ec4c",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Mié — 20:30 ART",
+      "start": "18/11/2026",
+      "end": "11/02/2027",
+      "cid": "91725",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
