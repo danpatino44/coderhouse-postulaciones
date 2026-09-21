@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T15:12:17+00:00",
-  "total": 241,
+  "generated_at": "2026-09-21T17:34:57+00:00",
+  "total": 245,
   "cohorts": [
     {
       "id": "7362dd5c-0f71-41ff-b3e0-954202f2596b",
@@ -36,17 +36,6 @@
       "active": true
     },
     {
-      "id": "6c729687-ac98-4d25-a5cf-04f656667a22",
-      "title": "Community Manager",
-      "schedule": "Jue — 19:00 ART",
-      "start": "01/10/2026",
-      "end": "04/12/2026",
-      "cid": "92755",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "d039eabb-8281-442d-ba7f-9860a0126498",
       "title": "Administración de empresas",
       "schedule": "Jue — 19:00 ART",
@@ -64,17 +53,6 @@
       "start": "03/10/2026",
       "end": "14/11/2026",
       "cid": "94745",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "125bff4a-4ac9-4bba-b4e5-e96a494fd563",
-      "title": "Community Manager",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "03/10/2026",
-      "end": "12/12/2026",
-      "cid": "94710",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -889,6 +867,17 @@
       "start": "17/10/2026",
       "end": "09/01/2027",
       "cid": "94800",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "125bff4a-4ac9-4bba-b4e5-e96a494fd563",
+      "title": "Community Manager",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "17/10/2026",
+      "end": "26/12/2026",
+      "cid": "94710",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2181,6 +2170,17 @@
       "active": true
     },
     {
+      "id": "758c725f-1967-446d-83e1-e65665812609",
+      "title": "AI Automation Avanzado",
+      "schedule": "Jue y Mar — 19:00 ART",
+      "start": "12/11/2026",
+      "end": "18/12/2026",
+      "cid": "105820",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "9cc85765-5ed4-4c35-ab19-8c4a8914b7d3",
       "title": "AI Automation Avanzado",
       "schedule": "Jue y Mar — 19:00 ART",
@@ -2649,6 +2649,50 @@
       "start": "18/11/2026",
       "end": "11/02/2027",
       "cid": "91725",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8035bc93-bf29-42d2-8ab1-8d12b1957e6f",
+      "title": "UX Writing",
+      "schedule": "Jue — 19:00 ART",
+      "start": "19/11/2026",
+      "end": "05/02/2027",
+      "cid": "93845",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a36575ff-bc97-49a6-a918-ecca11497c71",
+      "title": "Power BI",
+      "schedule": "Jue — 19:00 ART",
+      "start": "19/11/2026",
+      "end": "18/12/2026",
+      "cid": "93110",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b6f71059-edb8-4837-98c1-8ba67ec6831b",
+      "title": "Desarrollo Web",
+      "schedule": "Jue — 19:00 ART",
+      "start": "19/11/2026",
+      "end": "05/02/2027",
+      "cid": "91395",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "fdfd6e44-b372-40a1-87bd-5ec22ec34926",
+      "title": "Data Analytics",
+      "schedule": "Jue — 19:00 ART",
+      "start": "19/11/2026",
+      "end": "05/02/2027",
+      "cid": "91105",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
