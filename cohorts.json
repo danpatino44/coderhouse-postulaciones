@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-21T17:34:57+00:00",
-  "total": 245,
+  "generated_at": "2026-09-22T16:02:51+00:00",
+  "total": 243,
   "cohorts": [
-    {
-      "id": "7362dd5c-0f71-41ff-b3e0-954202f2596b",
-      "title": "Wordpress",
-      "schedule": "Mar — 19:00 ART",
-      "start": "29/09/2026",
-      "end": "14/10/2026",
-      "cid": "93875",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "efb657f2-efce-4cdd-bb28-ac493261fb01",
       "title": "AI Engineering",
@@ -262,17 +251,6 @@
       "start": "06/10/2026",
       "end": "03/12/2026",
       "cid": "102545",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1088a84f-5571-4121-be5f-ec316877be84",
-      "title": "DevOps & Cloud",
-      "schedule": "Mar — 19:00 ART",
-      "start": "06/10/2026",
-      "end": "20/10/2026",
-      "cid": "102095",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
