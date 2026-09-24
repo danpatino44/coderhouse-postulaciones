@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-09-23T15:53:06+00:00",
-  "total": 243,
+  "generated_at": "2026-09-24T16:15:11+00:00",
+  "total": 239,
   "cohorts": [
-    {
-      "id": "efb657f2-efce-4cdd-bb28-ac493261fb01",
-      "title": "AI Engineering",
-      "schedule": "Jue — 19:00 ART",
-      "start": "01/10/2026",
-      "end": "05/11/2026",
-      "cid": "102130",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e5726bc5-64b2-4059-bbb4-7a8d5e816bfd",
-      "title": "AI Automation",
-      "schedule": "Jue y Mar — 19:00 ART",
-      "start": "01/10/2026",
-      "end": "18/11/2026",
-      "cid": "96945",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "d039eabb-8281-442d-ba7f-9860a0126498",
-      "title": "Administración de empresas",
-      "schedule": "Jue — 19:00 ART",
-      "start": "01/10/2026",
-      "end": "30/10/2026",
-      "cid": "90750",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "eade3716-6c7b-48c9-900b-7923563ce5ed",
       "title": "Growth Marketing",
@@ -878,17 +845,6 @@
       "start": "19/10/2026",
       "end": "27/01/2027",
       "cid": "102910",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "0862339b-3589-487c-a89a-6b14a7a8f97c",
-      "title": "AI Automation",
-      "schedule": "Lun y Mié — 20:30 ART",
-      "start": "19/10/2026",
-      "end": "03/12/2026",
-      "cid": "96950",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
