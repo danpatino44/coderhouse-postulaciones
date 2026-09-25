@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:15:11+00:00",
+  "generated_at": "2026-09-25T16:15:38+00:00",
   "total": 239,
   "cohorts": [
     {
@@ -559,17 +559,6 @@
       "start": "13/10/2026",
       "end": "16/12/2026",
       "cid": "91925",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "2f0a6f5b-0a9d-4fed-b02a-8899b5446e84",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Mar — 19:00 ART",
-      "start": "13/10/2026",
-      "end": "06/01/2027",
-      "cid": "91710",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2627,6 +2616,17 @@
       "start": "19/11/2026",
       "end": "05/02/2027",
       "cid": "91105",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "594b9cb3-d9e0-4128-b509-c3970b2a39c5",
+      "title": "Community Manager",
+      "schedule": "Mar — 10:00 ART",
+      "start": "24/11/2026",
+      "end": "16/02/2027",
+      "cid": "95015",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
