@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-25T16:15:38+00:00",
-  "total": 239,
+  "generated_at": "2026-09-26T15:29:24+00:00",
+  "total": 250,
   "cohorts": [
-    {
-      "id": "eade3716-6c7b-48c9-900b-7923563ce5ed",
-      "title": "Growth Marketing",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "03/10/2026",
-      "end": "14/11/2026",
-      "cid": "94745",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "7b750909-ac7b-4807-8237-baf9c9963561",
       "title": "Programación Backend (III): Testing y Escalabilidad",
@@ -823,6 +812,17 @@
       "start": "17/10/2026",
       "end": "31/10/2026",
       "cid": "90450",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a88b64c0-ed9c-4638-8cbf-21c6ad4e7bd6",
+      "title": "Forward Deployed Engineer",
+      "schedule": "Lun — 20:30 ART",
+      "start": "19/10/2026",
+      "end": "18/01/2027",
+      "cid": "105835",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2445,6 +2445,17 @@
       "active": true
     },
     {
+      "id": "c2ff773c-d363-43e9-b5c1-b5446930a8ce",
+      "title": "Forward Deployed Engineer",
+      "schedule": "Mar — 20:30 ART",
+      "start": "17/11/2026",
+      "end": "09/02/2027",
+      "cid": "105840",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "4b93f6dd-9c23-46ec-936f-c01463fd3ac4",
       "title": "AI Automation",
       "schedule": "Mar y Jue — 20:30 ART",
@@ -2621,12 +2632,122 @@
       "active": true
     },
     {
+      "id": "b4de5b68-f6bf-484c-ba1e-0a30898a8f5d",
+      "title": "Tableau",
+      "schedule": "Mar — 19:00 ART",
+      "start": "24/11/2026",
+      "end": "13/01/2027",
+      "cid": "105815",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "003437cc-718b-4b8a-83d3-481c06a39ebd",
+      "title": "Programación Backend (III): Testing y Escalabilidad",
+      "schedule": "Mar — 19:00 ART",
+      "start": "24/11/2026",
+      "end": "03/02/2027",
+      "cid": "102160",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "82838b7d-bc47-4505-80cb-1564f72ab27b",
+      "title": "Programación Backend (III): Testing y Escalabilidad",
+      "schedule": "Mar — 19:00 ART",
+      "start": "24/11/2026",
+      "end": "03/02/2027",
+      "cid": "95300",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "594b9cb3-d9e0-4128-b509-c3970b2a39c5",
       "title": "Community Manager",
       "schedule": "Mar — 10:00 ART",
       "start": "24/11/2026",
       "end": "16/02/2027",
       "cid": "95015",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3b90d2f2-0375-4348-a55b-8e85ac188dac",
+      "title": "Photoshop e Illustrator",
+      "schedule": "Mar — 19:00 ART",
+      "start": "24/11/2026",
+      "end": "20/01/2027",
+      "cid": "94140",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "518c48e7-7f6b-47d8-b47f-b7a9964433f3",
+      "title": "UX Research",
+      "schedule": "Mar — 19:00 ART",
+      "start": "24/11/2026",
+      "end": "03/02/2027",
+      "cid": "94050",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f94ad4c7-0279-408e-91a6-30104d700eca",
+      "title": "Tableau",
+      "schedule": "Mar — 19:00 ART",
+      "start": "24/11/2026",
+      "end": "13/01/2027",
+      "cid": "93955",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "dea27313-c3d9-43b9-861b-d6f16a796683",
+      "title": "JavaScript",
+      "schedule": "Mar — 19:00 ART",
+      "start": "24/11/2026",
+      "end": "17/02/2027",
+      "cid": "92505",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1bd49533-d48b-4fc6-a26f-61ecea3848c2",
+      "title": "Growth Marketing",
+      "schedule": "Mar — 19:00 ART",
+      "start": "24/11/2026",
+      "end": "10/02/2027",
+      "cid": "92305",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "97b7bc1b-6d5b-4c7f-abfb-da5049b442c3",
+      "title": "Diseño UX/UI",
+      "schedule": "Mar — 19:00 ART",
+      "start": "24/11/2026",
+      "end": "03/03/2027",
+      "cid": "91595",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7b59b9ca-5031-4986-863c-80cb23ef3da1",
+      "title": "Ai automation (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "25/11/2026",
+      "end": "03/02/2027",
+      "cid": "102550",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
