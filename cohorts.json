@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T15:29:24+00:00",
-  "total": 250,
+  "generated_at": "2026-09-27T16:09:10+00:00",
+  "total": 260,
   "cohorts": [
     {
       "id": "7b750909-ac7b-4807-8237-baf9c9963561",
@@ -2742,12 +2742,122 @@
       "active": true
     },
     {
+      "id": "df42392f-5476-48a3-9265-259395e44d01",
+      "title": "SEO Para AI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "25/11/2026",
+      "end": "07/01/2027",
+      "cid": "103375",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "c38b01bd-8cd4-4ec3-8fa5-8bf7f3abb996",
+      "title": "Ai automation (diplomatura)",
+      "schedule": "Lun y Mié — 18:30 ART",
+      "start": "25/11/2026",
+      "end": "03/02/2027",
+      "cid": "102585",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "7b59b9ca-5031-4986-863c-80cb23ef3da1",
       "title": "Ai automation (diplomatura)",
       "schedule": "Lun y Mié — 07:30 ART",
       "start": "25/11/2026",
       "end": "03/02/2027",
       "cid": "102550",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a3f4d8dc-540e-43cd-93fc-a84f62060ba3",
+      "title": "AI Automation Avanzado",
+      "schedule": "Lun y Mié — 20:30 ART",
+      "start": "25/11/2026",
+      "end": "12/01/2027",
+      "cid": "97325",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b88d7d26-aac1-47a0-918c-ae80653bd0f6",
+      "title": "AI Automation",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "25/11/2026",
+      "end": "26/01/2027",
+      "cid": "96960",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ed03de4c-cf49-4ff7-a120-ee55915a8ebb",
+      "title": "Testing QA Manual",
+      "schedule": "Mié — 20:30 ART",
+      "start": "25/11/2026",
+      "end": "21/01/2027",
+      "cid": "93705",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "d5ea7852-89b1-414e-9c00-514be9f11d06",
+      "title": "SEO Para AI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "25/11/2026",
+      "end": "07/01/2027",
+      "cid": "93605",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8e96bf8c-a071-405a-a1ec-3a9ea31824ca",
+      "title": "Product Manager",
+      "schedule": "Mar — 20:30 ART",
+      "start": "25/11/2026",
+      "end": "19/01/2027",
+      "cid": "93225",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b77a6914-95fb-44a2-a5b3-e59b42ac6750",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Mié — 20:30 ART",
+      "start": "25/11/2026",
+      "end": "04/02/2027",
+      "cid": "92970",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5c37e9f1-58d4-44a4-88e4-4cac37dfeaf3",
+      "title": "Community Manager",
+      "schedule": "Mié — 20:30 ART",
+      "start": "25/11/2026",
+      "end": "11/02/2027",
+      "cid": "92790",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9d47e50d-7e2e-498f-b7b0-18ff129102fb",
+      "title": "Desarrollo Web",
+      "schedule": "Mié — 20:30 ART",
+      "start": "25/11/2026",
+      "end": "11/02/2027",
+      "cid": "91400",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
