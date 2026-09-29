@@ -1,84 +1,7 @@
 {
-  "generated_at": "2026-09-28T19:03:17+00:00",
-  "total": 243,
+  "generated_at": "2026-09-29T17:24:41+00:00",
+  "total": 240,
   "cohorts": [
-    {
-      "id": "e5847e12-c17c-455f-a765-a0c4424d7140",
-      "title": "Python (Diplomatura)",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "06/10/2026",
-      "end": "12/01/2027",
-      "cid": "105585",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "f46a717f-aa47-4e17-b415-eb2536697b0a",
-      "title": "Python (Diplomatura)",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "06/10/2026",
-      "end": "12/01/2027",
-      "cid": "105555",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "779fa222-2a54-4699-8bc5-cd7b9ed363f2",
-      "title": "Growth Marketing (diplomatura)",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "06/10/2026",
-      "end": "03/12/2026",
-      "cid": "102580",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "838cfc2c-953e-4d25-a36e-8ff9087b2ed8",
-      "title": "Growth Marketing (diplomatura)",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "06/10/2026",
-      "end": "03/12/2026",
-      "cid": "102545",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6a8513de-7375-4238-a7de-361be7749248",
-      "title": "Oratoria",
-      "schedule": "Mar — 19:00 ART",
-      "start": "06/10/2026",
-      "end": "21/10/2026",
-      "cid": "93025",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "9210f685-3ec4-4ffe-ad82-1ae5fbacc429",
-      "title": "Community Manager",
-      "schedule": "Mar — 19:00 ART",
-      "start": "06/10/2026",
-      "end": "06/01/2027",
-      "cid": "92765",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ce10ea92-c4d9-4975-a78f-7fd64ca718fb",
-      "title": "Canva",
-      "schedule": "Mar — 19:00 ART",
-      "start": "06/10/2026",
-      "end": "04/11/2026",
-      "cid": "90835",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "9263e902-17eb-4eb2-9d19-a9589b26d9b2",
       "title": "AI Automation",
@@ -229,6 +152,17 @@
       "start": "10/10/2026",
       "end": "23/01/2027",
       "cid": "94655",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "47ba83ca-f370-44a4-b539-be615e1ece8f",
+      "title": "Data Analytics",
+      "schedule": "Mar — 19:00 ART",
+      "start": "13/10/2026",
+      "end": "23/12/2026",
+      "cid": "105850",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -1059,28 +993,6 @@
       "active": true
     },
     {
-      "id": "850e5b49-24ef-473d-86a8-e7173118447a",
-      "title": "AI Engineering (V2) (ENG)",
-      "schedule": "Mar — 22:00 ART",
-      "start": "28/10/2026",
-      "end": "",
-      "cid": "105790",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "a799c6c5-5b71-455a-a9e3-72aabb512024",
-      "title": "Data Analytics (EN)",
-      "schedule": "Mar — 22:00 ART",
-      "start": "28/10/2026",
-      "end": "26/01/2027",
-      "cid": "105785",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "014dd0c8-28f1-437b-9b26-bb829e3e1f6b",
       "title": "Photoshop e Illustrator",
       "schedule": "Mié — 20:30 ART",
@@ -1351,6 +1263,28 @@
       "start": "03/11/2026",
       "end": "06/01/2027",
       "cid": "93230",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "850e5b49-24ef-473d-86a8-e7173118447a",
+      "title": "AI Engineering (V2) (ENG)",
+      "schedule": "Mar — 22:00 ART",
+      "start": "04/11/2026",
+      "end": "",
+      "cid": "105790",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a799c6c5-5b71-455a-a9e3-72aabb512024",
+      "title": "Data Analytics (EN)",
+      "schedule": "Mar — 22:00 ART",
+      "start": "04/11/2026",
+      "end": "25/01/2027",
+      "cid": "105785",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2671,6 +2605,39 @@
       "start": "26/11/2026",
       "end": "29/01/2027",
       "cid": "91955",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6009e964-f1d1-44f6-8a78-edc8d9e6fdb6",
+      "title": "JavaScript",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "28/11/2026",
+      "end": "06/02/2027",
+      "cid": "94830",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "78062f8f-b789-47bb-95ae-8baff88df06f",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "28/11/2026",
+      "end": "23/01/2027",
+      "cid": "94735",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "776a96e7-1acd-4e1a-b0ea-5e23417505a4",
+      "title": "Diseño UX/UI",
+      "schedule": "Sáb — 11:00 ART",
+      "start": "28/11/2026",
+      "end": "06/03/2027",
+      "cid": "94660",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
