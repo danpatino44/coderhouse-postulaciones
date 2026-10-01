@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-09-30T17:22:08+00:00",
+  "generated_at": "2026-10-01T17:48:54+00:00",
   "total": 232,
   "cohorts": [
-    {
-      "id": "6a2ed8dc-b1e3-4c9b-abdc-012508a07ff1",
-      "title": "Python",
-      "schedule": "Jue — 19:00 ART",
-      "start": "08/10/2026",
-      "end": "15/01/2027",
-      "cid": "93355",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4148532f-b5ab-44e6-94b6-268e754e83ff",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Jue — 19:00 ART",
-      "start": "08/10/2026",
-      "end": "18/12/2026",
-      "cid": "91720",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "fb1406ff-7aa9-405e-9e2a-58a65eba1c81",
-      "title": "Copywriting",
-      "schedule": "Jue — 19:00 ART",
-      "start": "08/10/2026",
-      "end": "18/12/2026",
-      "cid": "91155",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "7db6535c-9406-4bee-88b7-bebe1d18019b",
       "title": "Oratoria",
@@ -1180,20 +1147,9 @@
       "active": true
     },
     {
-      "id": "850e5b49-24ef-473d-86a8-e7173118447a",
-      "title": "AI Engineering (EN)",
-      "schedule": "Mar — 22:00 ART",
-      "start": "04/11/2026",
-      "end": "",
-      "cid": "105790",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "a799c6c5-5b71-455a-a9e3-72aabb512024",
       "title": "Data Analytics (EN)",
-      "schedule": "Mar — 22:00 ART",
+      "schedule": "Mar — 23:00 ART",
       "start": "04/11/2026",
       "end": "25/01/2027",
       "cid": "105785",
@@ -1263,6 +1219,17 @@
       "start": "04/11/2026",
       "end": "21/01/2027",
       "cid": "91095",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "850e5b49-24ef-473d-86a8-e7173118447a",
+      "title": "AI Engineering (EN)",
+      "schedule": "Mar — 23:00 ART",
+      "start": "05/11/2026",
+      "end": "",
+      "cid": "105790",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -2550,6 +2517,39 @@
       "start": "28/11/2026",
       "end": "06/03/2027",
       "cid": "94660",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a919eec5-aa86-412a-bf5a-03bb463745ed",
+      "title": "AI Automation (V3) Diplomatura",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "30/11/2026",
+      "end": "11/01/2027",
+      "cid": "105560",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "143d9f04-9b75-481b-8e2d-adbb856db248",
+      "title": "Machine Learning Supervisado y no Supervisado (diplomatura)",
+      "schedule": "Lun y Mié — 07:30 ART",
+      "start": "30/11/2026",
+      "end": "24/02/2027",
+      "cid": "102615",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "92abf19a-27ce-450e-99ca-688aa2ebfd14",
+      "title": "React JS",
+      "schedule": "Lun — 10:00 ART",
+      "start": "30/11/2026",
+      "end": "08/02/2027",
+      "cid": "95105",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
