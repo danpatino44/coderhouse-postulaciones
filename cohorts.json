@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T17:11:12+00:00",
-  "total": 75,
+  "generated_at": "2026-10-03T15:31:06+00:00",
+  "total": 77,
   "cohorts": [
     {
       "id": "df661a8f-990b-441e-bd72-85550f9df6fe",
@@ -812,6 +812,28 @@
       "start": "30/11/2026",
       "end": "12/01/2027",
       "cid": "92105",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "eed86cae-9afc-4fb8-9840-099701355390",
+      "title": "Excel Avanzado",
+      "schedule": "Mar — 19:00 ART",
+      "start": "01/12/2026",
+      "end": "26/01/2027",
+      "cid": "103185",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "fdcad9e4-c51c-4d54-ba9d-842c277f6902",
+      "title": "Visualización Avanzada e Ingeniería de Características (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "01/12/2026",
+      "end": "04/02/2027",
+      "cid": "102675",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
