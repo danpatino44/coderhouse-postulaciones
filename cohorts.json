@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T15:31:06+00:00",
-  "total": 77,
+  "generated_at": "2026-10-04T16:15:14+00:00",
+  "total": 81,
   "cohorts": [
     {
       "id": "df661a8f-990b-441e-bd72-85550f9df6fe",
@@ -845,6 +845,50 @@
       "start": "01/12/2026",
       "end": "04/02/2027",
       "cid": "102620",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ead63507-7214-407b-86c8-46732e8700e5",
+      "title": "AI Automation Avanzado",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "02/12/2026",
+      "end": "21/01/2027",
+      "cid": "105805",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f2f1e27e-9eb3-46ea-86e0-ab9b9afa7071",
+      "title": "AI Automation Avanzado",
+      "schedule": "Mié y Lun — 20:30 ART",
+      "start": "02/12/2026",
+      "end": "21/01/2027",
+      "cid": "105045",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "feb8dac1-edcf-4bb4-89e5-32260c1ff51a",
+      "title": "Data Analytics",
+      "schedule": "Mié — 20:30 ART",
+      "start": "02/12/2026",
+      "end": "18/02/2027",
+      "cid": "91115",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7b00d42b-c700-40b1-996a-20af8b0af2cf",
+      "title": "Contenido para redes sociales",
+      "schedule": "Mié — 20:30 ART",
+      "start": "02/12/2026",
+      "end": "04/02/2027",
+      "cid": "90950",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
