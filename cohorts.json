@@ -1,58 +1,14 @@
 {
-  "generated_at": "2026-10-05T20:11:31+00:00",
-  "total": 81,
+  "generated_at": "2026-10-06T17:41:41+00:00",
+  "total": 76,
   "cohorts": [
     {
-      "id": "df661a8f-990b-441e-bd72-85550f9df6fe",
-      "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "13/10/2026",
-      "end": "22/10/2026",
-      "cid": "105695",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "685f5f29-cd01-4a74-981a-6659862ec623",
-      "title": "Inteligencia Artificial: Prompt Engineering para programadores 3.0 - Diplomaturas",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "13/10/2026",
-      "end": "22/10/2026",
-      "cid": "105690",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "1c644501-3d34-45e1-a38f-d7a8e717f9c5",
-      "title": "Data Analytics",
-      "schedule": "Mar — 19:00 ART",
-      "start": "13/10/2026",
-      "end": "23/12/2026",
-      "cid": "91080",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "22ee20ab-ba33-4a74-9ac8-91e34c1b1297",
-      "title": "Ciberseguridad",
-      "schedule": "Mar — 19:00 ART",
-      "start": "13/10/2026",
-      "end": "16/12/2026",
-      "cid": "90885",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "6b7d210a-48e1-41db-86e7-96136f7f3d16",
-      "title": "Growth Marketing",
-      "schedule": "Jue — 19:00 ART",
-      "start": "15/10/2026",
-      "end": "18/12/2026",
-      "cid": "92345",
+      "id": "49dbc340-9cc3-4428-a913-971eb283565a",
+      "title": "B2B | Multimedia con IA: imágenes y videos",
+      "schedule": "Vie — 10:00 ART",
+      "start": "16/10/2026",
+      "end": "20/11/2026",
+      "cid": "106300",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -229,17 +185,6 @@
       "start": "27/10/2026",
       "end": "20/01/2027",
       "cid": "95375",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "de756036-4321-4017-ad14-a169827ead58",
-      "title": "Paid media: Meta & Google Ads",
-      "schedule": "Mié — 20:30 ART",
-      "start": "28/10/2026",
-      "end": "07/01/2027",
-      "cid": "92950",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
