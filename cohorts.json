@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T17:41:41+00:00",
-  "total": 76,
+  "generated_at": "2026-10-07T18:13:46+00:00",
+  "total": 75,
   "cohorts": [
     {
       "id": "49dbc340-9cc3-4428-a913-971eb283565a",
@@ -269,7 +269,7 @@
     {
       "id": "850e5b49-24ef-473d-86a8-e7173118447a",
       "title": "AI Engineering (EN)",
-      "schedule": "Mar — 23:00 ART",
+      "schedule": "Mié — 23:00 ART",
       "start": "05/11/2026",
       "end": "",
       "cid": "105790",
@@ -284,28 +284,6 @@
       "start": "05/11/2026",
       "end": "29/01/2027",
       "cid": "91730",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "89ff0999-b9c2-4a86-ac68-4283740d94a4",
-      "title": "Data Science II: Machine Learning para la Ciencia de Datos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "09/11/2026",
-      "end": "09/03/2027",
-      "cid": "95420",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "8979df4a-794b-4904-b8ce-101e8fd80f61",
-      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "09/11/2026",
-      "end": "26/01/2027",
-      "cid": "95380",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -432,17 +410,6 @@
       "active": true
     },
     {
-      "id": "9cc85765-5ed4-4c35-ab19-8c4a8914b7d3",
-      "title": "AI Automation Avanzado",
-      "schedule": "Jue y Mar — 19:00 ART",
-      "start": "12/11/2026",
-      "end": "18/12/2026",
-      "cid": "97500",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "1786ae88-0aba-4235-ba51-6f9e12747a43",
       "title": "Growth Marketing",
       "schedule": "Jue — 19:00 ART",
@@ -559,6 +526,28 @@
       "start": "16/11/2026",
       "end": "13/01/2027",
       "cid": "102805",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "89ff0999-b9c2-4a86-ac68-4283740d94a4",
+      "title": "Data Science II: Machine Learning para la Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "13/04/2027",
+      "cid": "95420",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8979df4a-794b-4904-b8ce-101e8fd80f61",
+      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "16/11/2026",
+      "end": "23/02/2027",
+      "cid": "95380",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
