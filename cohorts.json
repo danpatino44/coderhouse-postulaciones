@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-10-07T18:13:46+00:00",
-  "total": 75,
+  "generated_at": "2026-10-08T18:15:28+00:00",
+  "total": 73,
   "cohorts": [
-    {
-      "id": "49dbc340-9cc3-4428-a913-971eb283565a",
-      "title": "B2B | Multimedia con IA: imágenes y videos",
-      "schedule": "Vie — 10:00 ART",
-      "start": "16/10/2026",
-      "end": "20/11/2026",
-      "cid": "106300",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "29fdab24-015e-4eb6-8df1-6d374d6de7ec",
       "title": "Trabajo en Equipos Tech y Agilidad  (diplomatura)",
@@ -119,17 +108,6 @@
       "start": "19/10/2026",
       "end": "03/11/2026",
       "cid": "90560",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "a6c9507f-0930-4636-a81d-7b25b3951341",
-      "title": "Growth Marketing",
-      "schedule": "Mar — 10:00 ART",
-      "start": "20/10/2026",
-      "end": "12/01/2027",
-      "cid": "94965",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
