@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-10-09T17:48:42+00:00",
-  "total": 45,
+  "generated_at": "2026-10-10T16:44:22+00:00",
+  "total": 44,
   "cohorts": [
-    {
-      "id": "526b3c51-8b09-40ea-9f02-7fe693937027",
-      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos",
-      "schedule": "Sáb — 11:00 ART",
-      "start": "17/10/2026",
-      "end": "31/10/2026",
-      "cid": "102200",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "a88b64c0-ed9c-4638-8cbf-21c6ad4e7bd6",
       "title": "Forward Deployed Engineer",
