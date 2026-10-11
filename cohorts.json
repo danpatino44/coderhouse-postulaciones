@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T16:44:22+00:00",
-  "total": 44,
+  "generated_at": "2026-10-11T17:09:00+00:00",
+  "total": 47,
   "cohorts": [
     {
       "id": "a88b64c0-ed9c-4638-8cbf-21c6ad4e7bd6",
@@ -482,6 +482,39 @@
       "start": "02/12/2026",
       "end": "04/02/2027",
       "cid": "90950",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "5d0e1cc2-8989-4915-9230-a188a519cb16",
+      "title": "AI Engineering",
+      "schedule": "Mié — 20:30 ART",
+      "start": "09/12/2026",
+      "end": "01/02/2027",
+      "cid": "102140",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "b3a22064-8307-477d-88a0-cb60ae4e81c3",
+      "title": "Paid media: Meta & Google Ads",
+      "schedule": "Mié — 20:30 ART",
+      "start": "09/12/2026",
+      "end": "18/02/2027",
+      "cid": "92990",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f4d556de-fad1-416f-8b12-304776c4edb7",
+      "title": "Fundamentos del Diseño Gráfico",
+      "schedule": "Mié — 20:30 ART",
+      "start": "09/12/2026",
+      "end": "04/02/2027",
+      "cid": "92110",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
