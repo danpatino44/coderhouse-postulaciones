@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:40:38+00:00",
-  "total": 46,
+  "generated_at": "2026-10-13T18:43:39+00:00",
+  "total": 43,
   "cohorts": [
     {
       "id": "e57ef63f-b181-4e94-8d3c-aabac9b82b0f",
@@ -64,17 +64,6 @@
       "start": "02/11/2026",
       "end": "12/01/2027",
       "cid": "91790",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ebd69c4d-a11c-4d91-8aee-d69d4ca50d06",
-      "title": "AI Engineering",
-      "schedule": "Mar — 19:00 ART",
-      "start": "03/11/2026",
-      "end": "15/12/2026",
-      "cid": "102135",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -196,17 +185,6 @@
       "start": "12/11/2026",
       "end": "29/01/2027",
       "cid": "92295",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "ad698f8b-09d8-4225-aedc-b236d1a28470",
-      "title": "Desarrollo de Aplicaciones",
-      "schedule": "Jue — 19:00 ART",
-      "start": "12/11/2026",
-      "end": "22/01/2027",
-      "cid": "91240",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -449,17 +427,6 @@
       "start": "01/12/2026",
       "end": "09/02/2027",
       "cid": "102620",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "f2f1e27e-9eb3-46ea-86e0-ab9b9afa7071",
-      "title": "AI Automation Avanzado",
-      "schedule": "Mié y Lun — 20:30 ART",
-      "start": "02/12/2026",
-      "end": "21/01/2027",
-      "cid": "105045",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
