@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T18:43:39+00:00",
-  "total": 43,
+  "generated_at": "2026-10-14T16:16:39+00:00",
+  "total": 42,
   "cohorts": [
     {
       "id": "e57ef63f-b181-4e94-8d3c-aabac9b82b0f",
@@ -300,17 +300,6 @@
       "active": true
     },
     {
-      "id": "07d07de4-2355-4203-829a-5b8c6e7b2022",
-      "title": "Ciberseguridad",
-      "schedule": "Mar — 19:00 ART",
-      "start": "17/11/2026",
-      "end": "20/01/2027",
-      "cid": "90890",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "ae7a98af-54fa-4789-9422-78da6c9d94e4",
       "title": "Prototipado con Figma",
       "schedule": "Mié — 20:30 ART",
@@ -388,6 +377,17 @@
       "active": true
     },
     {
+      "id": "000863d7-0b8f-40de-b25d-c97f0cd82fc5",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "30/11/2026",
+      "end": "05/01/2027",
+      "cid": "92600",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
       "id": "59346532-ecd6-4a65-b976-c5c9d37bf921",
       "title": "Fundamentos del Diseño Gráfico",
       "schedule": "Lun — 20:30 ART",
@@ -438,17 +438,6 @@
       "start": "09/12/2026",
       "end": "01/02/2027",
       "cid": "102140",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "b3a22064-8307-477d-88a0-cb60ae4e81c3",
-      "title": "Paid media: Meta & Google Ads",
-      "schedule": "Mié — 20:30 ART",
-      "start": "09/12/2026",
-      "end": "18/02/2027",
-      "cid": "92990",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
