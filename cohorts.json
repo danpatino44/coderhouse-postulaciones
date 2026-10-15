@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T16:16:39+00:00",
-  "total": 42,
+  "generated_at": "2026-10-15T16:04:23+00:00",
+  "total": 43,
   "cohorts": [
     {
       "id": "e57ef63f-b181-4e94-8d3c-aabac9b82b0f",
@@ -185,6 +185,17 @@
       "start": "12/11/2026",
       "end": "29/01/2027",
       "cid": "92295",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "0e68b965-0f4a-426b-b9eb-a23c26b596e6",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Lun — 18:30 ART",
+      "start": "16/11/2026",
+      "end": "07/12/2026",
+      "cid": "106365",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
