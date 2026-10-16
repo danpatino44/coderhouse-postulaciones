@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-10-15T16:04:23+00:00",
-  "total": 43,
+  "generated_at": "2026-10-16T15:52:30+00:00",
+  "total": 45,
   "cohorts": [
-    {
-      "id": "e57ef63f-b181-4e94-8d3c-aabac9b82b0f",
-      "title": "Metodologias agiles (diplomatura)",
-      "schedule": "Vie — 18:30 ART",
-      "start": "23/10/2026",
-      "end": "04/12/2026",
-      "cid": "102445",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "3d894a84-b7a6-4f51-b98c-934dc197f01b",
-      "title": "Metodologias agiles (diplomatura)",
-      "schedule": "Vie — 07:30 ART",
-      "start": "23/10/2026",
-      "end": "04/12/2026",
-      "cid": "102400",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "7160990e-2fe6-43b2-b04b-86cf4d747ffd",
       "title": "Data Science I: Fundamentos para la Ciencia de Datos",
@@ -471,6 +449,50 @@
       "start": "10/12/2026",
       "end": "26/02/2027",
       "cid": "91975",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "34b4fae6-1333-485f-9274-42f4677b722a",
+      "title": "Liderazgo y gestión de equipos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/12/2026",
+      "end": "26/01/2027",
+      "cid": "92605",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "31de45cd-1e7d-4d3d-a4e9-b47662673161",
+      "title": "Growth Marketing",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/12/2026",
+      "end": "25/02/2027",
+      "cid": "92315",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3d9775bd-3593-463b-bd4e-a6de303dd089",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/12/2026",
+      "end": "02/03/2027",
+      "cid": "91745",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "9eff2bc0-4680-4c99-a468-f1700ad84692",
+      "title": "Administración de empresas",
+      "schedule": "Lun — 20:30 ART",
+      "start": "14/12/2026",
+      "end": "12/01/2027",
+      "cid": "90760",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
