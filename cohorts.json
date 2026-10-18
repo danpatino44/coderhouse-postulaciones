@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T14:45:39+00:00",
-  "total": 45,
+  "generated_at": "2026-10-18T15:11:25+00:00",
+  "total": 47,
   "cohorts": [
     {
       "id": "7160990e-2fe6-43b2-b04b-86cf4d747ffd",
@@ -493,6 +493,28 @@
       "start": "15/12/2026",
       "end": "24/02/2027",
       "cid": "91795",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "546f3ea7-5220-4356-bb76-b0587524f667",
+      "title": "SEO Para AI",
+      "schedule": "Mié — 20:30 ART",
+      "start": "16/12/2026",
+      "end": "27/01/2027",
+      "cid": "105500",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3e370e37-401e-4c13-9091-6f38cedee186",
+      "title": "Canva",
+      "schedule": "Mié — 20:30 ART",
+      "start": "16/12/2026",
+      "end": "28/01/2027",
+      "cid": "90850",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
