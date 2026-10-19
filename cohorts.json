@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:11:25+00:00",
+  "generated_at": "2026-10-19T18:05:14+00:00",
   "total": 47,
   "cohorts": [
     {
@@ -135,17 +135,6 @@
       "active": true
     },
     {
-      "id": "6b181207-5b7e-400b-91a1-6a6415e890e2",
-      "title": "React JS",
-      "schedule": "Mar — 19:00 ART",
-      "start": "10/11/2026",
-      "end": "20/01/2027",
-      "cid": "93530",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "de91bf45-5f53-440d-bf1c-0686a323b41e",
       "title": "Google Ads, Analytics & Looker Studio",
       "schedule": "Mar — 19:00 ART",
@@ -163,6 +152,17 @@
       "start": "12/11/2026",
       "end": "29/01/2027",
       "cid": "92295",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "ad698f8b-09d8-4225-aedc-b236d1a28470",
+      "title": "Desarrollo de Aplicaciones",
+      "schedule": "Jue — 19:00 ART",
+      "start": "12/11/2026",
+      "end": "22/01/2027",
+      "cid": "91240",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
