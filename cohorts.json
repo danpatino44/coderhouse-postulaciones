@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T16:07:52+00:00",
-  "total": 48,
+  "generated_at": "2026-10-21T16:23:41+00:00",
+  "total": 49,
   "cohorts": [
     {
       "id": "29429021-f65e-4d91-8c19-561eb843fd2c",
@@ -284,6 +284,17 @@
       "start": "19/11/2026",
       "end": "03/12/2026",
       "cid": "106390",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6f9d6c9f-34d8-41c6-9545-006107fd62f1",
+      "title": "QA Automation",
+      "schedule": "Mié — 19:00 ART",
+      "start": "25/11/2026",
+      "end": "13/01/2027",
+      "cid": "106435",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
