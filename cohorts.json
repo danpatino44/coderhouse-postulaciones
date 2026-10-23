@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-10-22T16:24:10+00:00",
-  "total": 48,
+  "generated_at": "2026-10-23T16:13:23+00:00",
+  "total": 46,
   "cohorts": [
-    {
-      "id": "29429021-f65e-4d91-8c19-561eb843fd2c",
-      "title": "Empleabilidad",
-      "schedule": "Vie — 18:30 ART",
-      "start": "30/10/2026",
-      "end": "18/12/2026",
-      "cid": "105705",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "438acba0-916a-4e91-bd87-5958c77695a0",
-      "title": "Career Hacking: Marca Personal y Negociación en el Mercado Global. (diplomatura)",
-      "schedule": "Vie — 18:30 ART",
-      "start": "30/10/2026",
-      "end": "18/12/2026",
-      "cid": "102520",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "0525566f-478b-46db-8625-d5ce52343161",
       "title": "E-commerce",
