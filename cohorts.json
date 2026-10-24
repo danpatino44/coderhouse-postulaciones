@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T16:13:23+00:00",
-  "total": 46,
+  "generated_at": "2026-10-24T15:10:15+00:00",
+  "total": 47,
   "cohorts": [
     {
       "id": "0525566f-478b-46db-8625-d5ce52343161",
@@ -9,6 +9,17 @@
       "start": "02/11/2026",
       "end": "12/01/2027",
       "cid": "91790",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7c8cdb8a-ccdc-41fd-8827-ee703f6ab841",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Jue — 19:00 ART",
+      "start": "05/11/2026",
+      "end": "29/01/2027",
+      "cid": "91730",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
