@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-10-25T15:21:37+00:00",
-  "total": 47,
+  "generated_at": "2026-10-26T18:01:35+00:00",
+  "total": 43,
   "cohorts": [
-    {
-      "id": "0525566f-478b-46db-8625-d5ce52343161",
-      "title": "E-commerce",
-      "schedule": "Lun — 20:30 ART",
-      "start": "02/11/2026",
-      "end": "12/01/2027",
-      "cid": "91790",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "7c8cdb8a-ccdc-41fd-8827-ee703f6ab841",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Jue — 19:00 ART",
-      "start": "05/11/2026",
-      "end": "29/01/2027",
-      "cid": "91730",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "f98b53d9-9e43-4add-951a-6ee206a3ccdc",
       "title": "TypeScript (diplomatura)",
@@ -135,17 +113,6 @@
       "active": true
     },
     {
-      "id": "ad698f8b-09d8-4225-aedc-b236d1a28470",
-      "title": "Desarrollo de Aplicaciones",
-      "schedule": "Jue — 19:00 ART",
-      "start": "12/11/2026",
-      "end": "22/01/2027",
-      "cid": "91240",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "95dd9785-73ae-43df-809f-68575b2d4a78",
       "title": "Data Engineering",
       "schedule": "Lun — 20:30 ART",
@@ -245,23 +212,23 @@
       "active": true
     },
     {
-      "id": "46e14e31-5723-422b-9e3b-9859098e7779",
-      "title": "Excel",
-      "schedule": "Mié — 20:30 ART",
-      "start": "18/11/2026",
-      "end": "28/01/2027",
-      "cid": "91950",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "026efa36-cf48-4bbe-86d6-3d5eb8890d2c",
       "title": "Oratoria",
       "schedule": "Jue — 16:00 ART",
       "start": "19/11/2026",
       "end": "03/12/2026",
       "cid": "106390",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7c8cdb8a-ccdc-41fd-8827-ee703f6ab841",
+      "title": "Diseño UX/UI Avanzado",
+      "schedule": "Jue — 19:00 ART",
+      "start": "19/11/2026",
+      "end": "05/02/2027",
+      "cid": "91730",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -284,17 +251,6 @@
       "start": "25/11/2026",
       "end": "07/01/2027",
       "cid": "103375",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "d5ea7852-89b1-414e-9c00-514be9f11d06",
-      "title": "SEO Para AI",
-      "schedule": "Mié — 20:30 ART",
-      "start": "25/11/2026",
-      "end": "07/01/2027",
-      "cid": "93605",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
