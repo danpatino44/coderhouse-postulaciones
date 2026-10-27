@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:01:35+00:00",
+  "generated_at": "2026-10-27T17:09:15+00:00",
   "total": 43,
   "cohorts": [
     {
@@ -212,12 +212,12 @@
       "active": true
     },
     {
-      "id": "026efa36-cf48-4bbe-86d6-3d5eb8890d2c",
-      "title": "Oratoria",
-      "schedule": "Jue — 16:00 ART",
-      "start": "19/11/2026",
-      "end": "03/12/2026",
-      "cid": "106390",
+      "id": "46e14e31-5723-422b-9e3b-9859098e7779",
+      "title": "Excel",
+      "schedule": "Mié — 20:30 ART",
+      "start": "18/11/2026",
+      "end": "28/01/2027",
+      "cid": "91950",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
