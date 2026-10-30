@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T17:52:06+00:00",
-  "total": 42,
+  "generated_at": "2026-10-30T17:33:17+00:00",
+  "total": 41,
   "cohorts": [
     {
       "id": "f98b53d9-9e43-4add-951a-6ee206a3ccdc",
@@ -251,17 +251,6 @@
       "start": "25/11/2026",
       "end": "07/01/2027",
       "cid": "103375",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "b77a6914-95fb-44a2-a5b3-e59b42ac6750",
-      "title": "Paid media: Meta & Google Ads",
-      "schedule": "Mié — 20:30 ART",
-      "start": "25/11/2026",
-      "end": "04/02/2027",
-      "cid": "92970",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
