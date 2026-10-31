@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T17:33:17+00:00",
-  "total": 41,
+  "generated_at": "2026-10-31T16:37:51+00:00",
+  "total": 40,
   "cohorts": [
     {
       "id": "f98b53d9-9e43-4add-951a-6ee206a3ccdc",
@@ -185,17 +185,6 @@
       "start": "17/11/2026",
       "end": "09/02/2027",
       "cid": "105840",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "a03d14f5-f9c4-431d-b8e2-a1f36ad8d2fc",
-      "title": "Data Science I: Fundamentos para la Ciencia de Datos",
-      "schedule": "Mar — 19:00 ART",
-      "start": "17/11/2026",
-      "end": "10/02/2027",
-      "cid": "95385",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
