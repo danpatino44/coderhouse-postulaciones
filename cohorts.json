@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T17:28:20+00:00",
-  "total": 40,
+  "generated_at": "2026-11-02T21:13:50+00:00",
+  "total": 38,
   "cohorts": [
     {
       "id": "f98b53d9-9e43-4add-951a-6ee206a3ccdc",
@@ -102,17 +102,6 @@
       "active": true
     },
     {
-      "id": "1786ae88-0aba-4235-ba51-6f9e12747a43",
-      "title": "Growth Marketing",
-      "schedule": "Jue — 19:00 ART",
-      "start": "12/11/2026",
-      "end": "29/01/2027",
-      "cid": "92295",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "95dd9785-73ae-43df-809f-68575b2d4a78",
       "title": "Data Engineering",
       "schedule": "Lun — 20:30 ART",
@@ -152,17 +141,6 @@
       "start": "16/11/2026",
       "end": "13/04/2027",
       "cid": "95420",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "65be57a2-5563-438c-9ee5-edaa989c998c",
-      "title": "Growth Marketing",
-      "schedule": "Lun — 20:30 ART",
-      "start": "16/11/2026",
-      "end": "26/01/2027",
-      "cid": "92300",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -229,17 +207,6 @@
       "start": "25/11/2026",
       "end": "13/01/2027",
       "cid": "106435",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "df42392f-5476-48a3-9265-259395e44d01",
-      "title": "SEO Para AI",
-      "schedule": "Mié — 20:30 ART",
-      "start": "25/11/2026",
-      "end": "07/01/2027",
-      "cid": "103375",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -416,6 +383,17 @@
       "start": "15/12/2026",
       "end": "24/02/2027",
       "cid": "91795",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "a9623a62-0a41-4736-8826-0f06191d76ad",
+      "title": "Data Analytics",
+      "schedule": "Mar — 19:00 ART",
+      "start": "15/12/2026",
+      "end": "17/02/2027",
+      "cid": "91120",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
