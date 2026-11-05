@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-04T19:11:20+00:00",
-  "total": 26,
+  "generated_at": "2026-11-05T19:17:41+00:00",
+  "total": 27,
   "cohorts": [
+    {
+      "id": "4af5cef2-58e8-436e-8a1f-96cbd51178ff",
+      "title": "BRAM SAS | Claude de cero a héroe",
+      "schedule": "Jue — 09:30 ART",
+      "start": "12/11/2026",
+      "end": "",
+      "cid": "106615",
+      "modality": "ON_SITE",
+      "country": "AR",
+      "active": true
+    },
     {
       "id": "95dd9785-73ae-43df-809f-68575b2d4a78",
       "title": "Data Engineering",
