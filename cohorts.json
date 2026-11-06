@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-05T19:17:41+00:00",
-  "total": 27,
+  "generated_at": "2026-11-06T18:44:03+00:00",
+  "total": 28,
   "cohorts": [
     {
-      "id": "4af5cef2-58e8-436e-8a1f-96cbd51178ff",
-      "title": "BRAM SAS | Claude de cero a héroe",
-      "schedule": "Jue — 09:30 ART",
+      "id": "487493c2-cce7-42a3-98a4-c1170c8a3610",
+      "title": "Estudio Peire | Claude y Gemini aplicados al trabajo",
+      "schedule": "Jue — 14:00 ART",
       "start": "12/11/2026",
-      "end": "",
-      "cid": "106615",
+      "end": "17/12/2026",
+      "cid": "106620",
       "modality": "ON_SITE",
       "country": "AR",
       "active": true
@@ -295,6 +295,17 @@
       "start": "16/12/2026",
       "end": "28/01/2027",
       "cid": "90850",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "3747b1b5-f22d-47a0-bf57-63d29a5391c2",
+      "title": "Marketing digital",
+      "schedule": "Lun — 20:30 ART",
+      "start": "04/01/2027",
+      "end": "08/03/2027",
+      "cid": "101900",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
