@@ -1,62 +1,7 @@
 {
-  "generated_at": "2026-11-08T17:27:17+00:00",
-  "total": 28,
+  "generated_at": "2026-11-09T21:48:11+00:00",
+  "total": 23,
   "cohorts": [
-    {
-      "id": "95dd9785-73ae-43df-809f-68575b2d4a78",
-      "title": "Data Engineering",
-      "schedule": "Lun — 20:30 ART",
-      "start": "16/11/2026",
-      "end": "18/01/2027",
-      "cid": "103120",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "b81472c7-6828-457d-8548-8dd8a4889de8",
-      "title": "Arquitectura de Información e Interacción (diplotamtura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "16/11/2026",
-      "end": "20/01/2027",
-      "cid": "102850",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "732e42c1-a027-472c-abc2-79cece6e19ae",
-      "title": "Arquitectura de Información e Interacción (diplotamtura)",
-      "schedule": "Lun y Mié — 07:30 ART",
-      "start": "16/11/2026",
-      "end": "20/01/2027",
-      "cid": "102805",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "89ff0999-b9c2-4a86-ac68-4283740d94a4",
-      "title": "Data Science II: Machine Learning para la Ciencia de Datos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "16/11/2026",
-      "end": "13/04/2027",
-      "cid": "95420",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "748cd0ca-06d2-447e-99b0-a9d843094f4e",
-      "title": "Business Analytics",
-      "schedule": "Lun — 20:30 ART",
-      "start": "16/11/2026",
-      "end": "19/01/2027",
-      "cid": "90800",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "c2ff773c-d363-43e9-b5c1-b5446930a8ce",
       "title": "Forward Deployed Engineer",
