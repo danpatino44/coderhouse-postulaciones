@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-11-09T21:48:11+00:00",
-  "total": 23,
+  "generated_at": "2026-11-10T19:08:53+00:00",
+  "total": 21,
   "cohorts": [
-    {
-      "id": "c2ff773c-d363-43e9-b5c1-b5446930a8ce",
-      "title": "Forward Deployed Engineer",
-      "schedule": "Mar — 20:30 ART",
-      "start": "17/11/2026",
-      "end": "09/02/2027",
-      "cid": "105840",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e4b2ff4f-2f9e-474f-a132-835dc7bfa299",
-      "title": "SQL",
-      "schedule": "Mar — 19:00 ART",
-      "start": "17/11/2026",
-      "end": "17/02/2027",
-      "cid": "93645",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "46e14e31-5723-422b-9e3b-9859098e7779",
       "title": "Excel",
