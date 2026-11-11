@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-11-10T19:08:53+00:00",
-  "total": 21,
+  "generated_at": "2026-11-11T19:05:20+00:00",
+  "total": 20,
   "cohorts": [
-    {
-      "id": "46e14e31-5723-422b-9e3b-9859098e7779",
-      "title": "Excel",
-      "schedule": "Mié — 20:30 ART",
-      "start": "18/11/2026",
-      "end": "28/01/2027",
-      "cid": "91950",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "7c8cdb8a-ccdc-41fd-8827-ee703f6ab841",
       "title": "Diseño UX/UI Avanzado",
