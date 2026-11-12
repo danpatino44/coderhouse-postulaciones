@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-11-11T19:05:20+00:00",
-  "total": 20,
+  "generated_at": "2026-11-12T19:23:23+00:00",
+  "total": 18,
   "cohorts": [
-    {
-      "id": "7c8cdb8a-ccdc-41fd-8827-ee703f6ab841",
-      "title": "Diseño UX/UI Avanzado",
-      "schedule": "Jue — 19:00 ART",
-      "start": "19/11/2026",
-      "end": "05/02/2027",
-      "cid": "91730",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "6f9d6c9f-34d8-41c6-9545-006107fd62f1",
       "title": "QA Automation",
@@ -42,17 +31,6 @@
       "start": "30/11/2026",
       "end": "01/03/2027",
       "cid": "102615",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "000863d7-0b8f-40de-b25d-c97f0cd82fc5",
-      "title": "Liderazgo y gestión de equipos",
-      "schedule": "Lun — 20:30 ART",
-      "start": "30/11/2026",
-      "end": "05/01/2027",
-      "cid": "92600",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
