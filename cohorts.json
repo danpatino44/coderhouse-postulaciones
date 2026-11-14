@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T19:01:04+00:00",
-  "total": 18,
+  "generated_at": "2026-11-14T17:31:25+00:00",
+  "total": 21,
   "cohorts": [
     {
       "id": "6f9d6c9f-34d8-41c6-9545-006107fd62f1",
@@ -196,6 +196,39 @@
       "start": "05/01/2027",
       "end": "17/03/2027",
       "cid": "101160",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "18ef3527-ddbe-4d8e-bd16-bd9c1a196d38",
+      "title": "Business Analytics",
+      "schedule": "Mar — 19:00 ART",
+      "start": "12/01/2027",
+      "end": "02/03/2027",
+      "cid": "103850",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "530eeb81-6063-4759-9436-ce5a8251af68",
+      "title": "Ciberseguridad (diplomatura)",
+      "schedule": "Mar y Jue — 18:30 ART",
+      "start": "12/01/2027",
+      "end": "02/03/2027",
+      "cid": "102350",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e8f8e7e0-f457-4968-955a-6bcec5f9cc7a",
+      "title": "E-commerce",
+      "schedule": "Mar — 19:00 ART",
+      "start": "12/01/2027",
+      "end": "10/03/2027",
+      "cid": "99755",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
