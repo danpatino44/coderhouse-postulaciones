@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T18:19:22+00:00",
-  "total": 22,
+  "generated_at": "2026-11-16T21:28:50+00:00",
+  "total": 24,
   "cohorts": [
     {
       "id": "6f9d6c9f-34d8-41c6-9545-006107fd62f1",
@@ -240,6 +240,28 @@
       "start": "13/01/2027",
       "end": "18/03/2027",
       "cid": "98515",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "e7730386-1f49-43a8-8746-32f045cb85da",
+      "title": "QA Automation",
+      "schedule": "Jue — 20:30 ART",
+      "start": "14/01/2027",
+      "end": "18/02/2027",
+      "cid": "106440",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "1241bde5-2248-4a30-934c-f8761cf323ec",
+      "title": "AI para developers (diplomatura)",
+      "schedule": "Vie — 07:30 ART",
+      "start": "15/01/2027",
+      "end": "19/03/2027",
+      "cid": "102295",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
