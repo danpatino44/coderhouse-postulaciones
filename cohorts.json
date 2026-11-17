@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:28:50+00:00",
+  "generated_at": "2026-11-17T20:17:56+00:00",
   "total": 24,
   "cohorts": [
     {
@@ -212,17 +212,6 @@
       "active": true
     },
     {
-      "id": "530eeb81-6063-4759-9436-ce5a8251af68",
-      "title": "Ciberseguridad (diplomatura)",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "12/01/2027",
-      "end": "02/03/2027",
-      "cid": "102350",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "e8f8e7e0-f457-4968-955a-6bcec5f9cc7a",
       "title": "E-commerce",
       "schedule": "Mar — 19:00 ART",
@@ -251,6 +240,17 @@
       "start": "14/01/2027",
       "end": "18/02/2027",
       "cid": "106440",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7720c387-c981-4d05-872d-3dce045e6b14",
+      "title": "AI para developers (diplomatura)",
+      "schedule": "Vie — 18:30 ART",
+      "start": "15/01/2027",
+      "end": "19/03/2027",
+      "cid": "102355",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
