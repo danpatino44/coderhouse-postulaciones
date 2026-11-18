@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-17T20:17:56+00:00",
-  "total": 24,
+  "generated_at": "2026-11-18T19:48:44+00:00",
+  "total": 25,
   "cohorts": [
     {
-      "id": "6f9d6c9f-34d8-41c6-9545-006107fd62f1",
-      "title": "QA Automation",
-      "schedule": "Mié — 19:00 ART",
-      "start": "25/11/2026",
-      "end": "13/01/2027",
-      "cid": "106435",
-      "modality": "ONLINE",
+      "id": "79b38d5f-52e3-4c6d-adfc-12388c678c32",
+      "title": "WS Speed Unlimited  | Filmmaker Mobile",
+      "schedule": "Vie — 14:30 ART",
+      "start": "20/11/2026",
+      "end": "",
+      "cid": "107175",
+      "modality": "ON_SITE",
       "country": "AR",
       "active": true
     },
@@ -113,17 +113,6 @@
       "active": true
     },
     {
-      "id": "43a04696-491c-4b3f-9dee-1dd8a1c099f4",
-      "title": "Excel",
-      "schedule": "Jue — 19:00 ART",
-      "start": "10/12/2026",
-      "end": "26/02/2027",
-      "cid": "91975",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "34b4fae6-1333-485f-9274-42f4677b722a",
       "title": "Liderazgo y gestión de equipos",
       "schedule": "Lun — 20:30 ART",
@@ -168,23 +157,45 @@
       "active": true
     },
     {
-      "id": "3e370e37-401e-4c13-9091-6f38cedee186",
-      "title": "Canva",
-      "schedule": "Mié — 20:30 ART",
-      "start": "16/12/2026",
-      "end": "28/01/2027",
-      "cid": "90850",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "3747b1b5-f22d-47a0-bf57-63d29a5391c2",
       "title": "Marketing digital",
       "schedule": "Lun — 20:30 ART",
       "start": "04/01/2027",
       "end": "08/03/2027",
       "cid": "101900",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "f9308e50-27bd-49b8-a2fd-2627fa42e619",
+      "title": "Finanzas e inversiones desde cero",
+      "schedule": "Mar — 19:00 ART",
+      "start": "05/01/2027",
+      "end": "16/02/2027",
+      "cid": "106915",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "6ee8c7b7-9261-4e08-b644-ef308e7b01a8",
+      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos",
+      "schedule": "Mar — 19:00 ART",
+      "start": "05/01/2027",
+      "end": "26/01/2027",
+      "cid": "106790",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "afc38cec-ecb1-469a-a38f-d2f7f8be41c4",
+      "title": "Contenido para redes sociales",
+      "schedule": "Mar — 19:00 ART",
+      "start": "05/01/2027",
+      "end": "23/02/2027",
+      "cid": "106725",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
