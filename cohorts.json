@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-18T19:48:44+00:00",
-  "total": 25,
+  "generated_at": "2026-11-19T19:48:42+00:00",
+  "total": 24,
   "cohorts": [
     {
-      "id": "79b38d5f-52e3-4c6d-adfc-12388c678c32",
-      "title": "WS Speed Unlimited  | Filmmaker Mobile",
+      "id": "8c4e9fd6-ec67-4aff-b677-76c3152205b5",
+      "title": "WS Speed Unlimited | Ideación y producción audiovisual con IA",
       "schedule": "Vie — 14:30 ART",
       "start": "20/11/2026",
       "end": "",
-      "cid": "107175",
+      "cid": "107420",
       "modality": "ON_SITE",
       "country": "AR",
       "active": true
@@ -185,17 +185,6 @@
       "start": "05/01/2027",
       "end": "26/01/2027",
       "cid": "106790",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "afc38cec-ecb1-469a-a38f-d2f7f8be41c4",
-      "title": "Contenido para redes sociales",
-      "schedule": "Mar — 19:00 ART",
-      "start": "05/01/2027",
-      "end": "23/02/2027",
-      "cid": "106725",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
