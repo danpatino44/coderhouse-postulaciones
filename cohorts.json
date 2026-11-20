@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-11-19T19:48:42+00:00",
-  "total": 24,
+  "generated_at": "2026-11-20T19:28:53+00:00",
+  "total": 21,
   "cohorts": [
-    {
-      "id": "8c4e9fd6-ec67-4aff-b677-76c3152205b5",
-      "title": "WS Speed Unlimited | Ideación y producción audiovisual con IA",
-      "schedule": "Vie — 14:30 ART",
-      "start": "20/11/2026",
-      "end": "",
-      "cid": "107420",
-      "modality": "ON_SITE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "4c660340-73bc-4e52-97cc-497dfc54fc71",
-      "title": "Machine Learning Supervisado y no Supervisado (diplomatura)",
-      "schedule": "Lun y Mié — 18:30 ART",
-      "start": "30/11/2026",
-      "end": "01/03/2027",
-      "cid": "102670",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "143d9f04-9b75-481b-8e2d-adbb856db248",
-      "title": "Machine Learning Supervisado y no Supervisado (diplomatura)",
-      "schedule": "Lun y Mié — 07:30 ART",
-      "start": "30/11/2026",
-      "end": "01/03/2027",
-      "cid": "102615",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "fdcad9e4-c51c-4d54-ba9d-842c277f6902",
       "title": "Visualización Avanzada e Ingeniería de Características (diplomatura)",
