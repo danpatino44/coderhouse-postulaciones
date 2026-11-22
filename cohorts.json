@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T18:30:55+00:00",
-  "total": 21,
+  "generated_at": "2026-11-22T18:53:39+00:00",
+  "total": 22,
   "cohorts": [
     {
       "id": "fdcad9e4-c51c-4d54-ba9d-842c277f6902",
@@ -229,6 +229,17 @@
       "start": "15/01/2027",
       "end": "19/03/2027",
       "cid": "102295",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "62a59f80-92e7-4269-8e9b-bc30efcb4c36",
+      "title": "Fundamentos del Diseño Gráfico",
+      "schedule": "Mié — 20:30 ART",
+      "start": "20/01/2027",
+      "end": "",
+      "cid": "103650",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
