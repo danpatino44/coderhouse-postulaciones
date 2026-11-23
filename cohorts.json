@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T18:53:39+00:00",
-  "total": 22,
+  "generated_at": "2026-11-23T23:10:07+00:00",
+  "total": 24,
   "cohorts": [
     {
       "id": "fdcad9e4-c51c-4d54-ba9d-842c277f6902",
@@ -240,6 +240,28 @@
       "start": "20/01/2027",
       "end": "",
       "cid": "103650",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "fb05f894-9859-4864-848b-995ef0a5e613",
+      "title": "Forward Deployed Engineer",
+      "schedule": "Jue — 19:00 ART",
+      "start": "21/01/2027",
+      "end": "18/03/2027",
+      "cid": "106385",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "7613e20f-694f-4026-9bce-3f59f8b1ca3c",
+      "title": "Prototipado con Figma",
+      "schedule": "Jue — 19:00 ART",
+      "start": "21/01/2027",
+      "end": "19/03/2027",
+      "cid": "100465",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
