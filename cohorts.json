@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-11-23T23:10:07+00:00",
-  "total": 24,
+  "generated_at": "2026-11-24T21:47:44+00:00",
+  "total": 21,
   "cohorts": [
-    {
-      "id": "fdcad9e4-c51c-4d54-ba9d-842c277f6902",
-      "title": "Visualización Avanzada e Ingeniería de Características (diplomatura)",
-      "schedule": "Mar y Jue — 18:30 ART",
-      "start": "01/12/2026",
-      "end": "09/02/2027",
-      "cid": "102675",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "7751a9e0-c43b-4381-99bf-864907e5b8e9",
-      "title": "Visualización Avanzada e Ingeniería de Características (diplomatura)",
-      "schedule": "Mar y Jue — 07:30 ART",
-      "start": "01/12/2026",
-      "end": "09/02/2027",
-      "cid": "102620",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "3b12d16f-7a43-46f3-960d-4884f5529717",
       "title": "Forward Deployed Engineer",
@@ -229,17 +207,6 @@
       "start": "15/01/2027",
       "end": "19/03/2027",
       "cid": "102295",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "62a59f80-92e7-4269-8e9b-bc30efcb4c36",
-      "title": "Fundamentos del Diseño Gráfico",
-      "schedule": "Mié — 20:30 ART",
-      "start": "20/01/2027",
-      "end": "",
-      "cid": "103650",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
