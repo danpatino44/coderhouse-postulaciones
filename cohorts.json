@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-11-24T21:47:44+00:00",
-  "total": 21,
+  "generated_at": "2026-11-25T20:54:47+00:00",
+  "total": 19,
   "cohorts": [
-    {
-      "id": "3b12d16f-7a43-46f3-960d-4884f5529717",
-      "title": "Forward Deployed Engineer",
-      "schedule": "Mié — 20:30 ART",
-      "start": "02/12/2026",
-      "end": "10/02/2027",
-      "cid": "106380",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
     {
       "id": "9fc356c1-9e8d-4afa-8cde-a9cc709ae564",
       "title": "Estrategia de Marca Personal y Networking (DIPLO AI)",
@@ -31,17 +20,6 @@
       "start": "04/12/2026",
       "end": "18/12/2026",
       "cid": "106415",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "5d0e1cc2-8989-4915-9230-a188a519cb16",
-      "title": "AI Engineering",
-      "schedule": "Mié — 20:30 ART",
-      "start": "09/12/2026",
-      "end": "01/02/2027",
-      "cid": "102140",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
