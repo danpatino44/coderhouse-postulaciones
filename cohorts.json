@@ -1,25 +1,14 @@
 {
-  "generated_at": "2026-11-26T20:46:24+00:00",
-  "total": 19,
+  "generated_at": "2026-11-27T20:31:09+00:00",
+  "total": 18,
   "cohorts": [
     {
-      "id": "9fc356c1-9e8d-4afa-8cde-a9cc709ae564",
-      "title": "Estrategia de Marca Personal y Networking (DIPLO AI)",
-      "schedule": "Vie — 07:30 ART",
-      "start": "04/12/2026",
-      "end": "18/12/2026",
-      "cid": "106420",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
-      "id": "e049e2bb-98ad-4dbd-be96-e9269ab8b0dc",
-      "title": "Estrategia de Marca Personal y Networking (DIPLO AI)",
-      "schedule": "Vie — 18:30 ART",
-      "start": "04/12/2026",
-      "end": "18/12/2026",
-      "cid": "106415",
+      "id": "5d0e1cc2-8989-4915-9230-a188a519cb16",
+      "title": "AI Engineering",
+      "schedule": "Mié — 20:30 ART",
+      "start": "09/12/2026",
+      "end": "01/02/2027",
+      "cid": "102140",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
@@ -190,23 +179,23 @@
       "active": true
     },
     {
-      "id": "fb05f894-9859-4864-848b-995ef0a5e613",
-      "title": "Forward Deployed Engineer",
-      "schedule": "Jue — 19:00 ART",
-      "start": "21/01/2027",
-      "end": "18/03/2027",
-      "cid": "106385",
-      "modality": "ONLINE",
-      "country": "AR",
-      "active": true
-    },
-    {
       "id": "7613e20f-694f-4026-9bce-3f59f8b1ca3c",
       "title": "Prototipado con Figma",
       "schedule": "Jue — 19:00 ART",
       "start": "21/01/2027",
       "end": "19/03/2027",
       "cid": "100465",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "695d531c-f851-4d8e-b012-91e59a1a7067",
+      "title": "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos",
+      "schedule": "Lun — 20:30 ART",
+      "start": "25/01/2027",
+      "end": "01/03/2027",
+      "cid": "106795",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
