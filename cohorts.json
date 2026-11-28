@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T20:31:09+00:00",
-  "total": 18,
+  "generated_at": "2026-11-28T19:24:57+00:00",
+  "total": 19,
   "cohorts": [
     {
       "id": "5d0e1cc2-8989-4915-9230-a188a519cb16",
@@ -196,6 +196,17 @@
       "start": "25/01/2027",
       "end": "01/03/2027",
       "cid": "106795",
+      "modality": "ONLINE",
+      "country": "AR",
+      "active": true
+    },
+    {
+      "id": "8f5541c7-9278-40c4-a285-f659c6f9c2ad",
+      "title": "Fundamentos del Marketing digital",
+      "schedule": "Mar — 19:00 ART",
+      "start": "26/01/2027",
+      "end": "16/03/2027",
+      "cid": "107180",
       "modality": "ONLINE",
       "country": "AR",
       "active": true
